@@ -1,0 +1,50 @@
+[
+  {
+    "name": "John F. Kennedy International Airport",
+    "ssid": "JFK_WiFi"
+  },
+  {
+    "name": "Los Angeles International Airport",
+    "ssid": "LAX_Free_WiFi"
+  },
+  {
+    "name": "O'Hare International Airport",
+    "ssid": "ORD_Connect"
+  },
+  {
+    "name": "Heathrow Airport",
+    "ssid": "LHR_WiFi"
+  },
+  {
+    "name": "Charles de Gaulle Airport",
+    "ssid": "CDG_Internet"
+  },
+  {
+    "name": "Tokyo Haneda Airport",
+    "ssid": "HND_Free_WiFi"
+  },
+  {
+    "name": "Sydney Airport",
+    "ssid": "SYD_Connect"
+  },
+  {
+    "name": "Toronto Pearson International Airport",
+    "ssid": "YYZ_WiFi"
+  },
+  {
+    "name": "Dubai International Airport",
+    "ssid": "DXB_WiFi"
+  },
+  {
+    "name": "Singapore Changi Airport",
+    "ssid": "SIN_Free_WiFi"
+  },
+  {
+    "name": "Hong Kong International Airport",
+    "ssid": "HKG_Connect"
+  },
+  {
+    "name": "Amsterdam Airport Schiphol",
+    "ssid": "AMS_WiFi"
+  }
+]
