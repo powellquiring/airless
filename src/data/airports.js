@@ -1,7 +1,67 @@
-// SSID (Service Set Identifier) is the official WiFi network name provided by each airport
-// for WiFi configuration and connection purposes
-// NOTE: The SSID names below are estimates and should be verified with official airport sources
-// for accurate WiFi network names
-export const airportData = [
-  { name: "Portland International Airport", ssid: "flypdx", iata: "PDX", city: "Portland", state: "Oregon", country: "United States", faa: "", icao: "", role: "", enplanements: 0 }
-]; 
+// Airport data structure for US airports with FAA, IATA, and ICAO codes
+// NOTE: This data comes from a comprehensive list of US airports
+
+/**
+ * Simple validation to ensure each airport has all required fields
+ * @param {any[]} airports - Array of airport objects
+ * @returns {any[]} - Validated array
+ */
+function validateAirports(airports) {
+  if (!Array.isArray(airports)) {
+    throw new Error('Airports data must be an array');
+  }
+  
+  return airports.filter(airport => {
+    const isValid = airport && 
+                   typeof airport.City === 'string' &&
+                   typeof airport.FAA === 'string' &&
+                   typeof airport.IATA === 'string' &&
+                   typeof airport.ICAO === 'string' &&
+                   typeof airport.Airport === 'string' &&
+                   typeof airport.Role === 'string' &&
+                   typeof airport.Enplanements === 'string' &&
+                   typeof airport.State === 'string' &&
+                   typeof airport.StateAbbreviation === 'string';
+    
+    if (!isValid) {
+      console.warn('Invalid airport found:', airport);
+    }
+    
+    return isValid;
+  });
+}
+
+// Function to fetch airport data from the JSON file
+export async function fetchAirportData() {
+  try {
+    const response = await fetch('/airports.json');
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data = await response.json();
+    
+    // Validate the data structure
+    const validatedData = validateAirports(data);
+    return validatedData;
+    
+  } catch (error) {
+    console.error('Error fetching airport data:', error);
+    // Return fallback data if fetch fails
+    return [
+      { 
+        City: "Portland",
+        FAA: "PDX",
+        IATA: "PDX", 
+        ICAO: "KPDX",
+        Airport: "Portland International Airport",
+        Role: "P-S",
+        Enplanements: "1,000,000",
+        State: "OREGON",
+        StateAbbreviation: "OR"
+      }
+    ];
+  }
+}
+
+// Legacy export for backward compatibility (returns empty array initially)
+export const airportData = []; 
