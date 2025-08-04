@@ -9,7 +9,7 @@
         "Enplanements": "1,081,328",
         "State": "ALABAMA",
         "StateAbbreviation": "AL",
-        "extra": "xx"
+        "SSID": "Fly_BHM_WiFi"
     },
     {
         "City": "Dothan",
@@ -20,7 +20,8 @@
         "Role": "P-N",
         "Enplanements": "37,047",
         "State": "ALABAMA",
-        "StateAbbreviation": "AL"
+        "StateAbbreviation": "AL",
+        "SSID": "DHN-Public-WiFi"
     },
     {
         "City": "Huntsville",
@@ -31,7 +32,8 @@
         "Role": "P-S",
         "Enplanements": "459,759",
         "State": "ALABAMA",
-        "StateAbbreviation": "AL"
+        "StateAbbreviation": "AL",
+        "SSID": "FlyHSVWifi"
     },
     {
         "City": "Mobile",
@@ -42,7 +44,8 @@
         "Role": "P-N",
         "Enplanements": "236,007",
         "State": "ALABAMA",
-        "StateAbbreviation": "AL"
+        "StateAbbreviation": "AL",
+        "SSID": "Mobile_Airport_WiFi"
     },
     {
         "City": "Montgomery",
@@ -53,7 +56,8 @@
         "Role": "P-N",
         "Enplanements": "129,033",
         "State": "ALABAMA",
-        "StateAbbreviation": "AL"
+        "StateAbbreviation": "AL",
+        "SSID": "MGM_FREE_WIFI"
     },
     {
         "City": "Anchorage",
@@ -64,7 +68,8 @@
         "Role": "P-N",
         "Enplanements": "22,907",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "ANCHORAGE-MRI-AIRPORT"
     },
     {
         "City": "Anchorage",
@@ -75,7 +80,8 @@
         "Role": "P-M",
         "Enplanements": "2,184,959",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "ANC Free WiFi"
     },
     {
         "City": "Bethel",
@@ -86,7 +92,8 @@
         "Role": "P-N",
         "Enplanements": "105,877",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "BetheWiFi"
     },
     {
         "City": "Cordova",
@@ -97,7 +104,8 @@
         "Role": "P-N",
         "Enplanements": "15,058",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "CDVAirportWiFi"
     },
     {
         "City": "Deadhorse",
@@ -108,7 +116,8 @@
         "Role": "P-N",
         "Enplanements": "64,245",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "ADK-FreeWifi"
     },
     {
         "City": "Dillingham",
@@ -119,7 +128,8 @@
         "Role": "P-N",
         "Enplanements": "25,988",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "AirportDLG"
     },
     {
         "City": "Fairbanks",
@@ -130,7 +140,8 @@
         "Role": "P-S",
         "Enplanements": "450,694",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "FAI-Public-Guest"
     },
     {
         "City": "Gustavus",
@@ -141,7 +152,8 @@
         "Role": "P-N",
         "Enplanements": "10,305",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "AirportGSTWiFi"
     },
     {
         "City": "Homer",
@@ -152,7 +164,8 @@
         "Role": "P-N",
         "Enplanements": "30,972",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "HOM Free WiFi"
     },
     {
         "City": "Juneau",
@@ -163,7 +176,8 @@
         "Role": "P-N",
         "Enplanements": "306,512",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "JNU Public WiFi"
     },
     {
         "City": "Kenai",
@@ -174,7 +188,8 @@
         "Role": "P-N",
         "Enplanements": "68,044",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "ENA_Free_WiFi"
     },
     {
         "City": "Ketchikan",
@@ -185,7 +200,8 @@
         "Role": "P-N",
         "Enplanements": "117,728",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "KTN-Public-WiFi"
     },
     {
         "City": "King Salmon",
@@ -196,7 +212,8 @@
         "Role": "P-N",
         "Enplanements": "29,914",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "AKN-Guest-745"
     },
     {
         "City": "Klawock",
@@ -207,7 +224,8 @@
         "Role": "P-N",
         "Enplanements": "14,157",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "Airport_KLW"
     },
     {
         "City": "Kodiak",
@@ -218,7 +236,8 @@
         "Role": "P-N",
         "Enplanements": "72,905",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "ADQ_FREE_WIFI"
     },
     {
         "City": "Kotzebue",
@@ -229,7 +248,8 @@
         "Role": "P-N",
         "Enplanements": "46,305",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "OTZ Airport WiFi"
     },
     {
         "City": "Nome",
@@ -240,7 +260,8 @@
         "Role": "P-N",
         "Enplanements": "46,645",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "Airport_NOME_WiFi"
     },
     {
         "City": "Petersburg",
@@ -251,7 +272,8 @@
         "Role": "P-N",
         "Enplanements": "20,690",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "PSG_PublicWiFi"
     },
     {
         "City": "Sitka",
@@ -262,7 +284,8 @@
         "Role": "P-N",
         "Enplanements": "80,366",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "SITKA-WIFI"
     },
     {
         "City": "Unalaska",
@@ -273,7 +296,8 @@
         "Role": "P-N",
         "Enplanements": "19,099",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "Airport Wifi"
     },
     {
         "City": "Utqia\u0121vik(Barrow)",
@@ -284,7 +308,8 @@
         "Role": "P-N",
         "Enplanements": "31,898",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "BRW Free WiFi"
     },
     {
         "City": "Wrangell",
@@ -295,7 +320,8 @@
         "Role": "P-N",
         "Enplanements": "12,100",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "Airport-WRG-WIFI"
     },
     {
         "City": "Yakutat",
@@ -306,7 +332,8 @@
         "Role": "P-N",
         "Enplanements": "10,899",
         "State": "ALASKA",
-        "StateAbbreviation": "AK"
+        "StateAbbreviation": "AK",
+        "SSID": "YAK_FreeWiFi"
     },
     {
         "City": "Flagstaff",
@@ -317,7 +344,8 @@
         "Role": "P-N",
         "Enplanements": "115,596",
         "State": "ARIZONA",
-        "StateAbbreviation": "AZ"
+        "StateAbbreviation": "AZ",
+        "SSID": "FLG-Public-WiFi"
     },
     {
         "City": "Mesa",
@@ -328,7 +356,8 @@
         "Role": "P-S",
         "Enplanements": "795,407",
         "State": "ARIZONA",
-        "StateAbbreviation": "AZ"
+        "StateAbbreviation": "AZ",
+        "SSID": "FlyMesaAZA"
     },
     {
         "City": "Page",
@@ -339,7 +368,8 @@
         "Role": "P-N",
         "Enplanements": "14,340",
         "State": "ARIZONA",
-        "StateAbbreviation": "AZ"
+        "StateAbbreviation": "AZ",
+        "SSID": "PGA-WiFi"
     },
     {
         "City": "Phoenix",
@@ -350,7 +380,8 @@
         "Role": "P-L",
         "Enplanements": "18,940,287",
         "State": "ARIZONA",
-        "StateAbbreviation": "AZ"
+        "StateAbbreviation": "AZ",
+        "SSID": "PHXWIFI"
     },
     {
         "City": "Prescott",
@@ -361,7 +392,8 @@
         "Role": "P-N",
         "Enplanements": "23,598",
         "State": "ARIZONA",
-        "StateAbbreviation": "AZ"
+        "StateAbbreviation": "AZ",
+        "SSID": "AirportGuestWiFi"
     },
     {
         "City": "Tucson",
@@ -372,7 +404,8 @@
         "Role": "P-S",
         "Enplanements": "1,323,536",
         "State": "ARIZONA",
-        "StateAbbreviation": "AZ"
+        "StateAbbreviation": "AZ",
+        "SSID": "flytucsonwifi"
     },
     {
         "City": "Yuma",
@@ -383,7 +416,8 @@
         "Role": "P-N",
         "Enplanements": "110,182",
         "State": "ARIZONA",
-        "StateAbbreviation": "AZ"
+        "StateAbbreviation": "AZ",
+        "SSID": "YumaAirportWiFi"
     },
     {
         "City": "Fayetteville",
@@ -394,7 +428,8 @@
         "Role": "P-S",
         "Enplanements": "598,787",
         "State": "ARKANSAS",
-        "StateAbbreviation": "AR"
+        "StateAbbreviation": "AR",
+        "SSID": "XNA-WiFi"
     },
     {
         "City": "Fort Smith",
@@ -405,7 +440,8 @@
         "Role": "P-N",
         "Enplanements": "45,369",
         "State": "ARKANSAS",
-        "StateAbbreviation": "AR"
+        "StateAbbreviation": "AR",
+        "SSID": "FSM-GuestWiFi"
     },
     {
         "City": "Little Rock",
@@ -416,7 +452,8 @@
         "Role": "P-S",
         "Enplanements": "827,922",
         "State": "ARKANSAS",
-        "StateAbbreviation": "AR"
+        "StateAbbreviation": "AR",
+        "SSID": "LIT_Free_WiFi"
     },
     {
         "City": "Texarkana",
@@ -427,7 +464,8 @@
         "Role": "P-N",
         "Enplanements": "26,888",
         "State": "ARKANSAS",
-        "StateAbbreviation": "AR"
+        "StateAbbreviation": "AR",
+        "SSID": "TXK_WIFI"
     },
     {
         "City": "Arcata/Eureka",
@@ -438,7 +476,8 @@
         "Role": "P-N",
         "Enplanements": "117,972",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "FlyHumboldt"
     },
     {
         "City": "Bakersfield",
@@ -449,7 +488,8 @@
         "Role": "P-N",
         "Enplanements": "174,891",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "BFL_FREE_WIFI"
     },
     {
         "City": "Burbank",
@@ -460,7 +500,8 @@
         "Role": "P-M",
         "Enplanements": "3,132,019",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "flyBUR."
     },
     {
         "City": "Fresno",
@@ -471,7 +512,8 @@
         "Role": "P-S",
         "Enplanements": "1,201,789",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "FAT Free WiFi"
     },
     {
         "City": "Long Beach",
@@ -482,7 +524,8 @@
         "Role": "P-S",
         "Enplanements": "1,837,622",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "LGB Free WiFi"
     },
     {
         "City": "Los Angeles",
@@ -493,7 +536,8 @@
         "Role": "P-L",
         "Enplanements": "36,676,975",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "#FlyLAXWiFi"
     },
     {
         "City": "Monterey",
@@ -504,7 +548,8 @@
         "Role": "P-N",
         "Enplanements": "259,762",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "FLY MONTEREYWiFi"
     },
     {
         "City": "Oakland",
@@ -515,7 +560,8 @@
         "Role": "P-M",
         "Enplanements": "5,520,778",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "FlyOAK"
     },
     {
         "City": "Ontario",
@@ -526,7 +572,8 @@
         "Role": "P-M",
         "Enplanements": "3,181,161",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "FlyOntarioWifi"
     },
     {
         "City": "Palm Springs",
@@ -537,7 +584,8 @@
         "Role": "P-S",
         "Enplanements": "1,625,320",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "flyPSP"
     },
     {
         "City": "Redding",
@@ -548,7 +596,8 @@
         "Role": "P-N",
         "Enplanements": "87,670",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "RDD_PUBLIC_WIFI"
     },
     {
         "City": "Sacramento",
@@ -559,7 +608,8 @@
         "Role": "P-M",
         "Enplanements": "6,371,895",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "The recommended public SSID for wifi at Sacramento Airport is \"SMF-Guest.\""
     },
     {
         "City": "San Diego",
@@ -570,7 +620,8 @@
         "Role": "P-L",
         "Enplanements": "12,190,159",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "@SAN-Free-WiFi"
     },
     {
         "City": "San Francisco",
@@ -581,7 +632,8 @@
         "Role": "P-L",
         "Enplanements": "24,191,117",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "#SFO FREE WIFI"
     },
     {
         "City": "San Jose",
@@ -592,7 +644,8 @@
         "Role": "P-M",
         "Enplanements": "5,958,813",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "#SJC Free WiFi"
     },
     {
         "City": "San Luis Obispo",
@@ -603,7 +656,8 @@
         "Role": "P-N",
         "Enplanements": "324,925",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "Airport_WiFi"
     },
     {
         "City": "Santa Ana",
@@ -614,7 +668,8 @@
         "Role": "P-M",
         "Enplanements": "5,706,292",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "Airport-FreeWifi"
     },
     {
         "City": "Santa Barbara",
@@ -625,7 +680,8 @@
         "Role": "P-S",
         "Enplanements": "638,799",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "SBA-Public-WiFi"
     },
     {
         "City": "Santa Maria",
@@ -636,7 +692,8 @@
         "Role": "P-N",
         "Enplanements": "14,409",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "SMX_Free_WiFi"
     },
     {
         "City": "Santa Rosa",
@@ -647,7 +704,8 @@
         "Role": "P-N",
         "Enplanements": "318,196",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "STS-FreeWiFi"
     },
     {
         "City": "Stockton",
@@ -658,7 +716,8 @@
         "Role": "P-N",
         "Enplanements": "67,688",
         "State": "CALIFORNIA",
-        "StateAbbreviation": "CA"
+        "StateAbbreviation": "CA",
+        "SSID": "FlyStocktonWiFi"
     },
     {
         "City": "Alamosa",
@@ -669,7 +728,8 @@
         "Role": "P-N",
         "Enplanements": "11,987",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "FlyAlamosaWifi"
     },
     {
         "City": "Aspen",
@@ -680,7 +740,8 @@
         "Role": "P-N",
         "Enplanements": "248,781",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "ASE-Guest-WiFi"
     },
     {
         "City": "Colorado Springs",
@@ -691,7 +752,8 @@
         "Role": "P-S",
         "Enplanements": "941,917",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "FlyCOS-Guest"
     },
     {
         "City": "Denver",
@@ -702,7 +764,8 @@
         "Role": "P-L",
         "Enplanements": "28,645,527",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "DEN Airport WiFi"
     },
     {
         "City": "Durango",
@@ -713,7 +776,8 @@
         "Role": "P-N",
         "Enplanements": "200,245",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "Airport DRO_FreeWiFi"
     },
     {
         "City": "Eagle/Vail",
@@ -724,7 +788,8 @@
         "Role": "P-N",
         "Enplanements": "201,752",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "FlyVailGuestWiFi"
     },
     {
         "City": "Grand Junction",
@@ -735,7 +800,8 @@
         "Role": "P-N",
         "Enplanements": "252,290",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "GJT-FreeWiFi"
     },
     {
         "City": "Gunnison",
@@ -746,7 +812,8 @@
         "Role": "P-N",
         "Enplanements": "38,783",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "GUC_Free_WiFi"
     },
     {
         "City": "Hayden",
@@ -757,7 +824,8 @@
         "Role": "P-N",
         "Enplanements": "150,142",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "HDN-Public-WiFi"
     },
     {
         "City": "Montrose",
@@ -768,7 +836,8 @@
         "Role": "P-N",
         "Enplanements": "188,355",
         "State": "COLORADO",
-        "StateAbbreviation": "CO"
+        "StateAbbreviation": "CO",
+        "SSID": "MTJ Free WiFi"
     },
     {
         "City": "Hartford",
@@ -779,7 +848,8 @@
         "Role": "P-M",
         "Enplanements": "3,327,272",
         "State": "CONNECTICUT",
-        "StateAbbreviation": "CT"
+        "StateAbbreviation": "CT",
+        "SSID": "BDL Free Wifi"
     },
     {
         "City": "New Haven",
@@ -790,7 +860,8 @@
         "Role": "P-N",
         "Enplanements": "588,000",
         "State": "CONNECTICUT",
-        "StateAbbreviation": "CT"
+        "StateAbbreviation": "CT",
+        "SSID": "HVN_FREE_WIFI"
     },
     {
         "City": "Wilmington",
@@ -801,7 +872,8 @@
         "Role": "P-N",
         "Enplanements": "133,377",
         "State": "DELAWARE",
-        "StateAbbreviation": "DE"
+        "StateAbbreviation": "DE",
+        "SSID": "ILG_FREE_WIFI"
     },
     {
         "City": "Daytona Beach",
@@ -812,7 +884,8 @@
         "Role": "P-N",
         "Enplanements": "275,166",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "DAB-FreeWifi"
     },
     {
         "City": "Fort Lauderdale",
@@ -823,7 +896,8 @@
         "Role": "P-L",
         "Enplanements": "13,598,994",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "FLL Guest WiFi"
     },
     {
         "City": "Fort Myers",
@@ -834,7 +908,8 @@
         "Role": "P-M",
         "Enplanements": "5,080,805",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "RSW_FREE_WIFI"
     },
     {
         "City": "Fort Walton Beach",
@@ -845,7 +920,8 @@
         "Role": "P-S",
         "Enplanements": "973,477",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "FWB Airport WiFi"
     },
     {
         "City": "Gainesville",
@@ -856,7 +932,8 @@
         "Role": "P-N",
         "Enplanements": "200,444",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "GNV-WiFi"
     },
     {
         "City": "Jacksonville",
@@ -867,7 +944,8 @@
         "Role": "P-M",
         "Enplanements": "2,425,685",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "@JAX_WIFI"
     },
     {
         "City": "Key West",
@@ -878,7 +956,8 @@
         "Role": "P-S",
         "Enplanements": "741,130",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "EYW_Free_Wifi"
     },
     {
         "City": "Melbourne",
@@ -889,7 +968,8 @@
         "Role": "P-N",
         "Enplanements": "176,820",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "MLB Free Wifi"
     },
     {
         "City": "Miami",
@@ -900,7 +980,8 @@
         "Role": "P-L",
         "Enplanements": "17,500,096",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "MIA-WiFi"
     },
     {
         "City": "Orlando",
@@ -911,7 +992,8 @@
         "Role": "P-L",
         "Enplanements": "19,618,838",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "MCO Free WiFi"
     },
     {
         "City": "Panama City",
@@ -922,7 +1004,8 @@
         "Role": "P-S",
         "Enplanements": "794,846",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "ECP_FREE_WIFI"
     },
     {
         "City": "Pensacola",
@@ -933,7 +1016,8 @@
         "Role": "P-S",
         "Enplanements": "1,168,575",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "PNS Free Wifi"
     },
     {
         "City": "Punta Gorda",
@@ -944,7 +1028,8 @@
         "Role": "P-S",
         "Enplanements": "783,397",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "PGD Free WiFi"
     },
     {
         "City": "Sanford",
@@ -955,7 +1040,8 @@
         "Role": "P-S",
         "Enplanements": "1,174,471",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "FlySFBWiFi"
     },
     {
         "City": "Sarasota",
@@ -966,7 +1052,8 @@
         "Role": "P-S",
         "Enplanements": "1,574,063",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "SRQ_Free_WiFi"
     },
     {
         "City": "St. Petersburg",
@@ -977,7 +1064,8 @@
         "Role": "P-S",
         "Enplanements": "1,021,007",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "PIE Free WiFi"
     },
     {
         "City": "Tallahassee",
@@ -988,7 +1076,8 @@
         "Role": "P-N",
         "Enplanements": "319,886",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "TLHAIRPORT-WIFI"
     },
     {
         "City": "Tampa",
@@ -999,7 +1088,8 @@
         "Role": "P-L",
         "Enplanements": "8,847,197",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "TPA_Free_WiFi"
     },
     {
         "City": "West Palm Beach",
@@ -1010,7 +1100,8 @@
         "Role": "P-M",
         "Enplanements": "2,567,897",
         "State": "FLORIDA",
-        "StateAbbreviation": "FL"
+        "StateAbbreviation": "FL",
+        "SSID": "PBI-WiFi"
     },
     {
         "City": "Albany",
@@ -1021,7 +1112,8 @@
         "Role": "P-N",
         "Enplanements": "39,422",
         "State": "GEORGIA",
-        "StateAbbreviation": "GA"
+        "StateAbbreviation": "GA",
+        "SSID": "FlyAlbanyWiFi"
     },
     {
         "City": "Atlanta",
@@ -1032,7 +1124,8 @@
         "Role": "P-L",
         "Enplanements": "51,865,797",
         "State": "GEORGIA",
-        "StateAbbreviation": "GA"
+        "StateAbbreviation": "GA",
+        "SSID": "ATL Free Wi-Fi"
     },
     {
         "City": "Augusta",
@@ -1043,7 +1136,8 @@
         "Role": "P-N",
         "Enplanements": "300,598",
         "State": "GEORGIA",
-        "StateAbbreviation": "GA"
+        "StateAbbreviation": "GA",
+        "SSID": "AGS-Guest-WiFi"
     },
     {
         "City": "Brunswick",
@@ -1054,7 +1148,8 @@
         "Role": "P-N",
         "Enplanements": "40,443",
         "State": "GEORGIA",
-        "StateAbbreviation": "GA"
+        "StateAbbreviation": "GA",
+        "SSID": "BQK_WiFi"
     },
     {
         "City": "Columbus",
@@ -1065,7 +1160,8 @@
         "Role": "P-N",
         "Enplanements": "49,354",
         "State": "GEORGIA",
-        "StateAbbreviation": "GA"
+        "StateAbbreviation": "GA",
+        "SSID": "CSG-WiFi"
     },
     {
         "City": "Macon",
@@ -1076,7 +1172,8 @@
         "Role": "P-N",
         "Enplanements": "15,431",
         "State": "GEORGIA",
-        "StateAbbreviation": "GA"
+        "StateAbbreviation": "GA",
+        "SSID": "AirportMCN"
     },
     {
         "City": "Savannah",
@@ -1087,7 +1184,8 @@
         "Role": "P-S",
         "Enplanements": "1,356,660",
         "State": "GEORGIA",
-        "StateAbbreviation": "GA"
+        "StateAbbreviation": "GA",
+        "SSID": "FlySAV-WiFi"
     },
     {
         "City": "Valdosta",
@@ -1098,7 +1196,8 @@
         "Role": "P-N",
         "Enplanements": "44,609",
         "State": "GEORGIA",
-        "StateAbbreviation": "GA"
+        "StateAbbreviation": "GA",
+        "SSID": "VLD-PublicWifi"
     },
     {
         "City": "Hilo, Hawaii",
@@ -1109,7 +1208,8 @@
         "Role": "P-S",
         "Enplanements": "599,148",
         "State": "HAWAII",
-        "StateAbbreviation": "HI"
+        "StateAbbreviation": "HI",
+        "SSID": "ITO_FREE_WIFI"
     },
     {
         "City": "Honolulu, Oahu",
@@ -1120,7 +1220,8 @@
         "Role": "P-M",
         "Enplanements": "10,017,149",
         "State": "HAWAII",
-        "StateAbbreviation": "HI"
+        "StateAbbreviation": "HI",
+        "SSID": "HNL_FREE_WIFI"
     },
     {
         "City": "Kahului, Maui",
@@ -1131,7 +1232,8 @@
         "Role": "P-M",
         "Enplanements": "3,571,660",
         "State": "HAWAII",
-        "StateAbbreviation": "HI"
+        "StateAbbreviation": "HI",
+        "SSID": "OGG Free WiFi"
     },
     {
         "City": "Kailua-Kona, Hawaii",
@@ -1142,7 +1244,8 @@
         "Role": "P-S",
         "Enplanements": "1,829,020",
         "State": "HAWAII",
-        "StateAbbreviation": "HI"
+        "StateAbbreviation": "HI",
+        "SSID": "KOA_FREE_WIFI"
     },
     {
         "City": "Kaunakakai, Molokai",
@@ -1153,7 +1256,8 @@
         "Role": "P-N",
         "Enplanements": "79,336",
         "State": "HAWAII",
-        "StateAbbreviation": "HI"
+        "StateAbbreviation": "HI",
+        "SSID": "MKK_FREE_WIFI"
     },
     {
         "City": "Lanai City, Lanai",
@@ -1164,7 +1268,8 @@
         "Role": "P-N",
         "Enplanements": "42,061",
         "State": "HAWAII",
-        "StateAbbreviation": "HI"
+        "StateAbbreviation": "HI",
+        "SSID": "LNY-FreeWiFi"
     },
     {
         "City": "Lihue, Kauai",
@@ -1175,7 +1280,8 @@
         "Role": "P-S",
         "Enplanements": "1,644,590",
         "State": "HAWAII",
-        "StateAbbreviation": "HI"
+        "StateAbbreviation": "HI",
+        "SSID": "LIH-Guest-WiFi"
     },
     {
         "City": "Boise",
@@ -1186,7 +1292,8 @@
         "Role": "P-M",
         "Enplanements": "1,943,181",
         "State": "IDAHO",
-        "StateAbbreviation": "ID"
+        "StateAbbreviation": "ID",
+        "SSID": "BOI FREE WIFI"
     },
     {
         "City": "Hailey/Sun Valley",
@@ -1197,7 +1304,8 @@
         "Role": "P-N",
         "Enplanements": "93,280",
         "State": "IDAHO",
-        "StateAbbreviation": "ID"
+        "StateAbbreviation": "ID",
+        "SSID": "SUN_Free_WiFi"
     },
     {
         "City": "Idaho Falls",
@@ -1208,7 +1316,8 @@
         "Role": "P-N",
         "Enplanements": "161,019",
         "State": "IDAHO",
-        "StateAbbreviation": "ID"
+        "StateAbbreviation": "ID",
+        "SSID": "IDA-FreeWiFi"
     },
     {
         "City": "Lewiston",
@@ -1219,7 +1328,8 @@
         "Role": "P-N",
         "Enplanements": "57,957",
         "State": "IDAHO",
-        "StateAbbreviation": "ID"
+        "StateAbbreviation": "ID",
+        "SSID": "AirportWiFi"
     },
     {
         "City": "Pocatello",
@@ -1230,7 +1340,8 @@
         "Role": "P-N",
         "Enplanements": "46,303",
         "State": "IDAHO",
-        "StateAbbreviation": "ID"
+        "StateAbbreviation": "ID",
+        "SSID": "PIH_FREE_WIFI"
     },
     {
         "City": "Twin Falls",
@@ -1241,7 +1352,8 @@
         "Role": "P-N",
         "Enplanements": "47,084",
         "State": "IDAHO",
-        "StateAbbreviation": "ID"
+        "StateAbbreviation": "ID",
+        "SSID": "TWF Public WiFi"
     },
     {
         "City": "Belleville",
@@ -1252,7 +1364,8 @@
         "Role": "P-N",
         "Enplanements": "147,421",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "BLV Free WiFi"
     },
     {
         "City": "Bloomington/Normal",
@@ -1263,7 +1376,8 @@
         "Role": "P-N",
         "Enplanements": "164,672",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "FLYBMI_WIFI"
     },
     {
         "City": "Champaign/Urbana/Savoy",
@@ -1274,7 +1388,8 @@
         "Role": "P-N",
         "Enplanements": "70,184",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "CMI_PublicWiFi"
     },
     {
         "City": "Chicago",
@@ -1285,7 +1400,8 @@
         "Role": "P-L",
         "Enplanements": "10,659,520",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "MDW-WiFi"
     },
     {
         "City": "Chicago",
@@ -1296,7 +1412,8 @@
         "Role": "P-L",
         "Enplanements": "35,843,104",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "FlyChicago Free Wifi"
     },
     {
         "City": "Decatur",
@@ -1307,7 +1424,8 @@
         "Role": "P-N",
         "Enplanements": "11,216",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "DEC Airport WiFi"
     },
     {
         "City": "Marion",
@@ -1318,7 +1436,8 @@
         "Role": "P-N",
         "Enplanements": "10,558",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "MWA Public WiFi"
     },
     {
         "City": "Moline",
@@ -1329,7 +1448,8 @@
         "Role": "P-N",
         "Enplanements": "272,481",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "MLIAirportWiFi"
     },
     {
         "City": "Peoria",
@@ -1340,7 +1460,8 @@
         "Role": "P-N",
         "Enplanements": "315,482",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "PIA-FreeWiFi"
     },
     {
         "City": "Rockford",
@@ -1351,7 +1472,8 @@
         "Role": "P-N",
         "Enplanements": "120,494",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "FlyRFD-WiFi"
     },
     {
         "City": "Springfield",
@@ -1362,7 +1484,8 @@
         "Role": "P-N",
         "Enplanements": "50,513",
         "State": "ILLINOIS",
-        "StateAbbreviation": "IL"
+        "StateAbbreviation": "IL",
+        "SSID": "SPI_FREE_WIFI"
     },
     {
         "City": "Evansville",
@@ -1373,7 +1496,8 @@
         "Role": "P-N",
         "Enplanements": "228,850",
         "State": "INDIANA",
-        "StateAbbreviation": "IN"
+        "StateAbbreviation": "IN",
+        "SSID": "EVV-PUBLIC-WIFI"
     },
     {
         "City": "Fort Wayne",
@@ -1384,7 +1508,8 @@
         "Role": "P-S",
         "Enplanements": "372,030",
         "State": "INDIANA",
-        "StateAbbreviation": "IN"
+        "StateAbbreviation": "IN",
+        "SSID": "FWA Free WiFi"
     },
     {
         "City": "Indianapolis",
@@ -1395,7 +1520,8 @@
         "Role": "P-M",
         "Enplanements": "4,655,847",
         "State": "INDIANA",
-        "StateAbbreviation": "IN"
+        "StateAbbreviation": "IN",
+        "SSID": "IND-Public-WiFi"
     },
     {
         "City": "South Bend",
@@ -1406,7 +1532,8 @@
         "Role": "P-S",
         "Enplanements": "366,617",
         "State": "INDIANA",
-        "StateAbbreviation": "IN"
+        "StateAbbreviation": "IN",
+        "SSID": "SBN_PublicWiFi"
     },
     {
         "City": "Cedar Rapids",
@@ -1417,7 +1544,8 @@
         "Role": "P-S",
         "Enplanements": "602,058",
         "State": "IOWA",
-        "StateAbbreviation": "IA"
+        "StateAbbreviation": "IA",
+        "SSID": "CID_FREE_WIFI"
     },
     {
         "City": "Des Moines",
@@ -1428,7 +1556,8 @@
         "Role": "P-S",
         "Enplanements": "1,347,876",
         "State": "IOWA",
-        "StateAbbreviation": "IA"
+        "StateAbbreviation": "IA",
+        "SSID": "DSM-FreeWiFi"
     },
     {
         "City": "Dubuque",
@@ -1439,7 +1568,8 @@
         "Role": "P-N",
         "Enplanements": "38,831",
         "State": "IOWA",
-        "StateAbbreviation": "IA"
+        "StateAbbreviation": "IA",
+        "SSID": "DubuqueAirportWiFi"
     },
     {
         "City": "Sioux City",
@@ -1450,7 +1580,8 @@
         "Role": "P-N",
         "Enplanements": "44,779",
         "State": "IOWA",
-        "StateAbbreviation": "IA"
+        "StateAbbreviation": "IA",
+        "SSID": "FlySuxWiFi"
     },
     {
         "City": "Waterloo",
@@ -1461,7 +1592,8 @@
         "Role": "P-N",
         "Enplanements": "23,892",
         "State": "IOWA",
-        "StateAbbreviation": "IA"
+        "StateAbbreviation": "IA",
+        "SSID": "ALO_WIFI"
     },
     {
         "City": "Garden City",
@@ -1472,7 +1604,8 @@
         "Role": "P-N",
         "Enplanements": "25,243",
         "State": "KANSAS",
-        "StateAbbreviation": "KS"
+        "StateAbbreviation": "KS",
+        "SSID": "GCK_FREE_WIFI"
     },
     {
         "City": "Hays",
@@ -1483,7 +1616,8 @@
         "Role": "P-N",
         "Enplanements": "11,996",
         "State": "KANSAS",
-        "StateAbbreviation": "KS"
+        "StateAbbreviation": "KS",
+        "SSID": "HaysAirportWiFi"
     },
     {
         "City": "Manhattan",
@@ -1494,7 +1628,8 @@
         "Role": "P-N",
         "Enplanements": "72,883",
         "State": "KANSAS",
-        "StateAbbreviation": "KS"
+        "StateAbbreviation": "KS",
+        "SSID": "Airport_MHK-WiFi"
     },
     {
         "City": "Salina",
@@ -1505,7 +1640,8 @@
         "Role": "P-N",
         "Enplanements": "15,977",
         "State": "KANSAS",
-        "StateAbbreviation": "KS"
+        "StateAbbreviation": "KS",
+        "SSID": "SalinaAirportWiFi"
     },
     {
         "City": "Wichita",
@@ -1516,7 +1652,8 @@
         "Role": "P-S",
         "Enplanements": "812,252",
         "State": "KANSAS",
-        "StateAbbreviation": "KS"
+        "StateAbbreviation": "KS",
+        "SSID": "AirportICT-Guest"
     },
     {
         "City": "Cincinnati/Covington",
@@ -1527,7 +1664,8 @@
         "Role": "P-M",
         "Enplanements": "4,269,258",
         "State": "KENTUCKY",
-        "StateAbbreviation": "KY"
+        "StateAbbreviation": "KY",
+        "SSID": "CVG Free WiFi"
     },
     {
         "City": "Lexington",
@@ -1538,7 +1676,8 @@
         "Role": "P-S",
         "Enplanements": "657,018",
         "State": "KENTUCKY",
-        "StateAbbreviation": "KY"
+        "StateAbbreviation": "KY",
+        "SSID": "LEX_Free_WiFi"
     },
     {
         "City": "Louisville",
@@ -1549,7 +1688,8 @@
         "Role": "P-S",
         "Enplanements": "1,877,861",
         "State": "KENTUCKY",
-        "StateAbbreviation": "KY"
+        "StateAbbreviation": "KY",
+        "SSID": "FlyLouisville"
     },
     {
         "City": "Owensboro",
@@ -1560,7 +1700,8 @@
         "Role": "P-N",
         "Enplanements": "19,532",
         "State": "KENTUCKY",
-        "StateAbbreviation": "KY"
+        "StateAbbreviation": "KY",
+        "SSID": "OWB Free WIFI"
     },
     {
         "City": "Paducah",
@@ -1571,7 +1712,8 @@
         "Role": "P-N",
         "Enplanements": "20,934",
         "State": "KENTUCKY",
-        "StateAbbreviation": "KY"
+        "StateAbbreviation": "KY",
+        "SSID": "PAH-Free-WiFi"
     },
     {
         "City": "Alexandria",
@@ -1582,7 +1724,8 @@
         "Role": "P-N",
         "Enplanements": "141,173",
         "State": "LOUISIANA",
-        "StateAbbreviation": "LA"
+        "StateAbbreviation": "LA",
+        "SSID": "FlyAlexandriaWiFi"
     },
     {
         "City": "Baton Rouge",
@@ -1593,7 +1736,8 @@
         "Role": "P-N",
         "Enplanements": "390,107",
         "State": "LOUISIANA",
-        "StateAbbreviation": "LA"
+        "StateAbbreviation": "LA",
+        "SSID": "BTR_Free_WiFi"
     },
     {
         "City": "Lafayette",
@@ -1604,7 +1748,8 @@
         "Role": "P-N",
         "Enplanements": "223,529",
         "State": "LOUISIANA",
-        "StateAbbreviation": "LA"
+        "StateAbbreviation": "LA",
+        "SSID": "\"LFT Free WiFi\""
     },
     {
         "City": "Lake Charles",
@@ -1615,7 +1760,8 @@
         "Role": "P-N",
         "Enplanements": "58,122",
         "State": "LOUISIANA",
-        "StateAbbreviation": "LA"
+        "StateAbbreviation": "LA",
+        "SSID": "Airport Unlimited"
     },
     {
         "City": "Monroe",
@@ -1626,7 +1772,8 @@
         "Role": "P-N",
         "Enplanements": "107,107",
         "State": "LOUISIANA",
-        "StateAbbreviation": "LA"
+        "StateAbbreviation": "LA",
+        "SSID": "FlyMonroe"
     },
     {
         "City": "New Orleans",
@@ -1637,7 +1784,8 @@
         "Role": "P-M",
         "Enplanements": "6,582,066",
         "State": "LOUISIANA",
-        "StateAbbreviation": "LA"
+        "StateAbbreviation": "LA",
+        "SSID": "MSY Free WiFi"
     },
     {
         "City": "Shreveport",
@@ -1648,7 +1796,8 @@
         "Role": "P-N",
         "Enplanements": "291,136",
         "State": "LOUISIANA",
-        "StateAbbreviation": "LA"
+        "StateAbbreviation": "LA",
+        "SSID": "Fly Shreveport"
     },
     {
         "City": "Bangor",
@@ -1659,7 +1808,8 @@
         "Role": "P-N",
         "Enplanements": "336,140",
         "State": "MAINE",
-        "StateAbbreviation": "ME"
+        "StateAbbreviation": "ME",
+        "SSID": "FlyBangorGuestWiFi"
     },
     {
         "City": "Portland",
@@ -1670,7 +1820,8 @@
         "Role": "P-S",
         "Enplanements": "1,062,873",
         "State": "MAINE",
-        "StateAbbreviation": "ME"
+        "StateAbbreviation": "ME",
+        "SSID": "PWM GuestWifi"
     },
     {
         "City": "Presque Isle",
@@ -1681,7 +1832,8 @@
         "Role": "P-N",
         "Enplanements": "10,865",
         "State": "MAINE",
-        "StateAbbreviation": "ME"
+        "StateAbbreviation": "ME",
+        "SSID": "PQI-Public-WiFi"
     },
     {
         "City": "Rockland",
@@ -1692,7 +1844,8 @@
         "Role": "P-N",
         "Enplanements": "17,133",
         "State": "MAINE",
-        "StateAbbreviation": "ME"
+        "StateAbbreviation": "ME",
+        "SSID": "RKD-FreeWifi"
     },
     {
         "City": "Baltimore",
@@ -1703,7 +1856,8 @@
         "Role": "P-L",
         "Enplanements": "11,151,169",
         "State": "MARYLAND",
-        "StateAbbreviation": "MD"
+        "StateAbbreviation": "MD",
+        "SSID": "BWI_FREE_WIFI"
     },
     {
         "City": "Hagerstown",
@@ -1714,7 +1868,8 @@
         "Role": "P-N",
         "Enplanements": "32,197",
         "State": "MARYLAND",
-        "StateAbbreviation": "MD"
+        "StateAbbreviation": "MD",
+        "SSID": "HGR Free WiFi"
     },
     {
         "City": "Salisbury",
@@ -1725,7 +1880,8 @@
         "Role": "P-N",
         "Enplanements": "47,275",
         "State": "MARYLAND",
-        "StateAbbreviation": "MD"
+        "StateAbbreviation": "MD",
+        "SSID": "FlySBYWiFi"
     },
     {
         "City": "Boston",
@@ -1736,7 +1892,8 @@
         "Role": "P-L",
         "Enplanements": "20,006,521",
         "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA"
+        "StateAbbreviation": "MA",
+        "SSID": "LoganWifi"
     },
     {
         "City": "Hyannis",
@@ -1747,7 +1904,8 @@
         "Role": "P-N",
         "Enplanements": "28,341",
         "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA"
+        "StateAbbreviation": "MA",
+        "SSID": "HYA Free WiFi"
     },
     {
         "City": "Nantucket",
@@ -1758,7 +1916,8 @@
         "Role": "P-N",
         "Enplanements": "126,610",
         "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA"
+        "StateAbbreviation": "MA",
+        "SSID": "ACK_WIFI"
     },
     {
         "City": "Vineyard Haven",
@@ -1769,7 +1928,8 @@
         "Role": "P-N",
         "Enplanements": "52,605",
         "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA"
+        "StateAbbreviation": "MA",
+        "SSID": "MVY-_FREE_WIFI"
     },
     {
         "City": "Worcester",
@@ -1780,7 +1940,8 @@
         "Role": "P-N",
         "Enplanements": "71,631",
         "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA"
+        "StateAbbreviation": "MA",
+        "SSID": "FlyWorcesterWiFi"
     },
     {
         "City": "Alpena",
@@ -1791,7 +1952,8 @@
         "Role": "P-N",
         "Enplanements": "7,936",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "Alpena Airport WiFi"
     },
     {
         "City": "Detroit",
@@ -1802,7 +1964,8 @@
         "Role": "P-L",
         "Enplanements": "13,841,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "DTW_FREE_WiFi"
     },
     {
         "City": "Escanaba",
@@ -1813,7 +1976,8 @@
         "Role": "P-N",
         "Enplanements": "15,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "ESC_Public_WIFI"
     },
     {
         "City": "Flint",
@@ -1824,7 +1988,8 @@
         "Role": "P-N",
         "Enplanements": "281,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "AirportWiFi"
     },
     {
         "City": "Grand Rapids",
@@ -1835,7 +2000,8 @@
         "Role": "P-S",
         "Enplanements": "1,895,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "FlyGRFord"
     },
     {
         "City": "Hancock",
@@ -1846,7 +2012,8 @@
         "Role": "P-N",
         "Enplanements": "23,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "CMX_Public_WiFi"
     },
     {
         "City": "Iron Mountain",
@@ -1857,7 +2024,8 @@
         "Role": "P-N",
         "Enplanements": "18,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "AirportIMT"
     },
     {
         "City": "Kalamazoo",
@@ -1868,7 +2036,8 @@
         "Role": "P-N",
         "Enplanements": "87,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "AZO_Free_Wifi"
     },
     {
         "City": "Lansing",
@@ -1879,7 +2048,8 @@
         "Role": "P-N",
         "Enplanements": "102,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "LANsing Airport WIFI"
     },
     {
         "City": "Marquette",
@@ -1890,7 +2060,8 @@
         "Role": "P-N",
         "Enplanements": "43,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "MQT-PublicWiFi"
     },
     {
         "City": "Muskegon",
@@ -1901,7 +2072,8 @@
         "Role": "P-N",
         "Enplanements": "4,488",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "FlyMKG_WiFi"
     },
     {
         "City": "Pellston",
@@ -1912,7 +2084,8 @@
         "Role": "P-N",
         "Enplanements": "22,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "PLN_Free_WiFi"
     },
     {
         "City": "Saginaw",
@@ -1923,7 +2096,8 @@
         "Role": "P-N",
         "Enplanements": "92,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "FlyMBS-Guest"
     },
     {
         "City": "Sault Ste. Marie",
@@ -1934,7 +2108,8 @@
         "Role": "P-N",
         "Enplanements": "22,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "CIU_Public_WiFi"
     },
     {
         "City": "Traverse City",
@@ -1945,7 +2120,8 @@
         "Role": "P-N",
         "Enplanements": "347,000",
         "State": "MICHIGAN",
-        "StateAbbreviation": "MI"
+        "StateAbbreviation": "MI",
+        "SSID": "@FlyTCMI"
     },
     {
         "City": "Bemidji",
@@ -1956,7 +2132,8 @@
         "Role": "P-N",
         "Enplanements": "30,081",
         "State": "MINNESOTA",
-        "StateAbbreviation": "MN"
+        "StateAbbreviation": "MN",
+        "SSID": "BJI Free Wifi"
     },
     {
         "City": "Brainerd",
@@ -1967,7 +2144,8 @@
         "Role": "P-N",
         "Enplanements": "22,233",
         "State": "MINNESOTA",
-        "StateAbbreviation": "MN"
+        "StateAbbreviation": "MN",
+        "SSID": "BRD Public WIFI"
     },
     {
         "City": "Duluth",
@@ -1978,7 +2156,8 @@
         "Role": "P-N",
         "Enplanements": "136,806",
         "State": "MINNESOTA",
-        "StateAbbreviation": "MN"
+        "StateAbbreviation": "MN",
+        "SSID": "Airport-Department-of-Avaition-WIFI"
     },
     {
         "City": "Hibbing",
@@ -1989,7 +2168,8 @@
         "Role": "P-N",
         "Enplanements": "17,111",
         "State": "MINNESOTA",
-        "StateAbbreviation": "MN"
+        "StateAbbreviation": "MN",
+        "SSID": "HIB Public WiFi"
     },
     {
         "City": "Minneapolis\u2013Saint Paul",
@@ -2000,7 +2180,8 @@
         "Role": "P-L",
         "Enplanements": "18,361,942",
         "State": "MINNESOTA",
-        "StateAbbreviation": "MN"
+        "StateAbbreviation": "MN",
+        "SSID": "\"MSP-WiFi\""
     },
     {
         "City": "Rochester",
@@ -2011,7 +2192,8 @@
         "Role": "P-N",
         "Enplanements": "182,509",
         "State": "MINNESOTA",
-        "StateAbbreviation": "MN"
+        "StateAbbreviation": "MN",
+        "SSID": "FlyRST_WiFi"
     },
     {
         "City": "St. Cloud",
@@ -2022,7 +2204,8 @@
         "Role": "P-N",
         "Enplanements": "22,464",
         "State": "MINNESOTA",
-        "StateAbbreviation": "MN"
+        "StateAbbreviation": "MN",
+        "SSID": "STC_FREE_WIFI"
     },
     {
         "City": "Columbus",
@@ -2033,7 +2216,8 @@
         "Role": "P-N",
         "Enplanements": "46,246",
         "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS"
+        "StateAbbreviation": "MS",
+        "SSID": "GTR Free Wifi"
     },
     {
         "City": "Gulfport/Biloxi",
@@ -2044,7 +2228,8 @@
         "Role": "P-N",
         "Enplanements": "359,055",
         "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS"
+        "StateAbbreviation": "MS",
+        "SSID": "FlyGPT-WiFi"
     },
     {
         "City": "Hattiesburg/Laurel",
@@ -2055,7 +2240,8 @@
         "Role": "P-N",
         "Enplanements": "9,813",
         "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS"
+        "StateAbbreviation": "MS",
+        "SSID": "FlyHattiesburg"
     },
     {
         "City": "Jackson",
@@ -2066,7 +2252,8 @@
         "Role": "P-S",
         "Enplanements": "489,454",
         "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS"
+        "StateAbbreviation": "MS",
+        "SSID": "JAN_Free_WiFi"
     },
     {
         "City": "Meridian",
@@ -2077,7 +2264,8 @@
         "Role": "P-N",
         "Enplanements": "19,332",
         "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS"
+        "StateAbbreviation": "MS",
+        "SSID": "MEI_FREE_WIFI"
     },
     {
         "City": "Tupelo",
@@ -2088,7 +2276,8 @@
         "Role": "P-N",
         "Enplanements": "13,557",
         "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS"
+        "StateAbbreviation": "MS",
+        "SSID": "TUPublicWiFi"
     },
     {
         "City": "Branson",
@@ -2099,7 +2288,8 @@
         "Role": "P-N",
         "Enplanements": "1,601",
         "State": "MISSOURI",
-        "StateAbbreviation": "MO"
+        "StateAbbreviation": "MO",
+        "SSID": "FlyBransonBKG"
     },
     {
         "City": "Columbia",
@@ -2110,7 +2300,8 @@
         "Role": "P-N",
         "Enplanements": "120,235",
         "State": "MISSOURI",
-        "StateAbbreviation": "MO"
+        "StateAbbreviation": "MO",
+        "SSID": "AirportColumbia"
     },
     {
         "City": "Fort Leonard Wood/Waynesville",
@@ -2121,7 +2312,8 @@
         "Role": "P-N",
         "Enplanements": "7,717",
         "State": "MISSOURI",
-        "StateAbbreviation": "MO"
+        "StateAbbreviation": "MO",
+        "SSID": "TBN-WiFi"
     },
     {
         "City": "Joplin",
@@ -2132,7 +2324,8 @@
         "Role": "P-N",
         "Enplanements": "40,013",
         "State": "MISSOURI",
-        "StateAbbreviation": "MO"
+        "StateAbbreviation": "MO",
+        "SSID": "FlyJoplinWiFi"
     },
     {
         "City": "Kansas City",
@@ -2143,7 +2336,8 @@
         "Role": "P-M",
         "Enplanements": "5,790,847",
         "State": "MISSOURI",
-        "StateAbbreviation": "MO"
+        "StateAbbreviation": "MO",
+        "SSID": "FlyKCI_WiFi"
     },
     {
         "City": "St. Louis",
@@ -2154,7 +2348,8 @@
         "Role": "P-M",
         "Enplanements": "7,631,953",
         "State": "MISSOURI",
-        "StateAbbreviation": "MO"
+        "StateAbbreviation": "MO",
+        "SSID": "MSGuest"
     },
     {
         "City": "Springfield/Branson",
@@ -2165,7 +2360,8 @@
         "Role": "P-S",
         "Enplanements": "523,108",
         "State": "MISSOURI",
-        "StateAbbreviation": "MO"
+        "StateAbbreviation": "MO",
+        "SSID": "FlySpringfield-GuestWiFi"
     },
     {
         "City": "Billings",
@@ -2176,7 +2372,8 @@
         "Role": "P-S",
         "Enplanements": "440,263",
         "State": "MONTANA",
-        "StateAbbreviation": "MT"
+        "StateAbbreviation": "MT",
+        "SSID": "FlyBIL-Guest"
     },
     {
         "City": "Bozeman",
@@ -2187,7 +2384,8 @@
         "Role": "P-S",
         "Enplanements": "670,295",
         "State": "MONTANA",
-        "StateAbbreviation": "MT"
+        "StateAbbreviation": "MT",
+        "SSID": "BZN-GuestWiFi"
     },
     {
         "City": "Butte",
@@ -2198,7 +2396,8 @@
         "Role": "P-N",
         "Enplanements": "25,803",
         "State": "MONTANA",
-        "StateAbbreviation": "MT"
+        "StateAbbreviation": "MT",
+        "SSID": "Airport-BTM-WIFI"
     },
     {
         "City": "Great Falls",
@@ -2209,7 +2408,8 @@
         "Role": "P-N",
         "Enplanements": "176,434",
         "State": "MONTANA",
-        "StateAbbreviation": "MT"
+        "StateAbbreviation": "MT",
+        "SSID": "FlyGreatFallsWiFi"
     },
     {
         "City": "Helena",
@@ -2220,7 +2420,8 @@
         "Role": "P-N",
         "Enplanements": "115,438",
         "State": "MONTANA",
-        "StateAbbreviation": "MT"
+        "StateAbbreviation": "MT",
+        "SSID": "HLN_Free_WiFi"
     },
     {
         "City": "Kalispell",
@@ -2231,7 +2432,8 @@
         "Role": "P-S",
         "Enplanements": "307,242",
         "State": "MONTANA",
-        "StateAbbreviation": "MT"
+        "StateAbbreviation": "MT",
+        "SSID": "FCA Free WiFi"
     },
     {
         "City": "Missoula",
@@ -2242,7 +2444,8 @@
         "Role": "P-S",
         "Enplanements": "425,563",
         "State": "MONTANA",
-        "StateAbbreviation": "MT"
+        "StateAbbreviation": "MT",
+        "SSID": "FlyMissoula"
     },
     {
         "City": "West Yellowstone",
@@ -2253,7 +2456,8 @@
         "Role": "P-N",
         "Enplanements": "8,200",
         "State": "MONTANA",
-        "StateAbbreviation": "MT"
+        "StateAbbreviation": "MT",
+        "SSID": "WYS-Public-WiFi"
     },
     {
         "City": "Grand Island",
@@ -2264,7 +2468,8 @@
         "Role": "P-N",
         "Enplanements": "63,298",
         "State": "NEBRASKA",
-        "StateAbbreviation": "NE"
+        "StateAbbreviation": "NE",
+        "SSID": "GRI Free Wifi"
     },
     {
         "City": "Kearney",
@@ -2275,7 +2480,8 @@
         "Role": "P-N",
         "Enplanements": "4,568",
         "State": "NEBRASKA",
-        "StateAbbreviation": "NE"
+        "StateAbbreviation": "NE",
+        "SSID": "EAR_Free_Wifi"
     },
     {
         "City": "Lincoln",
@@ -2286,7 +2492,8 @@
         "Role": "P-N",
         "Enplanements": "150,214",
         "State": "NEBRASKA",
-        "StateAbbreviation": "NE"
+        "StateAbbreviation": "NE",
+        "SSID": "LNK Free WiFi"
     },
     {
         "City": "North Platte",
@@ -2297,7 +2504,8 @@
         "Role": "P-N",
         "Enplanements": "13,798",
         "State": "NEBRASKA",
-        "StateAbbreviation": "NE"
+        "StateAbbreviation": "NE",
+        "SSID": "LBF-Public-Wifi"
     },
     {
         "City": "Omaha",
@@ -2308,7 +2516,8 @@
         "Role": "P-M",
         "Enplanements": "2,454,878",
         "State": "NEBRASKA",
-        "StateAbbreviation": "NE"
+        "StateAbbreviation": "NE",
+        "SSID": "FlyOMAWiFi"
     },
     {
         "City": "Scottsbluff",
@@ -2319,7 +2528,8 @@
         "Role": "P-N",
         "Enplanements": "14,295",
         "State": "NEBRASKA",
-        "StateAbbreviation": "NE"
+        "StateAbbreviation": "NE",
+        "SSID": "Airport BFF Pubic Wifi"
     },
     {
         "City": "Boulder City",
@@ -2330,7 +2540,8 @@
         "Role": "P-N",
         "Enplanements": "205,690",
         "State": "NEVADA",
-        "StateAbbreviation": "NV"
+        "StateAbbreviation": "NV",
+        "SSID": "BLD-Public-WiFi"
     },
     {
         "City": "Elko",
@@ -2341,7 +2552,8 @@
         "Role": "P-N",
         "Enplanements": "18,363",
         "State": "NEVADA",
-        "StateAbbreviation": "NV"
+        "StateAbbreviation": "NV",
+        "SSID": "EKO-Guest"
     },
     {
         "City": "Las Vegas",
@@ -2352,7 +2564,8 @@
         "Role": "P-L",
         "Enplanements": "23,795,012",
         "State": "NEVADA",
-        "StateAbbreviation": "NV"
+        "StateAbbreviation": "NV",
+        "SSID": "LAS-WiFi"
     },
     {
         "City": "Reno",
@@ -2363,7 +2576,8 @@
         "Role": "P-M",
         "Enplanements": "2,048,916",
         "State": "NEVADA",
-        "StateAbbreviation": "NV"
+        "StateAbbreviation": "NV",
+        "SSID": "RNO Free WiFi"
     },
     {
         "City": "Manchester",
@@ -2374,7 +2588,8 @@
         "Role": "P-S",
         "Enplanements": "911,225",
         "State": "NEW HAMPSHIRE",
-        "StateAbbreviation": "NH"
+        "StateAbbreviation": "NH",
+        "SSID": "MHT Free WiFi"
     },
     {
         "City": "Portsmouth",
@@ -2385,7 +2600,8 @@
         "Role": "P-N",
         "Enplanements": "92,836",
         "State": "NEW HAMPSHIRE",
-        "StateAbbreviation": "NH"
+        "StateAbbreviation": "NH",
+        "SSID": "FlyPortsmouth"
     },
     {
         "City": "Atlantic City",
@@ -2396,7 +2612,8 @@
         "Role": "P-S",
         "Enplanements": "568,958",
         "State": "NEW JERSEY",
-        "StateAbbreviation": "NJ"
+        "StateAbbreviation": "NJ",
+        "SSID": "ACY Free WiFi"
     },
     {
         "City": "Newark",
@@ -2407,7 +2624,8 @@
         "Role": "P-L",
         "Enplanements": "22,797,602",
         "State": "NEW JERSEY",
-        "StateAbbreviation": "NJ"
+        "StateAbbreviation": "NJ",
+        "SSID": "EWR_FREE_WIFI"
     },
     {
         "City": "Trenton",
@@ -2418,7 +2636,8 @@
         "Role": "P-N",
         "Enplanements": "404,349",
         "State": "NEW JERSEY",
-        "StateAbbreviation": "NJ"
+        "StateAbbreviation": "NJ",
+        "SSID": "TTN Free WiFi"
     },
     {
         "City": "Albuquerque",
@@ -2429,7 +2648,8 @@
         "Role": "P-M",
         "Enplanements": "2,647,269",
         "State": "NEW MEXICO",
-        "StateAbbreviation": "NM"
+        "StateAbbreviation": "NM",
+        "SSID": "ABQ FreeWiFi"
     },
     {
         "City": "Hobbs",
@@ -2440,7 +2660,8 @@
         "Role": "P-N",
         "Enplanements": "23,475",
         "State": "NEW MEXICO",
-        "StateAbbreviation": "NM"
+        "StateAbbreviation": "NM",
+        "SSID": "HOB-Guest-WIFI"
     },
     {
         "City": "Roswell",
@@ -2451,7 +2672,8 @@
         "Role": "P-N",
         "Enplanements": "56,632",
         "State": "NEW MEXICO",
-        "StateAbbreviation": "NM"
+        "StateAbbreviation": "NM",
+        "SSID": "RoswellFreeWifi"
     },
     {
         "City": "Santa Fe",
@@ -2462,7 +2684,8 @@
         "Role": "P-N",
         "Enplanements": "115,787",
         "State": "NEW MEXICO",
-        "StateAbbreviation": "NM"
+        "StateAbbreviation": "NM",
+        "SSID": "SAF-Public-WiFi"
     },
     {
         "City": "Albany",
@@ -2473,7 +2696,8 @@
         "Role": "P-S",
         "Enplanements": "1,440,674",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "Airport_WiFi_Alb"
     },
     {
         "City": "Binghamton",
@@ -2484,7 +2708,8 @@
         "Role": "P-N",
         "Enplanements": "36,382",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "airport-wifi-BGM"
     },
     {
         "City": "Buffalo",
@@ -2495,7 +2720,8 @@
         "Role": "P-S",
         "Enplanements": "2,523,158",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "BUF-Guest-WiFi"
     },
     {
         "City": "Elmira/Corning",
@@ -2506,7 +2732,8 @@
         "Role": "P-N",
         "Enplanements": "141,075",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "ELM_FREE_WIFI"
     },
     {
         "City": "Ithaca",
@@ -2517,7 +2744,8 @@
         "Role": "P-N",
         "Enplanements": "99,070",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "ITH-OPEN-WIFI"
     },
     {
         "City": "New York",
@@ -2528,7 +2756,8 @@
         "Role": "P-L",
         "Enplanements": "30,620,769",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "JFK-Guest-WiFi"
     },
     {
         "City": "New York",
@@ -2539,7 +2768,8 @@
         "Role": "P-L",
         "Enplanements": "15,058,501",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "LGA_FREE_WIFI"
     },
     {
         "City": "Islip/Brookhaven",
@@ -2550,7 +2780,8 @@
         "Role": "P-S",
         "Enplanements": "811,535",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "AirportWiFi"
     },
     {
         "City": "Newburgh",
@@ -2561,7 +2792,8 @@
         "Role": "P-N",
         "Enplanements": "354,869",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "SWFWiFi"
     },
     {
         "City": "Niagara Falls",
@@ -2572,7 +2804,8 @@
         "Role": "P-N",
         "Enplanements": "119,182",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "IAG_Passpoint"
     },
     {
         "City": "Ogdensburg",
@@ -2583,7 +2816,8 @@
         "Role": "P-N",
         "Enplanements": "23,448",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "OGS Free WiFi"
     },
     {
         "City": "Plattsburgh",
@@ -2594,7 +2828,8 @@
         "Role": "P-N",
         "Enplanements": "119,783",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "AirportWiFi"
     },
     {
         "City": "Rochester",
@@ -2605,7 +2840,8 @@
         "Role": "P-S",
         "Enplanements": "1,281,908",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "ROCMonroeWifi"
     },
     {
         "City": "Syracuse",
@@ -2616,7 +2852,8 @@
         "Role": "P-S",
         "Enplanements": "1,139,568",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "SYR_FREE_WIFI"
     },
     {
         "City": "Watertown",
@@ -2627,7 +2864,8 @@
         "Role": "P-N",
         "Enplanements": "23,844",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "ART_PUBLIC_WIFI"
     },
     {
         "City": "White Plains",
@@ -2638,7 +2876,8 @@
         "Role": "P-S",
         "Enplanements": "789,283",
         "State": "NEW YORK",
-        "StateAbbreviation": "NY"
+        "StateAbbreviation": "NY",
+        "SSID": "HPN_Public_WiFi"
     },
     {
         "City": "Asheville",
@@ -2649,7 +2888,8 @@
         "Role": "P-S",
         "Enplanements": "1,125,935",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "\"AVL Free WiFi\""
     },
     {
         "City": "Charlotte",
@@ -2660,7 +2900,8 @@
         "Role": "P-L",
         "Enplanements": "25,896,201",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "CLT Free WiFi"
     },
     {
         "City": "Concord",
@@ -2671,7 +2912,8 @@
         "Role": "P-N",
         "Enplanements": "119,069",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "ConcordAirportWiFi"
     },
     {
         "City": "Fayetteville",
@@ -2682,7 +2924,8 @@
         "Role": "P-N",
         "Enplanements": "167,572",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "FAY-free-WIFI"
     },
     {
         "City": "Greensboro",
@@ -2693,7 +2936,8 @@
         "Role": "P-S",
         "Enplanements": "903,742",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "FlyGSO"
     },
     {
         "City": "Greenville",
@@ -2704,7 +2948,8 @@
         "Role": "P-N",
         "Enplanements": "34,824",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "PGV_Free_WiFi"
     },
     {
         "City": "Jacksonville",
@@ -2715,7 +2960,8 @@
         "Role": "P-N",
         "Enplanements": "133,839",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "OAJ-GuestWiFi"
     },
     {
         "City": "New Bern",
@@ -2726,7 +2972,8 @@
         "Role": "P-N",
         "Enplanements": "59,159",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "EWN Free WiFi"
     },
     {
         "City": "Raleigh",
@@ -2737,7 +2984,8 @@
         "Role": "P-M",
         "Enplanements": "7,118,995",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "RDU-FreeWiFi"
     },
     {
         "City": "Wilmington",
@@ -2748,7 +2996,8 @@
         "Role": "P-S",
         "Enplanements": "655,857",
         "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC"
+        "StateAbbreviation": "NC",
+        "SSID": "ilm_public_wifi"
     },
     {
         "City": "Bismarck",
@@ -2759,7 +3008,8 @@
         "Role": "P-N",
         "Enplanements": "257,000",
         "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND"
+        "StateAbbreviation": "ND",
+        "SSID": "FlyBIS_AirportWiFi"
     },
     {
         "City": "Dickinson",
@@ -2770,7 +3020,8 @@
         "Role": "P-N",
         "Enplanements": "24,000",
         "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND"
+        "StateAbbreviation": "ND",
+        "SSID": "DIK-Public-Guest-Access"
     },
     {
         "City": "Fargo",
@@ -2781,7 +3032,8 @@
         "Role": "P-S",
         "Enplanements": "516,000",
         "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND"
+        "StateAbbreviation": "ND",
+        "SSID": "FARGO AIRPORT WIFI"
     },
     {
         "City": "Grand Forks",
@@ -2792,7 +3044,8 @@
         "Role": "P-N",
         "Enplanements": "92,000",
         "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND"
+        "StateAbbreviation": "ND",
+        "SSID": "GFK-Public-WiFi"
     },
     {
         "City": "Jamestown",
@@ -2803,7 +3056,8 @@
         "Role": "P-N",
         "Enplanements": "10,000",
         "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND"
+        "StateAbbreviation": "ND",
+        "SSID": "Airport_JMS_PublicWiFi"
     },
     {
         "City": "Minot",
@@ -2814,7 +3068,8 @@
         "Role": "P-N",
         "Enplanements": "146,000",
         "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND"
+        "StateAbbreviation": "ND",
+        "SSID": "MOT Free WiFi"
     },
     {
         "City": "Williston",
@@ -2825,7 +3080,8 @@
         "Role": "P-N",
         "Enplanements": "82,000",
         "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND"
+        "StateAbbreviation": "ND",
+        "SSID": "XWA_Public_WIFI"
     },
     {
         "City": "Akron/Canton",
@@ -2836,7 +3092,8 @@
         "Role": "P-N",
         "Enplanements": "449,731",
         "State": "OHIO",
-        "StateAbbreviation": "OH"
+        "StateAbbreviation": "OH",
+        "SSID": "CAK_Free_WiFi"
     },
     {
         "City": "Cleveland",
@@ -2847,7 +3104,8 @@
         "Role": "P-M",
         "Enplanements": "4,701,713",
         "State": "OHIO",
-        "StateAbbreviation": "OH"
+        "StateAbbreviation": "OH",
+        "SSID": "CLE-BLAST-WIFI"
     },
     {
         "City": "Columbus",
@@ -2858,7 +3116,8 @@
         "Role": "P-M",
         "Enplanements": "3,976,620",
         "State": "OHIO",
-        "StateAbbreviation": "OH"
+        "StateAbbreviation": "OH",
+        "SSID": "CMH Guest WiFi"
     },
     {
         "City": "Columbus",
@@ -2869,7 +3128,8 @@
         "Role": "P-N",
         "Enplanements": "154,475",
         "State": "OHIO",
-        "StateAbbreviation": "OH"
+        "StateAbbreviation": "OH",
+        "SSID": "CMH_FREE_WIFI"
     },
     {
         "City": "Dayton",
@@ -2880,7 +3140,8 @@
         "Role": "P-S",
         "Enplanements": "858,022",
         "State": "OHIO",
-        "StateAbbreviation": "OH"
+        "StateAbbreviation": "OH",
+        "SSID": "DAY_Free_WiFi"
     },
     {
         "City": "Toledo",
@@ -2891,7 +3152,8 @@
         "Role": "P-N",
         "Enplanements": "123,541",
         "State": "OHIO",
-        "StateAbbreviation": "OH"
+        "StateAbbreviation": "OH",
+        "SSID": "TOL_FREE_WIFI"
     },
     {
         "City": "Lawton",
@@ -2902,7 +3164,8 @@
         "Role": "P-N",
         "Enplanements": "48,086",
         "State": "OKLAHOMA",
-        "StateAbbreviation": "OK"
+        "StateAbbreviation": "OK",
+        "SSID": "LAW Free WiFi"
     },
     {
         "City": "Oklahoma City",
@@ -2913,7 +3176,8 @@
         "Role": "P-S",
         "Enplanements": "2,094,708",
         "State": "OKLAHOMA",
-        "StateAbbreviation": "OK"
+        "StateAbbreviation": "OK",
+        "SSID": "OKC Public WiFi"
     },
     {
         "City": "Stillwater",
@@ -2924,7 +3188,8 @@
         "Role": "P-N",
         "Enplanements": "27,321",
         "State": "OKLAHOMA",
-        "StateAbbreviation": "OK"
+        "StateAbbreviation": "OK",
+        "SSID": "AirportSWO"
     },
     {
         "City": "Tulsa",
@@ -2935,7 +3200,8 @@
         "Role": "P-S",
         "Enplanements": "1,482,908",
         "State": "OKLAHOMA",
-        "StateAbbreviation": "OK"
+        "StateAbbreviation": "OK",
+        "SSID": "TUL Free Wifi"
     },
     {
         "City": "Eugene",
@@ -2946,7 +3212,8 @@
         "Role": "P-S",
         "Enplanements": "566,832",
         "State": "OREGON",
-        "StateAbbreviation": "OR"
+        "StateAbbreviation": "OR",
+        "SSID": "FlyEUG-WiFi"
     },
     {
         "City": "Medford",
@@ -2957,7 +3224,8 @@
         "Role": "P-S",
         "Enplanements": "492,217",
         "State": "OREGON",
-        "StateAbbreviation": "OR"
+        "StateAbbreviation": "OR",
+        "SSID": "MFR-Public-WiFi"
     },
     {
         "City": "North Bend",
@@ -2968,7 +3236,8 @@
         "Role": "P-N",
         "Enplanements": "12,369",
         "State": "OREGON",
-        "StateAbbreviation": "OR"
+        "StateAbbreviation": "OR",
+        "SSID": "OTH_FREE_WIFI"
     },
     {
         "City": "Portland",
@@ -2979,7 +3248,8 @@
         "Role": "P-M",
         "Enplanements": "9,804,868",
         "State": "OREGON",
-        "StateAbbreviation": "OR"
+        "StateAbbreviation": "OR",
+        "SSID": "PDX_FREE_WIFI"
     },
     {
         "City": "Redmond",
@@ -2990,7 +3260,8 @@
         "Role": "P-S",
         "Enplanements": "430,562",
         "State": "OREGON",
-        "StateAbbreviation": "OR"
+        "StateAbbreviation": "OR",
+        "SSID": "RDM-FreeWiFi"
     },
     {
         "City": "Allentown",
@@ -3001,7 +3272,8 @@
         "Role": "P-S",
         "Enplanements": "376,468",
         "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA"
+        "StateAbbreviation": "PA",
+        "SSID": "FLYABEwifi"
     },
     {
         "City": "Erie",
@@ -3012,7 +3284,8 @@
         "Role": "P-N",
         "Enplanements": "95,342",
         "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA"
+        "StateAbbreviation": "PA",
+        "SSID": "ERI FREE WIFI"
     },
     {
         "City": "Harrisburg",
@@ -3023,7 +3296,8 @@
         "Role": "P-S",
         "Enplanements": "636,756",
         "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA"
+        "StateAbbreviation": "PA",
+        "SSID": "MDT_Free_WiFi"
     },
     {
         "City": "Latrobe",
@@ -3034,7 +3308,8 @@
         "Role": "P-N",
         "Enplanements": "151,410",
         "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA"
+        "StateAbbreviation": "PA",
+        "SSID": "LBE_FREE_WIFI"
     },
     {
         "City": "Philadelphia",
@@ -3045,7 +3320,8 @@
         "Role": "P-L",
         "Enplanements": "15,292,670",
         "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA"
+        "StateAbbreviation": "PA",
+        "SSID": "PHL_FREE_WIFI"
     },
     {
         "City": "Pittsburgh",
@@ -3056,7 +3332,8 @@
         "Role": "P-M",
         "Enplanements": "4,670,033",
         "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA"
+        "StateAbbreviation": "PA",
+        "SSID": "PIT WiFi"
     },
     {
         "City": "State College",
@@ -3067,7 +3344,8 @@
         "Role": "P-N",
         "Enplanements": "153,571",
         "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA"
+        "StateAbbreviation": "PA",
+        "SSID": "SCE_WiFi"
     },
     {
         "City": "Wilkes-Barre/Scranton",
@@ -3078,7 +3356,8 @@
         "Role": "P-N",
         "Enplanements": "258,628",
         "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA"
+        "StateAbbreviation": "PA",
+        "SSID": "FLYAVP_WiFi"
     },
     {
         "City": "Block Island",
@@ -3089,7 +3368,8 @@
         "Role": "P-N",
         "Enplanements": "16,809",
         "State": "RHODE ISLAND",
-        "StateAbbreviation": "RI"
+        "StateAbbreviation": "RI",
+        "SSID": "BID_Free_WiFi"
     },
     {
         "City": "Providence",
@@ -3100,7 +3380,8 @@
         "Role": "P-S",
         "Enplanements": "2,117,409",
         "State": "RHODE ISLAND",
-        "StateAbbreviation": "RI"
+        "StateAbbreviation": "RI",
+        "SSID": "PVD_PUBLIC_WIFI"
     },
     {
         "City": "Westerly",
@@ -3111,7 +3392,8 @@
         "Role": "P-N",
         "Enplanements": "17,694",
         "State": "RHODE ISLAND",
-        "StateAbbreviation": "RI"
+        "StateAbbreviation": "RI",
+        "SSID": "WST-Airport-Guest"
     },
     {
         "City": "Charleston",
@@ -3122,7 +3404,8 @@
         "Role": "P-M",
         "Enplanements": "2,192,893",
         "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC"
+        "StateAbbreviation": "SC",
+        "SSID": "CHS AIRPORT_WIFI"
     },
     {
         "City": "Columbia",
@@ -3133,7 +3416,8 @@
         "Role": "P-S",
         "Enplanements": "566,660",
         "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC"
+        "StateAbbreviation": "SC",
+        "SSID": "FlyAwayWiFi"
     },
     {
         "City": "Florence",
@@ -3144,7 +3428,8 @@
         "Role": "P-N",
         "Enplanements": "44,333",
         "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC"
+        "StateAbbreviation": "SC",
+        "SSID": "@AirportFloWiFi"
     },
     {
         "City": "Greenville",
@@ -3155,7 +3440,8 @@
         "Role": "P-S",
         "Enplanements": "1,133,012",
         "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC"
+        "StateAbbreviation": "SC",
+        "SSID": "GSP Free WiFi"
     },
     {
         "City": "Hilton Head",
@@ -3166,7 +3452,8 @@
         "Role": "P-N",
         "Enplanements": "36,308",
         "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC"
+        "StateAbbreviation": "SC",
+        "SSID": "HHH Public WiFi"
     },
     {
         "City": "Myrtle Beach",
@@ -3177,7 +3464,8 @@
         "Role": "P-S",
         "Enplanements": "1,254,307",
         "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC"
+        "StateAbbreviation": "SC",
+        "SSID": "MYR Free WiFi"
     },
     {
         "City": "Aberdeen",
@@ -3188,7 +3476,8 @@
         "Role": "P-N",
         "Enplanements": "28,404",
         "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD"
+        "StateAbbreviation": "SD",
+        "SSID": "ABR-WiFi"
     },
     {
         "City": "Pierre",
@@ -3199,7 +3488,8 @@
         "Role": "P-N",
         "Enplanements": "30,124",
         "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD"
+        "StateAbbreviation": "SD",
+        "SSID": "PIR-Airport-WiFi"
     },
     {
         "City": "Rapid City",
@@ -3210,7 +3500,8 @@
         "Role": "P-S",
         "Enplanements": "303,471",
         "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD"
+        "StateAbbreviation": "SD",
+        "SSID": "RAP_Free_Wifi"
     },
     {
         "City": "Sioux Falls",
@@ -3221,7 +3512,8 @@
         "Role": "P-S",
         "Enplanements": "529,895",
         "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD"
+        "StateAbbreviation": "SD",
+        "SSID": "FSD Wi-Fi"
     },
     {
         "City": "Watertown",
@@ -3232,7 +3524,8 @@
         "Role": "P-N",
         "Enplanements": "12,064",
         "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD"
+        "StateAbbreviation": "SD",
+        "SSID": "ATY-WiFi"
     },
     {
         "City": "Chattanooga",
@@ -3243,7 +3536,8 @@
         "Role": "P-S",
         "Enplanements": "504,833",
         "State": "TENNESSEE",
-        "StateAbbreviation": "TN"
+        "StateAbbreviation": "TN",
+        "SSID": "CHA-Free WiFi"
     },
     {
         "City": "Knoxville",
@@ -3254,7 +3548,8 @@
         "Role": "P-S",
         "Enplanements": "1,069,565",
         "State": "TENNESSEE",
-        "StateAbbreviation": "TN"
+        "StateAbbreviation": "TN",
+        "SSID": "FLYKNOXVILLE"
     },
     {
         "City": "Memphis",
@@ -3265,7 +3560,8 @@
         "Role": "P-M",
         "Enplanements": "2,213,083",
         "State": "TENNESSEE",
-        "StateAbbreviation": "TN"
+        "StateAbbreviation": "TN",
+        "SSID": "MEM-WiFi"
     },
     {
         "City": "Nashville",
@@ -3276,7 +3572,8 @@
         "Role": "P-L",
         "Enplanements": "8,017,347",
         "State": "TENNESSEE",
-        "StateAbbreviation": "TN"
+        "StateAbbreviation": "TN",
+        "SSID": "BNA_FREE_WIFI"
     },
     {
         "City": "Tri-Cities",
@@ -3287,7 +3584,8 @@
         "Role": "P-N",
         "Enplanements": "200,086",
         "State": "TENNESSEE",
-        "StateAbbreviation": "TN"
+        "StateAbbreviation": "TN",
+        "SSID": "Tri-Cities Airport Public WiFi"
     },
     {
         "City": "Abilene",
@@ -3298,7 +3596,8 @@
         "Role": "P-N",
         "Enplanements": "75,402",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "ABI_FREE_WIFI"
     },
     {
         "City": "Amarillo",
@@ -3309,7 +3608,8 @@
         "Role": "P-N",
         "Enplanements": "303,904",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "AMA-Free-WiFi"
     },
     {
         "City": "Austin",
@@ -3320,7 +3620,8 @@
         "Role": "P-L",
         "Enplanements": "6,666,215",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "AUStin_Free_WiFi"
     },
     {
         "City": "Beaumont",
@@ -3331,7 +3632,8 @@
         "Role": "P-N",
         "Enplanements": "21,914",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "FlyBPT-Guest"
     },
     {
         "City": "Brownsville",
@@ -3342,7 +3644,8 @@
         "Role": "P-N",
         "Enplanements": "167,957",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "BRO_FREE_WIFI"
     },
     {
         "City": "College Station",
@@ -3353,7 +3656,8 @@
         "Role": "P-N",
         "Enplanements": "67,033",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "CLL-Free-WiFi"
     },
     {
         "City": "Corpus Christi",
@@ -3364,7 +3668,8 @@
         "Role": "P-N",
         "Enplanements": "285,195",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "CRP Free WiFi"
     },
     {
         "City": "Dallas",
@@ -3375,7 +3680,8 @@
         "Role": "P-M",
         "Enplanements": "6,487,563",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "DAL-Free-WiFi"
     },
     {
         "City": "Dallas\u2013Fort Worth",
@@ -3386,7 +3692,8 @@
         "Role": "P-L",
         "Enplanements": "30,005,266",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "DFW-FREE-WIFI"
     },
     {
         "City": "Del Rio",
@@ -3397,7 +3704,8 @@
         "Role": "P-N",
         "Enplanements": "19,879",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "DRT-Public-WiFi"
     },
     {
         "City": "El Paso",
@@ -3408,7 +3716,8 @@
         "Role": "P-S",
         "Enplanements": "1,438,321",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "ELP Free WiFi"
     },
     {
         "City": "Harlingen",
@@ -3419,7 +3728,8 @@
         "Role": "P-S",
         "Enplanements": "355,190",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "HRL Public WiFi"
     },
     {
         "City": "Houston",
@@ -3430,7 +3740,8 @@
         "Role": "P-L",
         "Enplanements": "16,242,821",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "\"IAH-Public\""
     },
     {
         "City": "Houston",
@@ -3441,7 +3752,8 @@
         "Role": "P-M",
         "Enplanements": "5,560,780",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "HOU_FREE_WIFI"
     },
     {
         "City": "Killeen",
@@ -3452,7 +3764,8 @@
         "Role": "P-N",
         "Enplanements": "142,253",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "GRK-FreeWiFi"
     },
     {
         "City": "Laredo",
@@ -3463,7 +3776,8 @@
         "Role": "P-N",
         "Enplanements": "108,992",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "LRD Free WiFi"
     },
     {
         "City": "Longview",
@@ -3474,7 +3788,8 @@
         "Role": "P-N",
         "Enplanements": "23,942",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "GGGAirportWiFi"
     },
     {
         "City": "Lubbock",
@@ -3485,7 +3800,8 @@
         "Role": "P-S",
         "Enplanements": "405,157",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "FlyLubbockWiFi"
     },
     {
         "City": "McAllen",
@@ -3496,7 +3812,8 @@
         "Role": "P-S",
         "Enplanements": "477,636",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "MFE_FREE_WIFI"
     },
     {
         "City": "Midland/Odessa",
@@ -3507,7 +3824,8 @@
         "Role": "P-S",
         "Enplanements": "504,264",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "FLY_MAF_PUBLIC_WIFI"
     },
     {
         "City": "San Angelo",
@@ -3518,7 +3836,8 @@
         "Role": "P-N",
         "Enplanements": "60,115",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "AirportSJT-WiFi"
     },
     {
         "City": "San Antonio",
@@ -3529,7 +3848,8 @@
         "Role": "P-M",
         "Enplanements": "3,677,643",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "SAT_PUBLIC_WIFI"
     },
     {
         "City": "Tyler",
@@ -3540,7 +3860,8 @@
         "Role": "P-N",
         "Enplanements": "39,943",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "TYR Airport WiFi"
     },
     {
         "City": "Waco",
@@ -3551,7 +3872,8 @@
         "Role": "P-N",
         "Enplanements": "47,541",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "ACT_Wi-Fi"
     },
     {
         "City": "Wichita Falls",
@@ -3562,7 +3884,8 @@
         "Role": "P-N",
         "Enplanements": "32,038",
         "State": "TEXAS",
-        "StateAbbreviation": "TX"
+        "StateAbbreviation": "TX",
+        "SSID": "SPS_FREE_WIFI"
     },
     {
         "City": "Cedar City",
@@ -3573,7 +3896,8 @@
         "Role": "P-N",
         "Enplanements": "12,807",
         "State": "UTAH",
-        "StateAbbreviation": "UT"
+        "StateAbbreviation": "UT",
+        "SSID": "CC Airport Public WiFi"
     },
     {
         "City": "Moab",
@@ -3584,7 +3908,8 @@
         "Role": "P-N",
         "Enplanements": "20,093",
         "State": "UTAH",
-        "StateAbbreviation": "UT"
+        "StateAbbreviation": "UT",
+        "SSID": "Airport CNY_WIFI"
     },
     {
         "City": "Ogden",
@@ -3595,7 +3920,8 @@
         "Role": "P-N",
         "Enplanements": "29,857",
         "State": "UTAH",
-        "StateAbbreviation": "UT"
+        "StateAbbreviation": "UT",
+        "SSID": "Airport OGD_WIFI"
     },
     {
         "City": "Provo",
@@ -3606,7 +3932,8 @@
         "Role": "P-N",
         "Enplanements": "118,740",
         "State": "UTAH",
-        "StateAbbreviation": "UT"
+        "StateAbbreviation": "UT",
+        "SSID": "PVU-GUEST-WIFI"
     },
     {
         "City": "St. George",
@@ -3617,7 +3944,8 @@
         "Role": "P-N",
         "Enplanements": "153,200",
         "State": "UTAH",
-        "StateAbbreviation": "UT"
+        "StateAbbreviation": "UT",
+        "SSID": "SGU Free WiFi"
     },
     {
         "City": "Salt Lake City",
@@ -3628,7 +3956,8 @@
         "Role": "P-L",
         "Enplanements": "10,795,906",
         "State": "UTAH",
-        "StateAbbreviation": "UT"
+        "StateAbbreviation": "UT",
+        "SSID": "SLC Free WiFi"
     },
     {
         "City": "Burlington",
@@ -3639,7 +3968,8 @@
         "Role": "P-S",
         "Enplanements": "658,879",
         "State": "VERMONT",
-        "StateAbbreviation": "VT"
+        "StateAbbreviation": "VT",
+        "SSID": "BTV_Public-WiFi"
     },
     {
         "City": "Charlottesville",
@@ -3650,7 +3980,8 @@
         "Role": "P-N",
         "Enplanements": "352,816",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "CHO Public Wi-Fi"
     },
     {
         "City": "Lynchburg",
@@ -3661,7 +3992,8 @@
         "Role": "P-N",
         "Enplanements": "83,392",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "LYH Public WiFi"
     },
     {
         "City": "Newport News",
@@ -3672,7 +4004,8 @@
         "Role": "P-N",
         "Enplanements": "195,573",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "PHF Guest WiFi"
     },
     {
         "City": "Norfolk",
@@ -3683,7 +4016,8 @@
         "Role": "P-S",
         "Enplanements": "1,846,031",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "ORFWiFi"
     },
     {
         "City": "Richmond",
@@ -3694,7 +4028,8 @@
         "Role": "P-S",
         "Enplanements": "2,048,691",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "\"RIC-Public\""
     },
     {
         "City": "Roanoke",
@@ -3705,7 +4040,8 @@
         "Role": "P-N",
         "Enplanements": "330,063",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "FlyRoanoke"
     },
     {
         "City": "Staunton/Waynesboro/Harrisonburg",
@@ -3716,7 +4052,8 @@
         "Role": "P-N",
         "Enplanements": "12,179",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "SHD Free WiFi"
     },
     {
         "City": "Washington, D.C./Arlington",
@@ -3727,7 +4064,8 @@
         "Role": "P-L",
         "Enplanements": "11,366,771",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "DCA_FREE_WIFI"
     },
     {
         "City": "Washington, D.C./Dulles/Chantilly",
@@ -3738,7 +4076,8 @@
         "Role": "P-L",
         "Enplanements": "11,621,623",
         "State": "VIRGINIA",
-        "StateAbbreviation": "VA"
+        "StateAbbreviation": "VA",
+        "SSID": "\"FlyDulles\""
     },
     {
         "City": "Bellingham",
@@ -3749,7 +4088,8 @@
         "Role": "P-N",
         "Enplanements": "311,234",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "FlyBLI"
     },
     {
         "City": "Eastsound",
@@ -3760,7 +4100,8 @@
         "Role": "P-N",
         "Enplanements": "8,089",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "esdflyers"
     },
     {
         "City": "Everett",
@@ -3771,7 +4112,8 @@
         "Role": "P-N",
         "Enplanements": "306,499",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "PaineFieldGuest"
     },
     {
         "City": "Friday Harbor",
@@ -3782,7 +4124,8 @@
         "Role": "P-N",
         "Enplanements": "12,709",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "FRD_PUBLIC_WIFI"
     },
     {
         "City": "Pasco",
@@ -3793,7 +4136,8 @@
         "Role": "P-S",
         "Enplanements": "438,076",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "PSC_FREE_WIFI"
     },
     {
         "City": "Pullman/Moscow, Idaho",
@@ -3804,7 +4148,8 @@
         "Role": "P-N",
         "Enplanements": "63,835",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "PUW_Public_WiFi"
     },
     {
         "City": "Seattle",
@@ -3815,7 +4160,8 @@
         "Role": "P-N",
         "Enplanements": "27,446",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "BFI-Free-Wifi"
     },
     {
         "City": "Seattle/Tacoma(SeaTac)",
@@ -3826,7 +4172,8 @@
         "Role": "P-L",
         "Enplanements": "24,594,210",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "SEA Airport Wi-Fi"
     },
     {
         "City": "Spokane",
@@ -3837,7 +4184,8 @@
         "Role": "P-S",
         "Enplanements": "2,002,286",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "GEG_Free_WiFi"
     },
     {
         "City": "Walla Walla",
@@ -3848,7 +4196,8 @@
         "Role": "P-N",
         "Enplanements": "26,465",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "ALW_PublicWiFi"
     },
     {
         "City": "Wenatchee",
@@ -3859,7 +4208,8 @@
         "Role": "P-N",
         "Enplanements": "27,655",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "EAT Airport Wifi"
     },
     {
         "City": "Yakima",
@@ -3870,7 +4220,8 @@
         "Role": "P-N",
         "Enplanements": "24,044",
         "State": "WASHINGTON",
-        "StateAbbreviation": "WA"
+        "StateAbbreviation": "WA",
+        "SSID": "YKM-GuestWifi"
     },
     {
         "City": "Charleston",
@@ -3881,7 +4232,8 @@
         "Role": "P-N",
         "Enplanements": "194,898",
         "State": "WEST VIRGINIA",
-        "StateAbbreviation": "WV"
+        "StateAbbreviation": "WV",
+        "SSID": "CRW_FREE_WIFI"
     },
     {
         "City": "Clarksburg",
@@ -3892,7 +4244,8 @@
         "Role": "P-N",
         "Enplanements": "42,736",
         "State": "WEST VIRGINIA",
-        "StateAbbreviation": "WV"
+        "StateAbbreviation": "WV",
+        "SSID": "CKB_FREE_WIFI"
     },
     {
         "City": "Huntington",
@@ -3903,7 +4256,8 @@
         "Role": "P-N",
         "Enplanements": "88,888",
         "State": "WEST VIRGINIA",
-        "StateAbbreviation": "WV"
+        "StateAbbreviation": "WV",
+        "SSID": "HTS_FREE_WIFI"
     },
     {
         "City": "Appleton/Fox Cities",
@@ -3914,7 +4268,8 @@
         "Role": "P-S",
         "Enplanements": "474,885",
         "State": "WISCONSIN",
-        "StateAbbreviation": "WI"
+        "StateAbbreviation": "WI",
+        "SSID": "ATW Free Wifi"
     },
     {
         "City": "Eau Claire",
@@ -3925,7 +4280,8 @@
         "Role": "P-N",
         "Enplanements": "25,856",
         "State": "WISCONSIN",
-        "StateAbbreviation": "WI"
+        "StateAbbreviation": "WI",
+        "SSID": "EAU-Public-WiFi"
     },
     {
         "City": "Green Bay",
@@ -3936,7 +4292,8 @@
         "Role": "P-N",
         "Enplanements": "330,478",
         "State": "WISCONSIN",
-        "StateAbbreviation": "WI"
+        "StateAbbreviation": "WI",
+        "SSID": "GRB_FREE_WIFI"
     },
     {
         "City": "La Crosse",
@@ -3947,7 +4304,8 @@
         "Role": "P-N",
         "Enplanements": "43,681",
         "State": "WISCONSIN",
-        "StateAbbreviation": "WI"
+        "StateAbbreviation": "WI",
+        "SSID": "LSE-PublicWiFi"
     },
     {
         "City": "Madison",
@@ -3958,7 +4316,8 @@
         "Role": "P-S",
         "Enplanements": "1,037,973",
         "State": "WISCONSIN",
-        "StateAbbreviation": "WI"
+        "StateAbbreviation": "WI",
+        "SSID": "MSN-Guest-WiFi"
     },
     {
         "City": "Milwaukee",
@@ -3969,7 +4328,8 @@
         "Role": "P-M",
         "Enplanements": "2,959,810",
         "State": "WISCONSIN",
-        "StateAbbreviation": "WI"
+        "StateAbbreviation": "WI",
+        "SSID": "MKE-WiFi"
     },
     {
         "City": "Mosinee",
@@ -3980,7 +4340,8 @@
         "Role": "P-N",
         "Enplanements": "84,775",
         "State": "WISCONSIN",
-        "StateAbbreviation": "WI"
+        "StateAbbreviation": "WI",
+        "SSID": "CWA Free WiFi"
     },
     {
         "City": "Rhinelander",
@@ -3991,7 +4352,8 @@
         "Role": "P-N",
         "Enplanements": "20,986",
         "State": "WISCONSIN",
-        "StateAbbreviation": "WI"
+        "StateAbbreviation": "WI",
+        "SSID": "RHI-WiFi"
     },
     {
         "City": "Casper",
@@ -4002,7 +4364,8 @@
         "Role": "P-N",
         "Enplanements": "66,629",
         "State": "WYOMING",
-        "StateAbbreviation": "WY"
+        "StateAbbreviation": "WY",
+        "SSID": "CPR-Guest-WiFi"
     },
     {
         "City": "Cody",
@@ -4013,7 +4376,8 @@
         "Role": "P-N",
         "Enplanements": "37,349",
         "State": "WYOMING",
-        "StateAbbreviation": "WY"
+        "StateAbbreviation": "WY",
+        "SSID": "Yellowstone Airport GuestWiFi"
     },
     {
         "City": "Gillette",
@@ -4024,7 +4388,8 @@
         "Role": "P-N",
         "Enplanements": "23,873",
         "State": "WYOMING",
-        "StateAbbreviation": "WY"
+        "StateAbbreviation": "WY",
+        "SSID": "FlyGCCWiFi"
     },
     {
         "City": "Jackson",
@@ -4035,7 +4400,8 @@
         "Role": "P-S",
         "Enplanements": "497,548",
         "State": "WYOMING",
-        "StateAbbreviation": "WY"
+        "StateAbbreviation": "WY",
+        "SSID": "JAC_Free_WiFi"
     },
     {
         "City": "Laramie",
@@ -4046,7 +4412,8 @@
         "Role": "P-N",
         "Enplanements": "16,728",
         "State": "WYOMING",
-        "StateAbbreviation": "WY"
+        "StateAbbreviation": "WY",
+        "SSID": "LAR_PUBLIC_WIFI"
     },
     {
         "City": "Riverton",
@@ -4057,7 +4424,8 @@
         "Role": "P-N",
         "Enplanements": "15,420",
         "State": "WYOMING",
-        "StateAbbreviation": "WY"
+        "StateAbbreviation": "WY",
+        "SSID": "AIRPORTWiFi"
     },
     {
         "City": "Rock Springs",
@@ -4068,7 +4436,8 @@
         "Role": "P-N",
         "Enplanements": "16,679",
         "State": "WYOMING",
-        "StateAbbreviation": "WY"
+        "StateAbbreviation": "WY",
+        "SSID": "RKS-WIFI"
     },
     {
         "City": "Sheridan",
@@ -4079,7 +4448,8 @@
         "Role": "P-N",
         "Enplanements": "23,920",
         "State": "WYOMING",
-        "StateAbbreviation": "WY"
+        "StateAbbreviation": "WY",
+        "SSID": "AirportSHR"
     },
     {
         "City": "Agana/Tamuning",
@@ -4090,7 +4460,8 @@
         "Role": "P-N",
         "Enplanements": "1,736,131",
         "State": "GUAM",
-        "StateAbbreviation": "GU"
+        "StateAbbreviation": "GU",
+        "SSID": "GUM_FREE_WIFI"
     },
     {
         "City": "Obyan,Saipan Island",
@@ -4101,7 +4472,8 @@
         "Role": "P-N",
         "Enplanements": "595,181",
         "State": "NORTHERN MARIANAS",
-        "StateAbbreviation": "UNKNOWN"
+        "StateAbbreviation": "UNKNOWN",
+        "SSID": "SPN_Free_WiFi"
     },
     {
         "City": "Tinian Island",
@@ -4112,7 +4484,8 @@
         "Role": "P-N",
         "Enplanements": "38,664",
         "State": "NORTHERN MARIANAS",
-        "StateAbbreviation": "UNKNOWN"
+        "StateAbbreviation": "UNKNOWN",
+        "SSID": "AirportTIQWiFi"
     },
     {
         "City": "Aguadilla",
@@ -4123,7 +4496,8 @@
         "Role": "P-N",
         "Enplanements": "432,822",
         "State": "PUERTO RICO",
-        "StateAbbreviation": "PR"
+        "StateAbbreviation": "PR",
+        "SSID": "AirportBQNWiFi"
     },
     {
         "City": "Ceiba",
@@ -4134,7 +4508,8 @@
         "Role": "P-N",
         "Enplanements": "19,786",
         "State": "PUERTO RICO",
-        "StateAbbreviation": "PR"
+        "StateAbbreviation": "PR",
+        "SSID": "CeibaAirportWiFi"
     },
     {
         "City": "Culebra",
@@ -4145,7 +4520,8 @@
         "Role": "P-N",
         "Enplanements": "18,922",
         "State": "PUERTO RICO",
-        "StateAbbreviation": "PR"
+        "StateAbbreviation": "PR",
+        "SSID": "AirportCPX"
     },
     {
         "City": "Ponce",
@@ -4156,7 +4532,8 @@
         "Role": "P-N",
         "Enplanements": "142,076",
         "State": "PUERTO RICO",
-        "StateAbbreviation": "PR"
+        "StateAbbreviation": "PR",
+        "SSID": "Ponce Free WiFi"
     },
     {
         "City": "San Juan",
@@ -4167,7 +4544,8 @@
         "Role": "P-N",
         "Enplanements": "13,447",
         "State": "PUERTO RICO",
-        "StateAbbreviation": "PR"
+        "StateAbbreviation": "PR",
+        "SSID": "SJU-WiFi"
     },
     {
         "City": "San Juan",
@@ -4178,7 +4556,8 @@
         "Role": "P-M",
         "Enplanements": "5,985,001",
         "State": "PUERTO RICO",
-        "StateAbbreviation": "PR"
+        "StateAbbreviation": "PR",
+        "SSID": "SJU Free WiFi"
     },
     {
         "City": "Vieques",
@@ -4189,7 +4568,8 @@
         "Role": "P-N",
         "Enplanements": "28,961",
         "State": "PUERTO RICO",
-        "StateAbbreviation": "PR"
+        "StateAbbreviation": "PR",
+        "SSID": "VQS-AIRPORT-WIFI"
     },
     {
         "City": "Charlotte Amalie,St. Thomas",
@@ -4200,7 +4580,8 @@
         "Role": "P-S",
         "Enplanements": "417,871",
         "State": "U.S. VIRGIN ISLANDS",
-        "StateAbbreviation": "UNKNOWN"
+        "StateAbbreviation": "UNKNOWN",
+        "SSID": "STT Free WiFi"
     },
     {
         "City": "Christiansted,St. Croix",
@@ -4211,6 +4592,7 @@
         "Role": "P-N",
         "Enplanements": "212,812",
         "State": "U.S. VIRGIN ISLANDS",
-        "StateAbbreviation": "UNKNOWN"
+        "StateAbbreviation": "UNKNOWN",
+        "SSID": "STX-FreeWiFi"
     }
 ]

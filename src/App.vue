@@ -10,29 +10,49 @@
       </div>
       
       <div v-else-if="airports.length > 0" class="airport-container">
-        <!-- Search Box -->
-        <div class="search-container">
-          <input
-            v-model="searchTerm"
-            type="text"
-            placeholder="Search airports by name, city, state, or codes..."
-            class="search-input"
-          />
-          <div class="search-info">
-            <span v-if="searchTerm && filteredAirports.length > 0">
-              Showing {{ filteredAirports.length }} of {{ airports.length }} airports
-            </span>
-            <span v-else-if="searchTerm && filteredAirports.length === 0">
-              No airports found matching "{{ searchTerm }}"
-            </span>
-            <span v-else>
-              {{ airports.length }} airports total
-            </span>
+        <!-- Search and View Controls -->
+        <div class="controls-container">
+          <div class="search-section">
+            <input
+              v-model="searchTerm"
+              type="text"
+              placeholder="Search airports..."
+              class="search-input"
+            />
+            <div class="search-info">
+              <span v-if="searchTerm && filteredAirports.length > 0">
+                Showing {{ filteredAirports.length }} of {{ airports.length }} airports
+              </span>
+              <span v-else-if="searchTerm && filteredAirports.length === 0">
+                No airports found matching "{{ searchTerm }}"
+              </span>
+              <span v-else>
+                {{ airports.length }} airports total
+              </span>
+            </div>
+          </div>
+
+          <!-- View Toggle -->
+          <div class="view-toggle-container">
+            <button 
+              @click="currentView = 'card'" 
+              :class="['view-toggle-btn', { active: currentView === 'card' }]"
+            >
+              <span class="toggle-icon">📋</span>
+              Card View
+            </button>
+            <button 
+              @click="currentView = 'table'" 
+              :class="['view-toggle-btn', { active: currentView === 'table' }]"
+            >
+              <span class="toggle-icon">📊</span>
+              Table View
+            </button>
           </div>
         </div>
 
-        <!-- Airport Grid -->
-        <div class="airport-grid">
+        <!-- Card View -->
+        <div v-if="currentView === 'card'" class="airport-grid">
           <div 
             v-for="(airport, index) in filteredAirports" 
             :key="index"
@@ -45,9 +65,57 @@
               <span class="code-item">IATA: {{ airport.IATA }}</span>
               <span class="code-item">ICAO: {{ airport.ICAO }}</span>
             </div>
+            <p class="airport-ssid"><strong>SSID:</strong> {{ airport.SSID }}</p>
             <p class="airport-role">Role: {{ airport.Role }}</p>
             <p class="airport-enplanements">Enplanements: {{ airport.Enplanements }}</p>
             <p class="airport-state">State: {{ airport.State }}</p>
+          </div>
+        </div>
+
+        <!-- Table View -->
+        <div v-else-if="currentView === 'table'" class="table-container">
+          <table class="airport-table">
+            <thead>
+              <tr>
+                <th>Airport</th>
+                <th>IATA</th>
+                <th>City</th>
+                <th>State</th>
+                <th>SSID</th>
+                <th>Enplanements</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr 
+                v-for="(airport, index) in filteredAirports" 
+                :key="index"
+                class="table-row"
+                @mouseenter="handleMouseEnter(airport, $event)"
+                @mouseleave="hoveredAirport = null"
+              >
+                <td class="airport-name-cell">{{ airport.Airport }}</td>
+                <td class="code-cell">{{ airport.IATA }}</td>
+                <td>{{ airport.City }}</td>
+                <td>{{ airport.StateAbbreviation }}</td>
+                <td class="ssid-cell">{{ airport.SSID }}</td>
+                <td class="enplanements-cell">{{ airport.Enplanements }}</td>
+              </tr>
+            </tbody>
+          </table>
+          
+          <!-- Hover Card -->
+          <div v-if="hoveredAirport" class="hover-card" :style="hoverCardStyle">
+            <h3 class="hover-card-title">{{ hoveredAirport.Airport }}</h3>
+            <p class="hover-card-location">{{ hoveredAirport.City }}, {{ hoveredAirport.StateAbbreviation }}</p>
+            <div class="hover-card-codes">
+              <span class="hover-code-item">FAA: {{ hoveredAirport.FAA }}</span>
+              <span class="hover-code-item">IATA: {{ hoveredAirport.IATA }}</span>
+              <span class="hover-code-item">ICAO: {{ hoveredAirport.ICAO }}</span>
+            </div>
+            <p class="hover-card-ssid"><strong>SSID:</strong> {{ hoveredAirport.SSID }}</p>
+            <p class="hover-card-role">Role: {{ hoveredAirport.Role }}</p>
+            <p class="hover-card-enplanements">Enplanements: {{ hoveredAirport.Enplanements }}</p>
+            <p class="hover-card-state">State: {{ hoveredAirport.State }}</p>
           </div>
         </div>
       </div>
@@ -68,31 +136,63 @@ export default {
     return {
       airports: [],
       loading: true,
-      searchTerm: ''
+      searchTerm: '',
+      currentView: 'table',
+      hoveredAirport: null,
+      mousePosition: { x: 0, y: 0 }
     }
   },
   computed: {
     filteredAirports() {
-      if (!this.searchTerm.trim()) {
-        return this.airports;
+      let filtered = this.airports;
+      
+      if (this.searchTerm.trim()) {
+        const searchLower = this.searchTerm.toLowerCase();
+        
+        filtered = this.airports.filter(airport => {
+          // Check if search term matches any airport field
+          return (
+            airport.Airport.toLowerCase().replace("airport", "").includes(searchLower) ||
+            airport.City.toLowerCase().includes(searchLower) ||
+            airport.State.toLowerCase().includes(searchLower) ||
+            airport.StateAbbreviation.toLowerCase().includes(searchLower) ||
+            airport.FAA.toLowerCase().includes(searchLower) ||
+            airport.IATA.toLowerCase().includes(searchLower) ||
+            airport.ICAO.toLowerCase().includes(searchLower) ||
+            airport.SSID.toLowerCase().includes(searchLower) ||
+            airport.Role.toLowerCase().includes(searchLower) ||
+            airport.Enplanements.toLowerCase().includes(searchLower)
+          );
+        });
       }
       
-      const searchLower = this.searchTerm.toLowerCase();
-      
-      return this.airports.filter(airport => {
-        // Check if search term matches any airport field
-        return (
-          airport.Airport.toLowerCase().includes(searchLower) ||
-          airport.City.toLowerCase().includes(searchLower) ||
-          airport.State.toLowerCase().includes(searchLower) ||
-          airport.StateAbbreviation.toLowerCase().includes(searchLower) ||
-          airport.FAA.toLowerCase().includes(searchLower) ||
-          airport.IATA.toLowerCase().includes(searchLower) ||
-          airport.ICAO.toLowerCase().includes(searchLower) ||
-          airport.Role.toLowerCase().includes(searchLower) ||
-          airport.Enplanements.toLowerCase().includes(searchLower)
-        );
+      // Sort by enplanements (descending - highest first)
+      return filtered.sort((a, b) => {
+        const aEnplanements = parseInt(a.Enplanements.replace(/,/g, '')) || 0;
+        const bEnplanements = parseInt(b.Enplanements.replace(/,/g, '')) || 0;
+        return bEnplanements - aEnplanements;
       });
+    },
+    hoverCardStyle() {
+      if (!this.hoveredAirport) return {};
+      
+      // Position the card near the mouse but ensure it stays within viewport
+      const offsetX = 20;
+      const offsetY = 10;
+      
+      return {
+        left: `${this.mousePosition.x + offsetX}px`,
+        top: `${this.mousePosition.y + offsetY}px`
+      };
+    }
+  },
+  methods: {
+    handleMouseEnter(airport, event) {
+      this.hoveredAirport = airport;
+      this.mousePosition = {
+        x: event.clientX,
+        y: event.clientY
+      };
     }
   },
   async mounted() {
@@ -148,17 +248,25 @@ export default {
   gap: 2rem;
 }
 
-.search-container {
+.controls-container {
   background: rgba(255, 255, 255, 0.95);
   padding: 1.5rem;
   border-radius: 10px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.search-section {
+  flex: 1;
+  min-width: 0;
 }
 
 .search-input {
   width: 100%;
-  padding: 1rem;
-  font-size: 1.1rem;
+  padding: 0.8rem;
+  font-size: 1rem;
   border: 2px solid #e9ecef;
   border-radius: 8px;
   outline: none;
@@ -180,6 +288,47 @@ export default {
   font-size: 0.9rem;
   color: #666;
   font-style: italic;
+}
+
+.view-toggle-container {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.view-toggle-btn {
+  background-color: #e9ecef;
+  color: #333;
+  padding: 0.8rem 1.5rem;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.view-toggle-btn:hover {
+  background-color: #dee2e6;
+  border-color: #ced4da;
+}
+
+.view-toggle-btn.active {
+  background-color: #667eea;
+  color: white;
+  border-color: #667eea;
+}
+
+.view-toggle-btn.active:hover {
+  background-color: #5a67d8;
+  border-color: #5a67d8;
+}
+
+.toggle-icon {
+  font-size: 1.2rem;
 }
 
 .airport-grid {
@@ -252,10 +401,170 @@ export default {
   margin-bottom: 0.5rem;
 }
 
+.airport-ssid {
+  color: #2c3e50;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  background: #e8f4fd;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border-left: 3px solid #667eea;
+}
+
 .airport-state {
   color: #666;
   font-size: 0.9rem;
   font-style: italic;
+}
+
+.table-container {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  overflow-x: auto; /* Ensure table is scrollable if content is wide */
+  position: relative; /* For hover card positioning */
+}
+
+.airport-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.airport-table th,
+.airport-table td {
+  padding: 0.8rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.airport-table th {
+  background-color: #f8f9fa;
+  color: #495057;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+}
+
+.airport-table tbody tr:hover {
+  background-color: #f1f3f5;
+}
+
+.airport-name-cell {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.code-cell {
+  font-family: 'Courier New', monospace;
+  background: #f8f9fa;
+  padding: 0.3rem 0.7rem;
+  border-radius: 5px;
+  border: 1px solid #e9ecef;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.ssid-cell {
+  font-family: 'Courier New', monospace;
+  background: #e8f4fd;
+  padding: 0.3rem 0.7rem;
+  border-radius: 5px;
+  border: 1px solid #b3d9ff;
+  font-size: 0.9rem;
+  color: #2c3e50;
+  font-weight: 500;
+}
+
+.enplanements-cell {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+/* Hover Card Styles */
+.hover-card {
+  position: fixed;
+  background: rgba(255, 255, 255, 0.98);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  border: 1px solid #e9ecef;
+  z-index: 1000;
+  max-width: 300px;
+  pointer-events: none;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hover-card-title {
+  color: #2c3e50;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.hover-card-location {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.hover-card-codes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.hover-code-item {
+  background: #f8f9fa;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #e9ecef;
+  font-family: 'Courier New', monospace;
+  font-size: 0.8rem;
+  color: #333;
+}
+
+.hover-card-ssid {
+  color: #2c3e50;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  background: #e8f4fd;
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+  border-left: 2px solid #667eea;
+  font-family: 'Courier New', monospace;
+}
+
+.hover-card-role,
+.hover-card-enplanements,
+.hover-card-state {
+  color: #666;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-bottom: 0.3rem;
+}
+
+.hover-card-enplanements {
+  font-weight: 600;
+  color: #2c3e50;
 }
 
 .no-data {
@@ -297,9 +606,25 @@ export default {
     grid-template-columns: 1fr;
   }
   
+  .controls-container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
   .search-input {
     font-size: 1rem;
     padding: 0.8rem;
+  }
+
+  .view-toggle-container {
+    flex-direction: row;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  .view-toggle-btn {
+    flex: 1;
+    justify-content: center;
   }
 }
 </style>

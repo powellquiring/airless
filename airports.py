@@ -1,4 +1,6 @@
 #!python
+import os
+from openai import OpenAI
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -7,13 +9,14 @@ import us
 #         "FAA": "", "IATA": "", "ICAO": "", "Airport": "", "Role": "", "Enplanements": ""
 keys = ["FAA", "IATA", "ICAO", "Airport", "Role", "Enplanements"]
 
-def state_header(row_dict):
-    for key in keys:
-        if row_dict[key] != "":
-            return False
-    return True
+openai_api_key = os.environ["OPENAI_API_KEY"]
+
+client = OpenAI(
+    api_key=openai_api_key,
+)
 
 url = "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_States"
+
 
 # Fetch the webpage content
 response = requests.get(url)
@@ -28,6 +31,15 @@ table = soup.find('table', class_='wikitable sortable')
 # Initialize lists to store headers and rows
 headers = []
 data = []
+
+def state_header(row_dict):
+    for key in keys:
+        if row_dict[key] != "":
+            return False
+    return True
+
+def dump_completion(completion, answer):
+    print(f"{answer}: {completion}")
 
 if table:
     # Extract headers
@@ -57,14 +69,35 @@ if table:
         if row_dict["IATA"] == "":
             raise Exception(f"IATA is empty for {row_dict}")
         iata = row_dict["IATA"]
+        #****************
+        if iata != "PDX":
+            continue
+        #****************
+
         if iata in all_iata:
             raise Exception(f"IATA {iata} is not unique")
+        city = row_dict["City"]
         all_iata.add(iata)
+        #q = f"First determine the recommended public ssid to use for wifi configuration for airport {iata} in {city}. Then reduce the that answer down to a single SSID wifi string"
+        q = f"the recommended public ssid to use for wifi configuration for airport {iata} in {city}"
+        print(q)
+        completion = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "user",
+                    "content": q
+                }
+            ],
+        )
+        answer = completion.choices[0].message.content
+        dump_completion(completion, answer)
+        row_dict["SSID"] = answer
         data.append(row_dict)
 
 # Convert the list of dictionaries to a JSON array
-json_output = json.dumps(data, indent=4)
-
-# Print the JSON output
-print(json_output)
-
+AIRPORTS_JSON = "public/airports.json"
+print(json.dumps(data, indent=4))
+print(f"updating {AIRPORTS_JSON}")
+with open(AIRPORTS_JSON, 'w') as f:
+    json.dump(data, f, indent=4)  # Use indent for pretty-printing (optional)
