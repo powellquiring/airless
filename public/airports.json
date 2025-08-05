@@ -1,77 +1,5 @@
 [
     {
-        "City": "Birmingham",
-        "FAA": "BHM",
-        "IATA": "BHM",
-        "ICAO": "KBHM",
-        "Airport": "Birmingham\u2013Shuttlesworth International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,081,328",
-        "State": "ALABAMA",
-        "StateAbbreviation": "AL",
-        "SSID": "Fly_BHM_WiFi"
-    },
-    {
-        "City": "Dothan",
-        "FAA": "DHN",
-        "IATA": "DHN",
-        "ICAO": "KDHN",
-        "Airport": "Dothan Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "37,047",
-        "State": "ALABAMA",
-        "StateAbbreviation": "AL",
-        "SSID": "DHN-Public-WiFi"
-    },
-    {
-        "City": "Huntsville",
-        "FAA": "HSV",
-        "IATA": "HSV",
-        "ICAO": "KHSV",
-        "Airport": "Huntsville International Airport(Carl T. Jones Field)",
-        "Role": "P-S",
-        "Enplanements": "459,759",
-        "State": "ALABAMA",
-        "StateAbbreviation": "AL",
-        "SSID": "FlyHSVWifi"
-    },
-    {
-        "City": "Mobile",
-        "FAA": "MOB",
-        "IATA": "MOB",
-        "ICAO": "KMOB",
-        "Airport": "Mobile Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "236,007",
-        "State": "ALABAMA",
-        "StateAbbreviation": "AL",
-        "SSID": "Mobile_Airport_WiFi"
-    },
-    {
-        "City": "Montgomery",
-        "FAA": "MGM",
-        "IATA": "MGM",
-        "ICAO": "KMGM",
-        "Airport": "Montgomery Regional Airport(Dannelly Field)",
-        "Role": "P-N",
-        "Enplanements": "129,033",
-        "State": "ALABAMA",
-        "StateAbbreviation": "AL",
-        "SSID": "MGM_FREE_WIFI"
-    },
-    {
-        "City": "Anchorage",
-        "FAA": "MRI",
-        "IATA": "MRI",
-        "ICAO": "PAMR",
-        "Airport": "Merrill Field",
-        "Role": "P-N",
-        "Enplanements": "22,907",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "ANCHORAGE-MRI-AIRPORT"
-    },
-    {
         "City": "Anchorage",
         "FAA": "ANC",
         "IATA": "ANC",
@@ -84,294 +12,6 @@
         "SSID": "ANC Free WiFi"
     },
     {
-        "City": "Bethel",
-        "FAA": "BET",
-        "IATA": "BET",
-        "ICAO": "PABE",
-        "Airport": "Bethel Airport(also seeBethel Seaplane Base)",
-        "Role": "P-N",
-        "Enplanements": "105,877",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "BetheWiFi"
-    },
-    {
-        "City": "Cordova",
-        "FAA": "CDV",
-        "IATA": "CDV",
-        "ICAO": "PACV",
-        "Airport": "Merle K. (Mudhole) Smith Airport",
-        "Role": "P-N",
-        "Enplanements": "15,058",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "CDVAirportWiFi"
-    },
-    {
-        "City": "Deadhorse",
-        "FAA": "SCC",
-        "IATA": "SCC",
-        "ICAO": "PASC",
-        "Airport": "Deadhorse Airport(Prudhoe Bay Airport)",
-        "Role": "P-N",
-        "Enplanements": "64,245",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "ADK-FreeWifi"
-    },
-    {
-        "City": "Dillingham",
-        "FAA": "DLG",
-        "IATA": "DLG",
-        "ICAO": "PADL",
-        "Airport": "Dillingham Airport",
-        "Role": "P-N",
-        "Enplanements": "25,988",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "AirportDLG"
-    },
-    {
-        "City": "Fairbanks",
-        "FAA": "FAI",
-        "IATA": "FAI",
-        "ICAO": "PAFA",
-        "Airport": "Fairbanks International Airport",
-        "Role": "P-S",
-        "Enplanements": "450,694",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "FAI-Public-Guest"
-    },
-    {
-        "City": "Gustavus",
-        "FAA": "GST",
-        "IATA": "GST",
-        "ICAO": "PAGS",
-        "Airport": "Gustavus Airport",
-        "Role": "P-N",
-        "Enplanements": "10,305",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "AirportGSTWiFi"
-    },
-    {
-        "City": "Homer",
-        "FAA": "HOM",
-        "IATA": "HOM",
-        "ICAO": "PAHO",
-        "Airport": "Homer Airport",
-        "Role": "P-N",
-        "Enplanements": "30,972",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "HOM Free WiFi"
-    },
-    {
-        "City": "Juneau",
-        "FAA": "JNU",
-        "IATA": "JNU",
-        "ICAO": "PAJN",
-        "Airport": "Juneau International Airport",
-        "Role": "P-N",
-        "Enplanements": "306,512",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "JNU Public WiFi"
-    },
-    {
-        "City": "Kenai",
-        "FAA": "ENA",
-        "IATA": "ENA",
-        "ICAO": "PAEN",
-        "Airport": "Kenai Municipal Airport",
-        "Role": "P-N",
-        "Enplanements": "68,044",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "ENA_Free_WiFi"
-    },
-    {
-        "City": "Ketchikan",
-        "FAA": "KTN",
-        "IATA": "KTN",
-        "ICAO": "PAKT",
-        "Airport": "Ketchikan International Airport",
-        "Role": "P-N",
-        "Enplanements": "117,728",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "KTN-Public-WiFi"
-    },
-    {
-        "City": "King Salmon",
-        "FAA": "AKN",
-        "IATA": "AKN",
-        "ICAO": "PAKN",
-        "Airport": "King Salmon Airport",
-        "Role": "P-N",
-        "Enplanements": "29,914",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "AKN-Guest-745"
-    },
-    {
-        "City": "Klawock",
-        "FAA": "AKW",
-        "IATA": "KLW",
-        "ICAO": "PAKW",
-        "Airport": "Klawock Airport(also seeKlawock Seaplane Base)",
-        "Role": "P-N",
-        "Enplanements": "14,157",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "Airport_KLW"
-    },
-    {
-        "City": "Kodiak",
-        "FAA": "ADQ",
-        "IATA": "ADQ",
-        "ICAO": "PADQ",
-        "Airport": "Kodiak Airport(Benny BensonState Airport)",
-        "Role": "P-N",
-        "Enplanements": "72,905",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "ADQ_FREE_WIFI"
-    },
-    {
-        "City": "Kotzebue",
-        "FAA": "OTZ",
-        "IATA": "OTZ",
-        "ICAO": "PAOT",
-        "Airport": "Ralph Wien Memorial Airport",
-        "Role": "P-N",
-        "Enplanements": "46,305",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "OTZ Airport WiFi"
-    },
-    {
-        "City": "Nome",
-        "FAA": "OME",
-        "IATA": "OME",
-        "ICAO": "PAOM",
-        "Airport": "Nome Airport",
-        "Role": "P-N",
-        "Enplanements": "46,645",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "Airport_NOME_WiFi"
-    },
-    {
-        "City": "Petersburg",
-        "FAA": "PSG",
-        "IATA": "PSG",
-        "ICAO": "PAPG",
-        "Airport": "Petersburg James A. Johnson Airport",
-        "Role": "P-N",
-        "Enplanements": "20,690",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "PSG_PublicWiFi"
-    },
-    {
-        "City": "Sitka",
-        "FAA": "SIT",
-        "IATA": "SIT",
-        "ICAO": "PASI",
-        "Airport": "Sitka Rocky Gutierrez Airport",
-        "Role": "P-N",
-        "Enplanements": "80,366",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "SITKA-WIFI"
-    },
-    {
-        "City": "Unalaska",
-        "FAA": "DUT",
-        "IATA": "DUT",
-        "ICAO": "PADU",
-        "Airport": "Unalaska Airport(Tom Madsen/Dutch HarborAirport)",
-        "Role": "P-N",
-        "Enplanements": "19,099",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "Airport Wifi"
-    },
-    {
-        "City": "Utqia\u0121vik(Barrow)",
-        "FAA": "BRW",
-        "IATA": "BRW",
-        "ICAO": "PABR",
-        "Airport": "Wiley Post\u2013Will Rogers Memorial Airport",
-        "Role": "P-N",
-        "Enplanements": "31,898",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "BRW Free WiFi"
-    },
-    {
-        "City": "Wrangell",
-        "FAA": "WRG",
-        "IATA": "WRG",
-        "ICAO": "PAWG",
-        "Airport": "Wrangell Airport(also seeWrangell Seaplane Base)",
-        "Role": "P-N",
-        "Enplanements": "12,100",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "Airport-WRG-WIFI"
-    },
-    {
-        "City": "Yakutat",
-        "FAA": "YAK",
-        "IATA": "YAK",
-        "ICAO": "PAYA",
-        "Airport": "Yakutat Airport(also seeYakutat Seaplane Base)",
-        "Role": "P-N",
-        "Enplanements": "10,899",
-        "State": "ALASKA",
-        "StateAbbreviation": "AK",
-        "SSID": "YAK_FreeWiFi"
-    },
-    {
-        "City": "Flagstaff",
-        "FAA": "FLG",
-        "IATA": "FLG",
-        "ICAO": "KFLG",
-        "Airport": "Flagstaff Pulliam Airport",
-        "Role": "P-N",
-        "Enplanements": "115,596",
-        "State": "ARIZONA",
-        "StateAbbreviation": "AZ",
-        "SSID": "FLG-Public-WiFi"
-    },
-    {
-        "City": "Mesa",
-        "FAA": "IWA",
-        "IATA": "AZA",
-        "ICAO": "KIWA",
-        "Airport": "Mesa Gateway Airport(formerlyWilliams AFB)",
-        "Role": "P-S",
-        "Enplanements": "795,407",
-        "State": "ARIZONA",
-        "StateAbbreviation": "AZ",
-        "SSID": "FlyMesaAZA"
-    },
-    {
-        "City": "Page",
-        "FAA": "PGA",
-        "IATA": "PGA",
-        "ICAO": "KPGA",
-        "Airport": "Page Municipal Airport",
-        "Role": "P-N",
-        "Enplanements": "14,340",
-        "State": "ARIZONA",
-        "StateAbbreviation": "AZ",
-        "SSID": "PGA-WiFi"
-    },
-    {
         "City": "Phoenix",
         "FAA": "PHX",
         "IATA": "PHX",
@@ -381,115 +21,7 @@
         "Enplanements": "18,940,287",
         "State": "ARIZONA",
         "StateAbbreviation": "AZ",
-        "SSID": "PHXWIFI"
-    },
-    {
-        "City": "Prescott",
-        "FAA": "PRC",
-        "IATA": "PRC",
-        "ICAO": "KPRC",
-        "Airport": "Prescott Municipal Airport(Ernest A. Love Field)",
-        "Role": "P-N",
-        "Enplanements": "23,598",
-        "State": "ARIZONA",
-        "StateAbbreviation": "AZ",
-        "SSID": "AirportGuestWiFi"
-    },
-    {
-        "City": "Tucson",
-        "FAA": "TUS",
-        "IATA": "TUS",
-        "ICAO": "KTUS",
-        "Airport": "Tucson International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,323,536",
-        "State": "ARIZONA",
-        "StateAbbreviation": "AZ",
-        "SSID": "flytucsonwifi"
-    },
-    {
-        "City": "Yuma",
-        "FAA": "NYL",
-        "IATA": "YUM",
-        "ICAO": "KNYL",
-        "Airport": "Yuma International Airport/MCAS Yuma",
-        "Role": "P-N",
-        "Enplanements": "110,182",
-        "State": "ARIZONA",
-        "StateAbbreviation": "AZ",
-        "SSID": "YumaAirportWiFi"
-    },
-    {
-        "City": "Fayetteville",
-        "FAA": "XNA",
-        "IATA": "XNA",
-        "ICAO": "KXNA",
-        "Airport": "Northwest Arkansas National Airport",
-        "Role": "P-S",
-        "Enplanements": "598,787",
-        "State": "ARKANSAS",
-        "StateAbbreviation": "AR",
-        "SSID": "XNA-WiFi"
-    },
-    {
-        "City": "Fort Smith",
-        "FAA": "FSM",
-        "IATA": "FSM",
-        "ICAO": "KFSM",
-        "Airport": "Fort Smith Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "45,369",
-        "State": "ARKANSAS",
-        "StateAbbreviation": "AR",
-        "SSID": "FSM-GuestWiFi"
-    },
-    {
-        "City": "Little Rock",
-        "FAA": "LIT",
-        "IATA": "LIT",
-        "ICAO": "KLIT",
-        "Airport": "Bill and Hillary Clinton National Airport(Adams Field)(was Little Rock National)",
-        "Role": "P-S",
-        "Enplanements": "827,922",
-        "State": "ARKANSAS",
-        "StateAbbreviation": "AR",
-        "SSID": "LIT_Free_WiFi"
-    },
-    {
-        "City": "Texarkana",
-        "FAA": "TXK",
-        "IATA": "TXK",
-        "ICAO": "KTXK",
-        "Airport": "Texarkana Regional Airport(Webb Field)",
-        "Role": "P-N",
-        "Enplanements": "26,888",
-        "State": "ARKANSAS",
-        "StateAbbreviation": "AR",
-        "SSID": "TXK_WIFI"
-    },
-    {
-        "City": "Arcata/Eureka",
-        "FAA": "ACV",
-        "IATA": "ACV",
-        "ICAO": "KACV",
-        "Airport": "California Redwood Coast\u2013Humboldt County Airport",
-        "Role": "P-N",
-        "Enplanements": "117,972",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "FlyHumboldt"
-    },
-    {
-        "City": "Bakersfield",
-        "FAA": "BFL",
-        "IATA": "BFL",
-        "ICAO": "KBFL",
-        "Airport": "Meadows Field",
-        "Role": "P-N",
-        "Enplanements": "174,891",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "BFL_FREE_WIFI"
+        "SSID": "PHX-Free-WiFi"
     },
     {
         "City": "Burbank",
@@ -501,19 +33,7 @@
         "Enplanements": "3,132,019",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "flyBUR."
-    },
-    {
-        "City": "Fresno",
-        "FAA": "FAT",
-        "IATA": "FAT",
-        "ICAO": "KFAT",
-        "Airport": "Fresno Yosemite International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,201,789",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "FAT Free WiFi"
+        "SSID": "BUR Airport WiFi"
     },
     {
         "City": "Long Beach",
@@ -525,7 +45,7 @@
         "Enplanements": "1,837,622",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "LGB Free WiFi"
+        "SSID": "LGB-Free-WiFi"
     },
     {
         "City": "Los Angeles",
@@ -537,19 +57,7 @@
         "Enplanements": "36,676,975",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "#FlyLAXWiFi"
-    },
-    {
-        "City": "Monterey",
-        "FAA": "MRY",
-        "IATA": "MRY",
-        "ICAO": "KMRY",
-        "Airport": "Monterey Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "259,762",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "FLY MONTEREYWiFi"
+        "SSID": "LAX Free WiFi"
     },
     {
         "City": "Oakland",
@@ -561,7 +69,7 @@
         "Enplanements": "5,520,778",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "FlyOAK"
+        "SSID": "OAK Airport Free WiFi"
     },
     {
         "City": "Ontario",
@@ -573,7 +81,7 @@
         "Enplanements": "3,181,161",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "FlyOntarioWifi"
+        "SSID": "ONT-WiFi"
     },
     {
         "City": "Palm Springs",
@@ -585,19 +93,7 @@
         "Enplanements": "1,625,320",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "flyPSP"
-    },
-    {
-        "City": "Redding",
-        "FAA": "RDD",
-        "IATA": "RDD",
-        "ICAO": "KRDD",
-        "Airport": "Redding Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "87,670",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "RDD_PUBLIC_WIFI"
+        "SSID": "PSPAirportWiFi"
     },
     {
         "City": "Sacramento",
@@ -609,7 +105,7 @@
         "Enplanements": "6,371,895",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "The recommended public SSID for wifi at Sacramento Airport is \"SMF-Guest.\""
+        "SSID": "FlySacramento_WIFI"
     },
     {
         "City": "San Diego",
@@ -621,7 +117,7 @@
         "Enplanements": "12,190,159",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "@SAN-Free-WiFi"
+        "SSID": "#SANfreewifi"
     },
     {
         "City": "San Francisco",
@@ -645,19 +141,7 @@
         "Enplanements": "5,958,813",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "#SJC Free WiFi"
-    },
-    {
-        "City": "San Luis Obispo",
-        "FAA": "SBP",
-        "IATA": "SBP",
-        "ICAO": "KSBP",
-        "Airport": "San Luis Obispo County Regional Airport(McChesney Field)",
-        "Role": "P-N",
-        "Enplanements": "324,925",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "Airport_WiFi"
+        "SSID": "SSID: flysanjose_wifi"
     },
     {
         "City": "Santa Ana",
@@ -669,91 +153,7 @@
         "Enplanements": "5,706,292",
         "State": "CALIFORNIA",
         "StateAbbreviation": "CA",
-        "SSID": "Airport-FreeWifi"
-    },
-    {
-        "City": "Santa Barbara",
-        "FAA": "SBA",
-        "IATA": "SBA",
-        "ICAO": "KSBA",
-        "Airport": "Santa Barbara Municipal Airport(Santa Barbara Airport)",
-        "Role": "P-S",
-        "Enplanements": "638,799",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "SBA-Public-WiFi"
-    },
-    {
-        "City": "Santa Maria",
-        "FAA": "SMX",
-        "IATA": "SMX",
-        "ICAO": "KSMX",
-        "Airport": "Santa Maria Public Airport(Capt G. Allan Hancock Field)",
-        "Role": "P-N",
-        "Enplanements": "14,409",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "SMX_Free_WiFi"
-    },
-    {
-        "City": "Santa Rosa",
-        "FAA": "STS",
-        "IATA": "STS",
-        "ICAO": "KSTS",
-        "Airport": "Charles M. Schulz\u2013Sonoma County Airport",
-        "Role": "P-N",
-        "Enplanements": "318,196",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "STS-FreeWiFi"
-    },
-    {
-        "City": "Stockton",
-        "FAA": "SCK",
-        "IATA": "SCK",
-        "ICAO": "KSCK",
-        "Airport": "Stockton Metropolitan Airport",
-        "Role": "P-N",
-        "Enplanements": "67,688",
-        "State": "CALIFORNIA",
-        "StateAbbreviation": "CA",
-        "SSID": "FlyStocktonWiFi"
-    },
-    {
-        "City": "Alamosa",
-        "FAA": "ALS",
-        "IATA": "ALS",
-        "ICAO": "KALS",
-        "Airport": "San Luis Valley Regional Airport(Bergman Field)",
-        "Role": "P-N",
-        "Enplanements": "11,987",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "FlyAlamosaWifi"
-    },
-    {
-        "City": "Aspen",
-        "FAA": "ASE",
-        "IATA": "ASE",
-        "ICAO": "KASE",
-        "Airport": "Aspen/Pitkin County Airport(Sardy Field)",
-        "Role": "P-N",
-        "Enplanements": "248,781",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "ASE-Guest-WiFi"
-    },
-    {
-        "City": "Colorado Springs",
-        "FAA": "COS",
-        "IATA": "COS",
-        "ICAO": "KCOS",
-        "Airport": "City of Colorado Springs Municipal Airport",
-        "Role": "P-S",
-        "Enplanements": "941,917",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "FlyCOS-Guest"
+        "SSID": "JWCFREEWIFI"
     },
     {
         "City": "Denver",
@@ -765,79 +165,7 @@
         "Enplanements": "28,645,527",
         "State": "COLORADO",
         "StateAbbreviation": "CO",
-        "SSID": "DEN Airport WiFi"
-    },
-    {
-        "City": "Durango",
-        "FAA": "DRO",
-        "IATA": "DRO",
-        "ICAO": "KDRO",
-        "Airport": "Durango\u2013La Plata County Airport",
-        "Role": "P-N",
-        "Enplanements": "200,245",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "Airport DRO_FreeWiFi"
-    },
-    {
-        "City": "Eagle/Vail",
-        "FAA": "EGE",
-        "IATA": "EGE",
-        "ICAO": "KEGE",
-        "Airport": "Eagle County Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "201,752",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "FlyVailGuestWiFi"
-    },
-    {
-        "City": "Grand Junction",
-        "FAA": "GJT",
-        "IATA": "GJT",
-        "ICAO": "KGJT",
-        "Airport": "Grand Junction Regional Airport(Walker Field)",
-        "Role": "P-N",
-        "Enplanements": "252,290",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "GJT-FreeWiFi"
-    },
-    {
-        "City": "Gunnison",
-        "FAA": "GUC",
-        "IATA": "GUC",
-        "ICAO": "KGUC",
-        "Airport": "Gunnison\u2013Crested Butte Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "38,783",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "GUC_Free_WiFi"
-    },
-    {
-        "City": "Hayden",
-        "FAA": "HDN",
-        "IATA": "HDN",
-        "ICAO": "KHDN",
-        "Airport": "Yampa Valley Airport(Yampa Valley Regional)",
-        "Role": "P-N",
-        "Enplanements": "150,142",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "HDN-Public-WiFi"
-    },
-    {
-        "City": "Montrose",
-        "FAA": "MTJ",
-        "IATA": "MTJ",
-        "ICAO": "KMTJ",
-        "Airport": "Montrose Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "188,355",
-        "State": "COLORADO",
-        "StateAbbreviation": "CO",
-        "SSID": "MTJ Free WiFi"
+        "SSID": "DEN Airport Free WiFi"
     },
     {
         "City": "Hartford",
@@ -849,43 +177,7 @@
         "Enplanements": "3,327,272",
         "State": "CONNECTICUT",
         "StateAbbreviation": "CT",
-        "SSID": "BDL Free Wifi"
-    },
-    {
-        "City": "New Haven",
-        "FAA": "HVN",
-        "IATA": "HVN",
-        "ICAO": "KHVN",
-        "Airport": "Tweed-New Haven Airport",
-        "Role": "P-N",
-        "Enplanements": "588,000",
-        "State": "CONNECTICUT",
-        "StateAbbreviation": "CT",
-        "SSID": "HVN_FREE_WIFI"
-    },
-    {
-        "City": "Wilmington",
-        "FAA": "ILG",
-        "IATA": "ILG",
-        "ICAO": "KILG",
-        "Airport": "Wilmington Airport",
-        "Role": "P-N",
-        "Enplanements": "133,377",
-        "State": "DELAWARE",
-        "StateAbbreviation": "DE",
-        "SSID": "ILG_FREE_WIFI"
-    },
-    {
-        "City": "Daytona Beach",
-        "FAA": "DAB",
-        "IATA": "DAB",
-        "ICAO": "KDAB",
-        "Airport": "Daytona Beach International Airport",
-        "Role": "P-N",
-        "Enplanements": "275,166",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "DAB-FreeWifi"
+        "SSID": "BDL_Public_WiFi"
     },
     {
         "City": "Fort Lauderdale",
@@ -897,7 +189,7 @@
         "Enplanements": "13,598,994",
         "State": "FLORIDA",
         "StateAbbreviation": "FL",
-        "SSID": "FLL Guest WiFi"
+        "SSID": "FLL-Free-WiFi"
     },
     {
         "City": "Fort Myers",
@@ -909,31 +201,7 @@
         "Enplanements": "5,080,805",
         "State": "FLORIDA",
         "StateAbbreviation": "FL",
-        "SSID": "RSW_FREE_WIFI"
-    },
-    {
-        "City": "Fort Walton Beach",
-        "FAA": "VPS",
-        "IATA": "VPS",
-        "ICAO": "KVPS",
-        "Airport": "Destin\u2013Fort Walton Beach Airport/Eglin Air Force Base",
-        "Role": "P-S",
-        "Enplanements": "973,477",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "FWB Airport WiFi"
-    },
-    {
-        "City": "Gainesville",
-        "FAA": "GNV",
-        "IATA": "GNV",
-        "ICAO": "KGNV",
-        "Airport": "Gainesville Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "200,444",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "GNV-WiFi"
+        "SSID": "RSW Free WiFi"
     },
     {
         "City": "Jacksonville",
@@ -945,31 +213,7 @@
         "Enplanements": "2,425,685",
         "State": "FLORIDA",
         "StateAbbreviation": "FL",
-        "SSID": "@JAX_WIFI"
-    },
-    {
-        "City": "Key West",
-        "FAA": "EYW",
-        "IATA": "EYW",
-        "ICAO": "KEYW",
-        "Airport": "Key West International Airport",
-        "Role": "P-S",
-        "Enplanements": "741,130",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "EYW_Free_Wifi"
-    },
-    {
-        "City": "Melbourne",
-        "FAA": "MLB",
-        "IATA": "MLB",
-        "ICAO": "KMLB",
-        "Airport": "Melbourne Orlando International Airport",
-        "Role": "P-N",
-        "Enplanements": "176,820",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "MLB Free Wifi"
+        "SSID": "JAX Free WiFi"
     },
     {
         "City": "Miami",
@@ -981,7 +225,7 @@
         "Enplanements": "17,500,096",
         "State": "FLORIDA",
         "StateAbbreviation": "FL",
-        "SSID": "MIA-WiFi"
+        "SSID": "_MIA-WiFi_"
     },
     {
         "City": "Orlando",
@@ -993,55 +237,7 @@
         "Enplanements": "19,618,838",
         "State": "FLORIDA",
         "StateAbbreviation": "FL",
-        "SSID": "MCO Free WiFi"
-    },
-    {
-        "City": "Panama City",
-        "FAA": "ECP",
-        "IATA": "ECP",
-        "ICAO": "KECP",
-        "Airport": "Northwest Florida Beaches International Airport",
-        "Role": "P-S",
-        "Enplanements": "794,846",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "ECP_FREE_WIFI"
-    },
-    {
-        "City": "Pensacola",
-        "FAA": "PNS",
-        "IATA": "PNS",
-        "ICAO": "KPNS",
-        "Airport": "Pensacola International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,168,575",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "PNS Free Wifi"
-    },
-    {
-        "City": "Punta Gorda",
-        "FAA": "PGD",
-        "IATA": "PGD",
-        "ICAO": "KPGD",
-        "Airport": "Punta Gorda Airport",
-        "Role": "P-S",
-        "Enplanements": "783,397",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "PGD Free WiFi"
-    },
-    {
-        "City": "Sanford",
-        "FAA": "SFB",
-        "IATA": "SFB",
-        "ICAO": "KSFB",
-        "Airport": "Orlando Sanford International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,174,471",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "FlySFBWiFi"
+        "SSID": "MCO Internet"
     },
     {
         "City": "Sarasota",
@@ -1053,31 +249,7 @@
         "Enplanements": "1,574,063",
         "State": "FLORIDA",
         "StateAbbreviation": "FL",
-        "SSID": "SRQ_Free_WiFi"
-    },
-    {
-        "City": "St. Petersburg",
-        "FAA": "PIE",
-        "IATA": "PIE",
-        "ICAO": "KPIE",
-        "Airport": "St. Pete\u2013Clearwater International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,021,007",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "PIE Free WiFi"
-    },
-    {
-        "City": "Tallahassee",
-        "FAA": "TLH",
-        "IATA": "TLH",
-        "ICAO": "KTLH",
-        "Airport": "Tallahassee International Airport",
-        "Role": "P-N",
-        "Enplanements": "319,886",
-        "State": "FLORIDA",
-        "StateAbbreviation": "FL",
-        "SSID": "TLHAIRPORT-WIFI"
+        "SSID": "SRQFreeWiFi"
     },
     {
         "City": "Tampa",
@@ -1089,7 +261,7 @@
         "Enplanements": "8,847,197",
         "State": "FLORIDA",
         "StateAbbreviation": "FL",
-        "SSID": "TPA_Free_WiFi"
+        "SSID": "TPA-Free-WiFi"
     },
     {
         "City": "West Palm Beach",
@@ -1101,19 +273,7 @@
         "Enplanements": "2,567,897",
         "State": "FLORIDA",
         "StateAbbreviation": "FL",
-        "SSID": "PBI-WiFi"
-    },
-    {
-        "City": "Albany",
-        "FAA": "ABY",
-        "IATA": "ABY",
-        "ICAO": "KABY",
-        "Airport": "Southwest Georgia Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "39,422",
-        "State": "GEORGIA",
-        "StateAbbreviation": "GA",
-        "SSID": "FlyAlbanyWiFi"
+        "SSID": "PBI_FREE_WIFI"
     },
     {
         "City": "Atlanta",
@@ -1128,90 +288,6 @@
         "SSID": "ATL Free Wi-Fi"
     },
     {
-        "City": "Augusta",
-        "FAA": "AGS",
-        "IATA": "AGS",
-        "ICAO": "KAGS",
-        "Airport": "Augusta Regional Airport(Bush Field)",
-        "Role": "P-N",
-        "Enplanements": "300,598",
-        "State": "GEORGIA",
-        "StateAbbreviation": "GA",
-        "SSID": "AGS-Guest-WiFi"
-    },
-    {
-        "City": "Brunswick",
-        "FAA": "BQK",
-        "IATA": "BQK",
-        "ICAO": "KBQK",
-        "Airport": "Brunswick Golden Isles Airport",
-        "Role": "P-N",
-        "Enplanements": "40,443",
-        "State": "GEORGIA",
-        "StateAbbreviation": "GA",
-        "SSID": "BQK_WiFi"
-    },
-    {
-        "City": "Columbus",
-        "FAA": "CSG",
-        "IATA": "CSG",
-        "ICAO": "KCSG",
-        "Airport": "Columbus Airport",
-        "Role": "P-N",
-        "Enplanements": "49,354",
-        "State": "GEORGIA",
-        "StateAbbreviation": "GA",
-        "SSID": "CSG-WiFi"
-    },
-    {
-        "City": "Macon",
-        "FAA": "MCN",
-        "IATA": "MCN",
-        "ICAO": "KMCN",
-        "Airport": "Middle Georgia Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "15,431",
-        "State": "GEORGIA",
-        "StateAbbreviation": "GA",
-        "SSID": "AirportMCN"
-    },
-    {
-        "City": "Savannah",
-        "FAA": "SAV",
-        "IATA": "SAV",
-        "ICAO": "KSAV",
-        "Airport": "Savannah/Hilton Head International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,356,660",
-        "State": "GEORGIA",
-        "StateAbbreviation": "GA",
-        "SSID": "FlySAV-WiFi"
-    },
-    {
-        "City": "Valdosta",
-        "FAA": "VLD",
-        "IATA": "VLD",
-        "ICAO": "KVLD",
-        "Airport": "Valdosta Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "44,609",
-        "State": "GEORGIA",
-        "StateAbbreviation": "GA",
-        "SSID": "VLD-PublicWifi"
-    },
-    {
-        "City": "Hilo, Hawaii",
-        "FAA": "ITO",
-        "IATA": "ITO",
-        "ICAO": "PHTO",
-        "Airport": "Hilo International Airport",
-        "Role": "P-S",
-        "Enplanements": "599,148",
-        "State": "HAWAII",
-        "StateAbbreviation": "HI",
-        "SSID": "ITO_FREE_WIFI"
-    },
-    {
         "City": "Honolulu, Oahu",
         "FAA": "HNL",
         "IATA": "HNL",
@@ -1221,7 +297,7 @@
         "Enplanements": "10,017,149",
         "State": "HAWAII",
         "StateAbbreviation": "HI",
-        "SSID": "HNL_FREE_WIFI"
+        "SSID": "HNL_Free_WiFi"
     },
     {
         "City": "Kahului, Maui",
@@ -1245,31 +321,7 @@
         "Enplanements": "1,829,020",
         "State": "HAWAII",
         "StateAbbreviation": "HI",
-        "SSID": "KOA_FREE_WIFI"
-    },
-    {
-        "City": "Kaunakakai, Molokai",
-        "FAA": "MKK",
-        "IATA": "MKK",
-        "ICAO": "PHMK",
-        "Airport": "Molokai Airport(Hoolehua Airport)",
-        "Role": "P-N",
-        "Enplanements": "79,336",
-        "State": "HAWAII",
-        "StateAbbreviation": "HI",
-        "SSID": "MKK_FREE_WIFI"
-    },
-    {
-        "City": "Lanai City, Lanai",
-        "FAA": "LNY",
-        "IATA": "LNY",
-        "ICAO": "PHNY",
-        "Airport": "Lanai Airport",
-        "Role": "P-N",
-        "Enplanements": "42,061",
-        "State": "HAWAII",
-        "StateAbbreviation": "HI",
-        "SSID": "LNY-FreeWiFi"
+        "SSID": "KOA_Free_WiFi"
     },
     {
         "City": "Lihue, Kauai",
@@ -1281,7 +333,7 @@
         "Enplanements": "1,644,590",
         "State": "HAWAII",
         "StateAbbreviation": "HI",
-        "SSID": "LIH-Guest-WiFi"
+        "SSID": "LIH Free WiFi"
     },
     {
         "City": "Boise",
@@ -1293,103 +345,7 @@
         "Enplanements": "1,943,181",
         "State": "IDAHO",
         "StateAbbreviation": "ID",
-        "SSID": "BOI FREE WIFI"
-    },
-    {
-        "City": "Hailey/Sun Valley",
-        "FAA": "SUN",
-        "IATA": "SUN",
-        "ICAO": "KSUN",
-        "Airport": "Friedman Memorial Airport",
-        "Role": "P-N",
-        "Enplanements": "93,280",
-        "State": "IDAHO",
-        "StateAbbreviation": "ID",
-        "SSID": "SUN_Free_WiFi"
-    },
-    {
-        "City": "Idaho Falls",
-        "FAA": "IDA",
-        "IATA": "IDA",
-        "ICAO": "KIDA",
-        "Airport": "Idaho Falls Regional Airport(Fanning Field)",
-        "Role": "P-N",
-        "Enplanements": "161,019",
-        "State": "IDAHO",
-        "StateAbbreviation": "ID",
-        "SSID": "IDA-FreeWiFi"
-    },
-    {
-        "City": "Lewiston",
-        "FAA": "LWS",
-        "IATA": "LWS",
-        "ICAO": "KLWS",
-        "Airport": "Lewiston\u2013Nez Perce County Airport",
-        "Role": "P-N",
-        "Enplanements": "57,957",
-        "State": "IDAHO",
-        "StateAbbreviation": "ID",
-        "SSID": "AirportWiFi"
-    },
-    {
-        "City": "Pocatello",
-        "FAA": "PIH",
-        "IATA": "PIH",
-        "ICAO": "KPIH",
-        "Airport": "Pocatello Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "46,303",
-        "State": "IDAHO",
-        "StateAbbreviation": "ID",
-        "SSID": "PIH_FREE_WIFI"
-    },
-    {
-        "City": "Twin Falls",
-        "FAA": "TWF",
-        "IATA": "TWF",
-        "ICAO": "KTWF",
-        "Airport": "Magic Valley Regional Airport(Joslin Field)",
-        "Role": "P-N",
-        "Enplanements": "47,084",
-        "State": "IDAHO",
-        "StateAbbreviation": "ID",
-        "SSID": "TWF Public WiFi"
-    },
-    {
-        "City": "Belleville",
-        "FAA": "BLV",
-        "IATA": "BLV",
-        "ICAO": "KBLV",
-        "Airport": "MidAmerica St. Louis Airport/Scott Air Force Base",
-        "Role": "P-N",
-        "Enplanements": "147,421",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "BLV Free WiFi"
-    },
-    {
-        "City": "Bloomington/Normal",
-        "FAA": "BMI",
-        "IATA": "BMI",
-        "ICAO": "KBMI",
-        "Airport": "Central Illinois Regional Airport at Bloomington-Normal",
-        "Role": "P-N",
-        "Enplanements": "164,672",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "FLYBMI_WIFI"
-    },
-    {
-        "City": "Champaign/Urbana/Savoy",
-        "FAA": "CMI",
-        "IATA": "CMI",
-        "ICAO": "KCMI",
-        "Airport": "University of Illinois - Willard Airport",
-        "Role": "P-N",
-        "Enplanements": "70,184",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "CMI_PublicWiFi"
+        "SSID": "BOI_Free_WiFi"
     },
     {
         "City": "Chicago",
@@ -1401,7 +357,7 @@
         "Enplanements": "10,659,520",
         "State": "ILLINOIS",
         "StateAbbreviation": "IL",
-        "SSID": "MDW-WiFi"
+        "SSID": "MDW Wi-Fi"
     },
     {
         "City": "Chicago",
@@ -1413,103 +369,7 @@
         "Enplanements": "35,843,104",
         "State": "ILLINOIS",
         "StateAbbreviation": "IL",
-        "SSID": "FlyChicago Free Wifi"
-    },
-    {
-        "City": "Decatur",
-        "FAA": "DEC",
-        "IATA": "DEC",
-        "ICAO": "KDEC",
-        "Airport": "Decatur Airport",
-        "Role": "P-N",
-        "Enplanements": "11,216",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "DEC Airport WiFi"
-    },
-    {
-        "City": "Marion",
-        "FAA": "MWA",
-        "IATA": "MWA",
-        "ICAO": "KMWA",
-        "Airport": "Veterans Airport of Southern Illinois(Williamson County Regional Airport)",
-        "Role": "P-N",
-        "Enplanements": "10,558",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "MWA Public WiFi"
-    },
-    {
-        "City": "Moline",
-        "FAA": "MLI",
-        "IATA": "MLI",
-        "ICAO": "KMLI",
-        "Airport": "Quad Cities International Airport",
-        "Role": "P-N",
-        "Enplanements": "272,481",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "MLIAirportWiFi"
-    },
-    {
-        "City": "Peoria",
-        "FAA": "PIA",
-        "IATA": "PIA",
-        "ICAO": "KPIA",
-        "Airport": "Peoria International Airport",
-        "Role": "P-N",
-        "Enplanements": "315,482",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "PIA-FreeWiFi"
-    },
-    {
-        "City": "Rockford",
-        "FAA": "RFD",
-        "IATA": "RFD",
-        "ICAO": "KRFD",
-        "Airport": "Chicago Rockford International Airport(was Northwest Chicagoland Regional Airport at Rockford)",
-        "Role": "P-N",
-        "Enplanements": "120,494",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "FlyRFD-WiFi"
-    },
-    {
-        "City": "Springfield",
-        "FAA": "SPI",
-        "IATA": "SPI",
-        "ICAO": "KSPI",
-        "Airport": "Abraham Lincoln Capital Airport",
-        "Role": "P-N",
-        "Enplanements": "50,513",
-        "State": "ILLINOIS",
-        "StateAbbreviation": "IL",
-        "SSID": "SPI_FREE_WIFI"
-    },
-    {
-        "City": "Evansville",
-        "FAA": "EVV",
-        "IATA": "EVV",
-        "ICAO": "KEVV",
-        "Airport": "Evansville Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "228,850",
-        "State": "INDIANA",
-        "StateAbbreviation": "IN",
-        "SSID": "EVV-PUBLIC-WIFI"
-    },
-    {
-        "City": "Fort Wayne",
-        "FAA": "FWA",
-        "IATA": "FWA",
-        "ICAO": "KFWA",
-        "Airport": "Fort Wayne International Airport",
-        "Role": "P-S",
-        "Enplanements": "372,030",
-        "State": "INDIANA",
-        "StateAbbreviation": "IN",
-        "SSID": "FWA Free WiFi"
+        "SSID": "ORD Free Wi-Fi"
     },
     {
         "City": "Indianapolis",
@@ -1521,139 +381,7 @@
         "Enplanements": "4,655,847",
         "State": "INDIANA",
         "StateAbbreviation": "IN",
-        "SSID": "IND-Public-WiFi"
-    },
-    {
-        "City": "South Bend",
-        "FAA": "SBN",
-        "IATA": "SBN",
-        "ICAO": "KSBN",
-        "Airport": "South Bend International Airport",
-        "Role": "P-S",
-        "Enplanements": "366,617",
-        "State": "INDIANA",
-        "StateAbbreviation": "IN",
-        "SSID": "SBN_PublicWiFi"
-    },
-    {
-        "City": "Cedar Rapids",
-        "FAA": "CID",
-        "IATA": "CID",
-        "ICAO": "KCID",
-        "Airport": "Eastern Iowa Airport",
-        "Role": "P-S",
-        "Enplanements": "602,058",
-        "State": "IOWA",
-        "StateAbbreviation": "IA",
-        "SSID": "CID_FREE_WIFI"
-    },
-    {
-        "City": "Des Moines",
-        "FAA": "DSM",
-        "IATA": "DSM",
-        "ICAO": "KDSM",
-        "Airport": "Des Moines International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,347,876",
-        "State": "IOWA",
-        "StateAbbreviation": "IA",
-        "SSID": "DSM-FreeWiFi"
-    },
-    {
-        "City": "Dubuque",
-        "FAA": "DBQ",
-        "IATA": "DBQ",
-        "ICAO": "KDBQ",
-        "Airport": "Dubuque Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "38,831",
-        "State": "IOWA",
-        "StateAbbreviation": "IA",
-        "SSID": "DubuqueAirportWiFi"
-    },
-    {
-        "City": "Sioux City",
-        "FAA": "SUX",
-        "IATA": "SUX",
-        "ICAO": "KSUX",
-        "Airport": "Sioux Gateway Airport(Brig. General Bud Day Field)",
-        "Role": "P-N",
-        "Enplanements": "44,779",
-        "State": "IOWA",
-        "StateAbbreviation": "IA",
-        "SSID": "FlySuxWiFi"
-    },
-    {
-        "City": "Waterloo",
-        "FAA": "ALO",
-        "IATA": "ALO",
-        "ICAO": "KALO",
-        "Airport": "Waterloo Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "23,892",
-        "State": "IOWA",
-        "StateAbbreviation": "IA",
-        "SSID": "ALO_WIFI"
-    },
-    {
-        "City": "Garden City",
-        "FAA": "GCK",
-        "IATA": "GCK",
-        "ICAO": "KGCK",
-        "Airport": "Garden City Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "25,243",
-        "State": "KANSAS",
-        "StateAbbreviation": "KS",
-        "SSID": "GCK_FREE_WIFI"
-    },
-    {
-        "City": "Hays",
-        "FAA": "HYS",
-        "IATA": "HYS",
-        "ICAO": "KHYS",
-        "Airport": "Hays Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "11,996",
-        "State": "KANSAS",
-        "StateAbbreviation": "KS",
-        "SSID": "HaysAirportWiFi"
-    },
-    {
-        "City": "Manhattan",
-        "FAA": "MHK",
-        "IATA": "MHK",
-        "ICAO": "KMHK",
-        "Airport": "Manhattan Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "72,883",
-        "State": "KANSAS",
-        "StateAbbreviation": "KS",
-        "SSID": "Airport_MHK-WiFi"
-    },
-    {
-        "City": "Salina",
-        "FAA": "SLN",
-        "IATA": "SLN",
-        "ICAO": "KSLN",
-        "Airport": "Salina Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "15,977",
-        "State": "KANSAS",
-        "StateAbbreviation": "KS",
-        "SSID": "SalinaAirportWiFi"
-    },
-    {
-        "City": "Wichita",
-        "FAA": "ICT",
-        "IATA": "ICT",
-        "ICAO": "KICT",
-        "Airport": "Wichita Dwight D. Eisenhower National Airport(was Wichita Mid-Continent Airport)",
-        "Role": "P-S",
-        "Enplanements": "812,252",
-        "State": "KANSAS",
-        "StateAbbreviation": "KS",
-        "SSID": "AirportICT-Guest"
+        "SSID": "IND Free WiFi"
     },
     {
         "City": "Cincinnati/Covington",
@@ -1668,18 +396,6 @@
         "SSID": "CVG Free WiFi"
     },
     {
-        "City": "Lexington",
-        "FAA": "LEX",
-        "IATA": "LEX",
-        "ICAO": "KLEX",
-        "Airport": "Blue Grass Airport",
-        "Role": "P-S",
-        "Enplanements": "657,018",
-        "State": "KENTUCKY",
-        "StateAbbreviation": "KY",
-        "SSID": "LEX_Free_WiFi"
-    },
-    {
         "City": "Louisville",
         "FAA": "SDF",
         "IATA": "SDF",
@@ -1689,91 +405,7 @@
         "Enplanements": "1,877,861",
         "State": "KENTUCKY",
         "StateAbbreviation": "KY",
-        "SSID": "FlyLouisville"
-    },
-    {
-        "City": "Owensboro",
-        "FAA": "OWB",
-        "IATA": "OWB",
-        "ICAO": "KOWB",
-        "Airport": "Owensboro\u2013Daviess County Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "19,532",
-        "State": "KENTUCKY",
-        "StateAbbreviation": "KY",
-        "SSID": "OWB Free WIFI"
-    },
-    {
-        "City": "Paducah",
-        "FAA": "PAH",
-        "IATA": "PAH",
-        "ICAO": "KPAH",
-        "Airport": "Barkley Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "20,934",
-        "State": "KENTUCKY",
-        "StateAbbreviation": "KY",
-        "SSID": "PAH-Free-WiFi"
-    },
-    {
-        "City": "Alexandria",
-        "FAA": "AEX",
-        "IATA": "AEX",
-        "ICAO": "KAEX",
-        "Airport": "Alexandria International Airport",
-        "Role": "P-N",
-        "Enplanements": "141,173",
-        "State": "LOUISIANA",
-        "StateAbbreviation": "LA",
-        "SSID": "FlyAlexandriaWiFi"
-    },
-    {
-        "City": "Baton Rouge",
-        "FAA": "BTR",
-        "IATA": "BTR",
-        "ICAO": "KBTR",
-        "Airport": "Baton Rouge Metropolitan Airport(Ryan Field)",
-        "Role": "P-N",
-        "Enplanements": "390,107",
-        "State": "LOUISIANA",
-        "StateAbbreviation": "LA",
-        "SSID": "BTR_Free_WiFi"
-    },
-    {
-        "City": "Lafayette",
-        "FAA": "LFT",
-        "IATA": "LFT",
-        "ICAO": "KLFT",
-        "Airport": "Lafayette Regional Airport(Paul Fournet Field)",
-        "Role": "P-N",
-        "Enplanements": "223,529",
-        "State": "LOUISIANA",
-        "StateAbbreviation": "LA",
-        "SSID": "\"LFT Free WiFi\""
-    },
-    {
-        "City": "Lake Charles",
-        "FAA": "LCH",
-        "IATA": "LCH",
-        "ICAO": "KLCH",
-        "Airport": "Lake Charles Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "58,122",
-        "State": "LOUISIANA",
-        "StateAbbreviation": "LA",
-        "SSID": "Airport Unlimited"
-    },
-    {
-        "City": "Monroe",
-        "FAA": "MLU",
-        "IATA": "MLU",
-        "ICAO": "KMLU",
-        "Airport": "Monroe Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "107,107",
-        "State": "LOUISIANA",
-        "StateAbbreviation": "LA",
-        "SSID": "FlyMonroe"
+        "SSID": "SDF_PUBLIC_WIFI"
     },
     {
         "City": "New Orleans",
@@ -1785,67 +417,7 @@
         "Enplanements": "6,582,066",
         "State": "LOUISIANA",
         "StateAbbreviation": "LA",
-        "SSID": "MSY Free WiFi"
-    },
-    {
-        "City": "Shreveport",
-        "FAA": "SHV",
-        "IATA": "SHV",
-        "ICAO": "KSHV",
-        "Airport": "Shreveport Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "291,136",
-        "State": "LOUISIANA",
-        "StateAbbreviation": "LA",
-        "SSID": "Fly Shreveport"
-    },
-    {
-        "City": "Bangor",
-        "FAA": "BGR",
-        "IATA": "BGR",
-        "ICAO": "KBGR",
-        "Airport": "Bangor International Airport",
-        "Role": "P-N",
-        "Enplanements": "336,140",
-        "State": "MAINE",
-        "StateAbbreviation": "ME",
-        "SSID": "FlyBangorGuestWiFi"
-    },
-    {
-        "City": "Portland",
-        "FAA": "PWM",
-        "IATA": "PWM",
-        "ICAO": "KPWM",
-        "Airport": "Portland International Jetport",
-        "Role": "P-S",
-        "Enplanements": "1,062,873",
-        "State": "MAINE",
-        "StateAbbreviation": "ME",
-        "SSID": "PWM GuestWifi"
-    },
-    {
-        "City": "Presque Isle",
-        "FAA": "PQI",
-        "IATA": "PQI",
-        "ICAO": "KPQI",
-        "Airport": "Presque Isle International Airport",
-        "Role": "P-N",
-        "Enplanements": "10,865",
-        "State": "MAINE",
-        "StateAbbreviation": "ME",
-        "SSID": "PQI-Public-WiFi"
-    },
-    {
-        "City": "Rockland",
-        "FAA": "RKD",
-        "IATA": "RKD",
-        "ICAO": "KRKD",
-        "Airport": "Knox County Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "17,133",
-        "State": "MAINE",
-        "StateAbbreviation": "ME",
-        "SSID": "RKD-FreeWifi"
+        "SSID": "MSY-FI"
     },
     {
         "City": "Baltimore",
@@ -1857,31 +429,7 @@
         "Enplanements": "11,151,169",
         "State": "MARYLAND",
         "StateAbbreviation": "MD",
-        "SSID": "BWI_FREE_WIFI"
-    },
-    {
-        "City": "Hagerstown",
-        "FAA": "HGR",
-        "IATA": "HGR",
-        "ICAO": "KHGR",
-        "Airport": "Hagerstown Regional Airport(Richard A. Henson Field)",
-        "Role": "P-N",
-        "Enplanements": "32,197",
-        "State": "MARYLAND",
-        "StateAbbreviation": "MD",
-        "SSID": "HGR Free WiFi"
-    },
-    {
-        "City": "Salisbury",
-        "FAA": "SBY",
-        "IATA": "SBY",
-        "ICAO": "KSBY",
-        "Airport": "Salisbury Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "47,275",
-        "State": "MARYLAND",
-        "StateAbbreviation": "MD",
-        "SSID": "FlySBYWiFi"
+        "SSID": "# MyBWI-WiFi"
     },
     {
         "City": "Boston",
@@ -1893,67 +441,7 @@
         "Enplanements": "20,006,521",
         "State": "MASSACHUSETTS",
         "StateAbbreviation": "MA",
-        "SSID": "LoganWifi"
-    },
-    {
-        "City": "Hyannis",
-        "FAA": "HYA",
-        "IATA": "HYA",
-        "ICAO": "KHYA",
-        "Airport": "Cape Cod Gateway Airport(Boardman/Polando Field)",
-        "Role": "P-N",
-        "Enplanements": "28,341",
-        "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA",
-        "SSID": "HYA Free WiFi"
-    },
-    {
-        "City": "Nantucket",
-        "FAA": "ACK",
-        "IATA": "ACK",
-        "ICAO": "KACK",
-        "Airport": "Nantucket Memorial Airport",
-        "Role": "P-N",
-        "Enplanements": "126,610",
-        "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA",
-        "SSID": "ACK_WIFI"
-    },
-    {
-        "City": "Vineyard Haven",
-        "FAA": "MVY",
-        "IATA": "MVY",
-        "ICAO": "KMVY",
-        "Airport": "Martha's Vineyard Airport",
-        "Role": "P-N",
-        "Enplanements": "52,605",
-        "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA",
-        "SSID": "MVY-_FREE_WIFI"
-    },
-    {
-        "City": "Worcester",
-        "FAA": "ORH",
-        "IATA": "ORH",
-        "ICAO": "KORH",
-        "Airport": "Worcester Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "71,631",
-        "State": "MASSACHUSETTS",
-        "StateAbbreviation": "MA",
-        "SSID": "FlyWorcesterWiFi"
-    },
-    {
-        "City": "Alpena",
-        "FAA": "APN",
-        "IATA": "APN",
-        "ICAO": "KAPN",
-        "Airport": "Alpena County Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "7,936",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "Alpena Airport WiFi"
+        "SSID": "BOSWiFi"
     },
     {
         "City": "Detroit",
@@ -1965,31 +453,7 @@
         "Enplanements": "13,841,000",
         "State": "MICHIGAN",
         "StateAbbreviation": "MI",
-        "SSID": "DTW_FREE_WiFi"
-    },
-    {
-        "City": "Escanaba",
-        "FAA": "ESC",
-        "IATA": "ESC",
-        "ICAO": "KESC",
-        "Airport": "Delta County Airport",
-        "Role": "P-N",
-        "Enplanements": "15,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "ESC_Public_WIFI"
-    },
-    {
-        "City": "Flint",
-        "FAA": "FNT",
-        "IATA": "FNT",
-        "ICAO": "KFNT",
-        "Airport": "Bishop International Airport",
-        "Role": "P-N",
-        "Enplanements": "281,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "AirportWiFi"
+        "SSID": "DTWairport_WIFI"
     },
     {
         "City": "Grand Rapids",
@@ -2001,175 +465,7 @@
         "Enplanements": "1,895,000",
         "State": "MICHIGAN",
         "StateAbbreviation": "MI",
-        "SSID": "FlyGRFord"
-    },
-    {
-        "City": "Hancock",
-        "FAA": "CMX",
-        "IATA": "CMX",
-        "ICAO": "KCMX",
-        "Airport": "Houghton County Memorial Airport",
-        "Role": "P-N",
-        "Enplanements": "23,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "CMX_Public_WiFi"
-    },
-    {
-        "City": "Iron Mountain",
-        "FAA": "IMT",
-        "IATA": "IMT",
-        "ICAO": "KIMT",
-        "Airport": "Ford Airport",
-        "Role": "P-N",
-        "Enplanements": "18,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "AirportIMT"
-    },
-    {
-        "City": "Kalamazoo",
-        "FAA": "AZO",
-        "IATA": "AZO",
-        "ICAO": "KAZO",
-        "Airport": "Kalamazoo/Battle Creek International Airport",
-        "Role": "P-N",
-        "Enplanements": "87,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "AZO_Free_Wifi"
-    },
-    {
-        "City": "Lansing",
-        "FAA": "LAN",
-        "IATA": "LAN",
-        "ICAO": "KLAN",
-        "Airport": "Capital Region International Airport(was Lansing Capital City)",
-        "Role": "P-N",
-        "Enplanements": "102,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "LANsing Airport WIFI"
-    },
-    {
-        "City": "Marquette",
-        "FAA": "SAW",
-        "IATA": "MQT",
-        "ICAO": "KSAW",
-        "Airport": "Marquette Sawyer Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "43,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "MQT-PublicWiFi"
-    },
-    {
-        "City": "Muskegon",
-        "FAA": "MKG",
-        "IATA": "MKG",
-        "ICAO": "KMKG",
-        "Airport": "Muskegon County Airport",
-        "Role": "P-N",
-        "Enplanements": "4,488",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "FlyMKG_WiFi"
-    },
-    {
-        "City": "Pellston",
-        "FAA": "PLN",
-        "IATA": "PLN",
-        "ICAO": "KPLN",
-        "Airport": "Pellston Regional/Emmet County Airport",
-        "Role": "P-N",
-        "Enplanements": "22,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "PLN_Free_WiFi"
-    },
-    {
-        "City": "Saginaw",
-        "FAA": "MBS",
-        "IATA": "MBS",
-        "ICAO": "KMBS",
-        "Airport": "MBS International Airport",
-        "Role": "P-N",
-        "Enplanements": "92,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "FlyMBS-Guest"
-    },
-    {
-        "City": "Sault Ste. Marie",
-        "FAA": "CIU",
-        "IATA": "CIU",
-        "ICAO": "KCIU",
-        "Airport": "Chippewa County International Airport",
-        "Role": "P-N",
-        "Enplanements": "22,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "CIU_Public_WiFi"
-    },
-    {
-        "City": "Traverse City",
-        "FAA": "TVC",
-        "IATA": "TVC",
-        "ICAO": "KTVC",
-        "Airport": "Cherry Capital Airport(was Cherry County Airpark)",
-        "Role": "P-N",
-        "Enplanements": "347,000",
-        "State": "MICHIGAN",
-        "StateAbbreviation": "MI",
-        "SSID": "@FlyTCMI"
-    },
-    {
-        "City": "Bemidji",
-        "FAA": "BJI",
-        "IATA": "BJI",
-        "ICAO": "KBJI",
-        "Airport": "Bemidji Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "30,081",
-        "State": "MINNESOTA",
-        "StateAbbreviation": "MN",
-        "SSID": "BJI Free Wifi"
-    },
-    {
-        "City": "Brainerd",
-        "FAA": "BRD",
-        "IATA": "BRD",
-        "ICAO": "KBRD",
-        "Airport": "Brainerd Lakes Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "22,233",
-        "State": "MINNESOTA",
-        "StateAbbreviation": "MN",
-        "SSID": "BRD Public WIFI"
-    },
-    {
-        "City": "Duluth",
-        "FAA": "DLH",
-        "IATA": "DLH",
-        "ICAO": "KDLH",
-        "Airport": "Duluth International Airport",
-        "Role": "P-N",
-        "Enplanements": "136,806",
-        "State": "MINNESOTA",
-        "StateAbbreviation": "MN",
-        "SSID": "Airport-Department-of-Avaition-WIFI"
-    },
-    {
-        "City": "Hibbing",
-        "FAA": "HIB",
-        "IATA": "HIB",
-        "ICAO": "KHIB",
-        "Airport": "Range Regional Airport(formerly Chisholm\u2013Hibbing Municipal Airport)",
-        "Role": "P-N",
-        "Enplanements": "17,111",
-        "State": "MINNESOTA",
-        "StateAbbreviation": "MN",
-        "SSID": "HIB Public WiFi"
+        "SSID": "FlyFordFreeWiFi"
     },
     {
         "City": "Minneapolis\u2013Saint Paul",
@@ -2181,151 +477,7 @@
         "Enplanements": "18,361,942",
         "State": "MINNESOTA",
         "StateAbbreviation": "MN",
-        "SSID": "\"MSP-WiFi\""
-    },
-    {
-        "City": "Rochester",
-        "FAA": "RST",
-        "IATA": "RST",
-        "ICAO": "KRST",
-        "Airport": "Rochester International Airport",
-        "Role": "P-N",
-        "Enplanements": "182,509",
-        "State": "MINNESOTA",
-        "StateAbbreviation": "MN",
-        "SSID": "FlyRST_WiFi"
-    },
-    {
-        "City": "St. Cloud",
-        "FAA": "STC",
-        "IATA": "STC",
-        "ICAO": "KSTC",
-        "Airport": "St. Cloud Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "22,464",
-        "State": "MINNESOTA",
-        "StateAbbreviation": "MN",
-        "SSID": "STC_FREE_WIFI"
-    },
-    {
-        "City": "Columbus",
-        "FAA": "GTR",
-        "IATA": "GTR",
-        "ICAO": "KGTR",
-        "Airport": "Golden Triangle Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "46,246",
-        "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS",
-        "SSID": "GTR Free Wifi"
-    },
-    {
-        "City": "Gulfport/Biloxi",
-        "FAA": "GPT",
-        "IATA": "GPT",
-        "ICAO": "KGPT",
-        "Airport": "Gulfport\u2013Biloxi International Airport",
-        "Role": "P-N",
-        "Enplanements": "359,055",
-        "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS",
-        "SSID": "FlyGPT-WiFi"
-    },
-    {
-        "City": "Hattiesburg/Laurel",
-        "FAA": "PIB",
-        "IATA": "PIB",
-        "ICAO": "KPIB",
-        "Airport": "Hattiesburg\u2013Laurel Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "9,813",
-        "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS",
-        "SSID": "FlyHattiesburg"
-    },
-    {
-        "City": "Jackson",
-        "FAA": "JAN",
-        "IATA": "JAN",
-        "ICAO": "KJAN",
-        "Airport": "Jackson\u2013Medgar Wiley Evers International Airport",
-        "Role": "P-S",
-        "Enplanements": "489,454",
-        "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS",
-        "SSID": "JAN_Free_WiFi"
-    },
-    {
-        "City": "Meridian",
-        "FAA": "MEI",
-        "IATA": "MEI",
-        "ICAO": "KMEI",
-        "Airport": "Key Field",
-        "Role": "P-N",
-        "Enplanements": "19,332",
-        "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS",
-        "SSID": "MEI_FREE_WIFI"
-    },
-    {
-        "City": "Tupelo",
-        "FAA": "TUP",
-        "IATA": "TUP",
-        "ICAO": "KTUP",
-        "Airport": "Tupelo Regional Airport(C.D. Lemons Field)",
-        "Role": "P-N",
-        "Enplanements": "13,557",
-        "State": "MISSISSIPPI",
-        "StateAbbreviation": "MS",
-        "SSID": "TUPublicWiFi"
-    },
-    {
-        "City": "Branson",
-        "FAA": "BBG",
-        "IATA": "BKG",
-        "ICAO": "KBBG",
-        "Airport": "Branson Airport",
-        "Role": "P-N",
-        "Enplanements": "1,601",
-        "State": "MISSOURI",
-        "StateAbbreviation": "MO",
-        "SSID": "FlyBransonBKG"
-    },
-    {
-        "City": "Columbia",
-        "FAA": "COU",
-        "IATA": "COU",
-        "ICAO": "KCOU",
-        "Airport": "Columbia Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "120,235",
-        "State": "MISSOURI",
-        "StateAbbreviation": "MO",
-        "SSID": "AirportColumbia"
-    },
-    {
-        "City": "Fort Leonard Wood/Waynesville",
-        "FAA": "TBN",
-        "IATA": "TBN",
-        "ICAO": "KTBN",
-        "Airport": "Waynesville\u2013St. Robert Regional Airport(Forney Field)",
-        "Role": "P-N",
-        "Enplanements": "7,717",
-        "State": "MISSOURI",
-        "StateAbbreviation": "MO",
-        "SSID": "TBN-WiFi"
-    },
-    {
-        "City": "Joplin",
-        "FAA": "JLN",
-        "IATA": "JLN",
-        "ICAO": "KJLN",
-        "Airport": "Joplin Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "40,013",
-        "State": "MISSOURI",
-        "StateAbbreviation": "MO",
-        "SSID": "FlyJoplinWiFi"
+        "SSID": "MSP-WiFi"
     },
     {
         "City": "Kansas City",
@@ -2337,7 +489,7 @@
         "Enplanements": "5,790,847",
         "State": "MISSOURI",
         "StateAbbreviation": "MO",
-        "SSID": "FlyKCI_WiFi"
+        "SSID": "KCIAirportWiFi"
     },
     {
         "City": "St. Louis",
@@ -2349,163 +501,7 @@
         "Enplanements": "7,631,953",
         "State": "MISSOURI",
         "StateAbbreviation": "MO",
-        "SSID": "MSGuest"
-    },
-    {
-        "City": "Springfield/Branson",
-        "FAA": "SGF",
-        "IATA": "SGF",
-        "ICAO": "KSGF",
-        "Airport": "Springfield\u2013Branson National Airport",
-        "Role": "P-S",
-        "Enplanements": "523,108",
-        "State": "MISSOURI",
-        "StateAbbreviation": "MO",
-        "SSID": "FlySpringfield-GuestWiFi"
-    },
-    {
-        "City": "Billings",
-        "FAA": "BIL",
-        "IATA": "BIL",
-        "ICAO": "KBIL",
-        "Airport": "Billings Logan International Airport",
-        "Role": "P-S",
-        "Enplanements": "440,263",
-        "State": "MONTANA",
-        "StateAbbreviation": "MT",
-        "SSID": "FlyBIL-Guest"
-    },
-    {
-        "City": "Bozeman",
-        "FAA": "BZN",
-        "IATA": "BZN",
-        "ICAO": "KBZN",
-        "Airport": "Bozeman Yellowstone International Airport(was Gallatin Field)",
-        "Role": "P-S",
-        "Enplanements": "670,295",
-        "State": "MONTANA",
-        "StateAbbreviation": "MT",
-        "SSID": "BZN-GuestWiFi"
-    },
-    {
-        "City": "Butte",
-        "FAA": "BTM",
-        "IATA": "BTM",
-        "ICAO": "KBTM",
-        "Airport": "Bert Mooney Airport",
-        "Role": "P-N",
-        "Enplanements": "25,803",
-        "State": "MONTANA",
-        "StateAbbreviation": "MT",
-        "SSID": "Airport-BTM-WIFI"
-    },
-    {
-        "City": "Great Falls",
-        "FAA": "GTF",
-        "IATA": "GTF",
-        "ICAO": "KGTF",
-        "Airport": "Great Falls International Airport",
-        "Role": "P-N",
-        "Enplanements": "176,434",
-        "State": "MONTANA",
-        "StateAbbreviation": "MT",
-        "SSID": "FlyGreatFallsWiFi"
-    },
-    {
-        "City": "Helena",
-        "FAA": "HLN",
-        "IATA": "HLN",
-        "ICAO": "KHLN",
-        "Airport": "Helena Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "115,438",
-        "State": "MONTANA",
-        "StateAbbreviation": "MT",
-        "SSID": "HLN_Free_WiFi"
-    },
-    {
-        "City": "Kalispell",
-        "FAA": "GPI",
-        "IATA": "FCA",
-        "ICAO": "KGPI",
-        "Airport": "Glacier Park International Airport",
-        "Role": "P-S",
-        "Enplanements": "307,242",
-        "State": "MONTANA",
-        "StateAbbreviation": "MT",
-        "SSID": "FCA Free WiFi"
-    },
-    {
-        "City": "Missoula",
-        "FAA": "MSO",
-        "IATA": "MSO",
-        "ICAO": "KMSO",
-        "Airport": "Missoula Montana Airport(was Missoula International Airport)",
-        "Role": "P-S",
-        "Enplanements": "425,563",
-        "State": "MONTANA",
-        "StateAbbreviation": "MT",
-        "SSID": "FlyMissoula"
-    },
-    {
-        "City": "West Yellowstone",
-        "FAA": "WYS",
-        "IATA": "WYS",
-        "ICAO": "KWYS",
-        "Airport": "Yellowstone Airport",
-        "Role": "P-N",
-        "Enplanements": "8,200",
-        "State": "MONTANA",
-        "StateAbbreviation": "MT",
-        "SSID": "WYS-Public-WiFi"
-    },
-    {
-        "City": "Grand Island",
-        "FAA": "GRI",
-        "IATA": "GRI",
-        "ICAO": "KGRI",
-        "Airport": "Central Nebraska Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "63,298",
-        "State": "NEBRASKA",
-        "StateAbbreviation": "NE",
-        "SSID": "GRI Free Wifi"
-    },
-    {
-        "City": "Kearney",
-        "FAA": "EAR",
-        "IATA": "EAR",
-        "ICAO": "KEAR",
-        "Airport": "Kearney Regional Airport(was Kearney Municipal)",
-        "Role": "P-N",
-        "Enplanements": "4,568",
-        "State": "NEBRASKA",
-        "StateAbbreviation": "NE",
-        "SSID": "EAR_Free_Wifi"
-    },
-    {
-        "City": "Lincoln",
-        "FAA": "LNK",
-        "IATA": "LNK",
-        "ICAO": "KLNK",
-        "Airport": "Lincoln Airport(was Lincoln Municipal)",
-        "Role": "P-N",
-        "Enplanements": "150,214",
-        "State": "NEBRASKA",
-        "StateAbbreviation": "NE",
-        "SSID": "LNK Free WiFi"
-    },
-    {
-        "City": "North Platte",
-        "FAA": "LBF",
-        "IATA": "LBF",
-        "ICAO": "KLBF",
-        "Airport": "North Platte Regional Airport(Lee Bird Field)",
-        "Role": "P-N",
-        "Enplanements": "13,798",
-        "State": "NEBRASKA",
-        "StateAbbreviation": "NE",
-        "SSID": "LBF-Public-Wifi"
+        "SSID": "STL-AIRPORT-FREE-WIFI"
     },
     {
         "City": "Omaha",
@@ -2517,43 +513,7 @@
         "Enplanements": "2,454,878",
         "State": "NEBRASKA",
         "StateAbbreviation": "NE",
-        "SSID": "FlyOMAWiFi"
-    },
-    {
-        "City": "Scottsbluff",
-        "FAA": "BFF",
-        "IATA": "BFF",
-        "ICAO": "KBFF",
-        "Airport": "Western Nebraska Regional Airport(William B. Heilig Field)",
-        "Role": "P-N",
-        "Enplanements": "14,295",
-        "State": "NEBRASKA",
-        "StateAbbreviation": "NE",
-        "SSID": "Airport BFF Pubic Wifi"
-    },
-    {
-        "City": "Boulder City",
-        "FAA": "BVU",
-        "IATA": "BLD",
-        "ICAO": "KBVU",
-        "Airport": "Boulder City Municipal Airport",
-        "Role": "P-N",
-        "Enplanements": "205,690",
-        "State": "NEVADA",
-        "StateAbbreviation": "NV",
-        "SSID": "BLD-Public-WiFi"
-    },
-    {
-        "City": "Elko",
-        "FAA": "EKO",
-        "IATA": "EKO",
-        "ICAO": "KEKO",
-        "Airport": "Elko Regional Airport(J.C. Harris Field)",
-        "Role": "P-N",
-        "Enplanements": "18,363",
-        "State": "NEVADA",
-        "StateAbbreviation": "NV",
-        "SSID": "EKO-Guest"
+        "SSID": "OMA Free WiFi"
     },
     {
         "City": "Las Vegas",
@@ -2577,43 +537,7 @@
         "Enplanements": "2,048,916",
         "State": "NEVADA",
         "StateAbbreviation": "NV",
-        "SSID": "RNO Free WiFi"
-    },
-    {
-        "City": "Manchester",
-        "FAA": "MHT",
-        "IATA": "MHT",
-        "ICAO": "KMHT",
-        "Airport": "Manchester\u2013Boston Regional Airport",
-        "Role": "P-S",
-        "Enplanements": "911,225",
-        "State": "NEW HAMPSHIRE",
-        "StateAbbreviation": "NH",
-        "SSID": "MHT Free WiFi"
-    },
-    {
-        "City": "Portsmouth",
-        "FAA": "PSM",
-        "IATA": "PSM",
-        "ICAO": "KPSM",
-        "Airport": "Portsmouth International Airport at Pease",
-        "Role": "P-N",
-        "Enplanements": "92,836",
-        "State": "NEW HAMPSHIRE",
-        "StateAbbreviation": "NH",
-        "SSID": "FlyPortsmouth"
-    },
-    {
-        "City": "Atlantic City",
-        "FAA": "ACY",
-        "IATA": "ACY",
-        "ICAO": "KACY",
-        "Airport": "Atlantic City International Airport",
-        "Role": "P-S",
-        "Enplanements": "568,958",
-        "State": "NEW JERSEY",
-        "StateAbbreviation": "NJ",
-        "SSID": "ACY Free WiFi"
+        "SSID": "RNO-Free-WiFi"
     },
     {
         "City": "Newark",
@@ -2625,19 +549,7 @@
         "Enplanements": "22,797,602",
         "State": "NEW JERSEY",
         "StateAbbreviation": "NJ",
-        "SSID": "EWR_FREE_WIFI"
-    },
-    {
-        "City": "Trenton",
-        "FAA": "TTN",
-        "IATA": "TTN",
-        "ICAO": "KTTN",
-        "Airport": "Trenton\u2013Mercer Airport",
-        "Role": "P-N",
-        "Enplanements": "404,349",
-        "State": "NEW JERSEY",
-        "StateAbbreviation": "NJ",
-        "SSID": "TTN Free WiFi"
+        "SSID": "_Free EWR WiFi"
     },
     {
         "City": "Albuquerque",
@@ -2649,67 +561,7 @@
         "Enplanements": "2,647,269",
         "State": "NEW MEXICO",
         "StateAbbreviation": "NM",
-        "SSID": "ABQ FreeWiFi"
-    },
-    {
-        "City": "Hobbs",
-        "FAA": "HOB",
-        "IATA": "HOB",
-        "ICAO": "KHOB",
-        "Airport": "Lea County Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "23,475",
-        "State": "NEW MEXICO",
-        "StateAbbreviation": "NM",
-        "SSID": "HOB-Guest-WIFI"
-    },
-    {
-        "City": "Roswell",
-        "FAA": "ROW",
-        "IATA": "ROW",
-        "ICAO": "KROW",
-        "Airport": "Roswell Air Center",
-        "Role": "P-N",
-        "Enplanements": "56,632",
-        "State": "NEW MEXICO",
-        "StateAbbreviation": "NM",
-        "SSID": "RoswellFreeWifi"
-    },
-    {
-        "City": "Santa Fe",
-        "FAA": "SAF",
-        "IATA": "SAF",
-        "ICAO": "KSAF",
-        "Airport": "Santa Fe Municipal Airport",
-        "Role": "P-N",
-        "Enplanements": "115,787",
-        "State": "NEW MEXICO",
-        "StateAbbreviation": "NM",
-        "SSID": "SAF-Public-WiFi"
-    },
-    {
-        "City": "Albany",
-        "FAA": "ALB",
-        "IATA": "ALB",
-        "ICAO": "KALB",
-        "Airport": "Albany International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,440,674",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "Airport_WiFi_Alb"
-    },
-    {
-        "City": "Binghamton",
-        "FAA": "BGM",
-        "IATA": "BGM",
-        "ICAO": "KBGM",
-        "Airport": "Greater Binghamton Airport(Edwin A. Link Field)",
-        "Role": "P-N",
-        "Enplanements": "36,382",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "airport-wifi-BGM"
+        "SSID": "ABQ Free WiFi"
     },
     {
         "City": "Buffalo",
@@ -2721,31 +573,7 @@
         "Enplanements": "2,523,158",
         "State": "NEW YORK",
         "StateAbbreviation": "NY",
-        "SSID": "BUF-Guest-WiFi"
-    },
-    {
-        "City": "Elmira/Corning",
-        "FAA": "ELM",
-        "IATA": "ELM",
-        "ICAO": "KELM",
-        "Airport": "Elmira/Corning Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "141,075",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "ELM_FREE_WIFI"
-    },
-    {
-        "City": "Ithaca",
-        "FAA": "ITH",
-        "IATA": "ITH",
-        "ICAO": "KITH",
-        "Airport": "Ithaca Tompkins International Airport",
-        "Role": "P-N",
-        "Enplanements": "99,070",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "ITH-OPEN-WIFI"
+        "SSID": "BUF Free Wi-Fi"
     },
     {
         "City": "New York",
@@ -2757,7 +585,7 @@
         "Enplanements": "30,620,769",
         "State": "NEW YORK",
         "StateAbbreviation": "NY",
-        "SSID": "JFK-Guest-WiFi"
+        "SSID": "_JFK Free WiFi_"
     },
     {
         "City": "New York",
@@ -2769,127 +597,7 @@
         "Enplanements": "15,058,501",
         "State": "NEW YORK",
         "StateAbbreviation": "NY",
-        "SSID": "LGA_FREE_WIFI"
-    },
-    {
-        "City": "Islip/Brookhaven",
-        "FAA": "ISP",
-        "IATA": "ISP",
-        "ICAO": "KISP",
-        "Airport": "Long Island MacArthur Airport",
-        "Role": "P-S",
-        "Enplanements": "811,535",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "AirportWiFi"
-    },
-    {
-        "City": "Newburgh",
-        "FAA": "SWF",
-        "IATA": "SWF",
-        "ICAO": "KSWF",
-        "Airport": "New York Stewart International Airport",
-        "Role": "P-N",
-        "Enplanements": "354,869",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "SWFWiFi"
-    },
-    {
-        "City": "Niagara Falls",
-        "FAA": "IAG",
-        "IATA": "IAG",
-        "ICAO": "KIAG",
-        "Airport": "Niagara Falls International Airport",
-        "Role": "P-N",
-        "Enplanements": "119,182",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "IAG_Passpoint"
-    },
-    {
-        "City": "Ogdensburg",
-        "FAA": "OGS",
-        "IATA": "OGS",
-        "ICAO": "KOGS",
-        "Airport": "Ogdensburg International Airport",
-        "Role": "P-N",
-        "Enplanements": "23,448",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "OGS Free WiFi"
-    },
-    {
-        "City": "Plattsburgh",
-        "FAA": "PBG",
-        "IATA": "PBG",
-        "ICAO": "KPBG",
-        "Airport": "Plattsburgh International Airport",
-        "Role": "P-N",
-        "Enplanements": "119,783",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "AirportWiFi"
-    },
-    {
-        "City": "Rochester",
-        "FAA": "ROC",
-        "IATA": "ROC",
-        "ICAO": "KROC",
-        "Airport": "Frederick Douglass/Greater Rochester International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,281,908",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "ROCMonroeWifi"
-    },
-    {
-        "City": "Syracuse",
-        "FAA": "SYR",
-        "IATA": "SYR",
-        "ICAO": "KSYR",
-        "Airport": "Syracuse Hancock International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,139,568",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "SYR_FREE_WIFI"
-    },
-    {
-        "City": "Watertown",
-        "FAA": "ART",
-        "IATA": "ART",
-        "ICAO": "KART",
-        "Airport": "Watertown International Airport",
-        "Role": "P-N",
-        "Enplanements": "23,844",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "ART_PUBLIC_WIFI"
-    },
-    {
-        "City": "White Plains",
-        "FAA": "HPN",
-        "IATA": "HPN",
-        "ICAO": "KHPN",
-        "Airport": "Westchester County Airport",
-        "Role": "P-S",
-        "Enplanements": "789,283",
-        "State": "NEW YORK",
-        "StateAbbreviation": "NY",
-        "SSID": "HPN_Public_WiFi"
-    },
-    {
-        "City": "Asheville",
-        "FAA": "AVL",
-        "IATA": "AVL",
-        "ICAO": "KAVL",
-        "Airport": "Asheville Regional Airport",
-        "Role": "P-S",
-        "Enplanements": "1,125,935",
-        "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC",
-        "SSID": "\"AVL Free WiFi\""
+        "SSID": "_LGA Free WiFi"
     },
     {
         "City": "Charlotte",
@@ -2901,79 +609,7 @@
         "Enplanements": "25,896,201",
         "State": "NORTH CAROLINA",
         "StateAbbreviation": "NC",
-        "SSID": "CLT Free WiFi"
-    },
-    {
-        "City": "Concord",
-        "FAA": "JQF",
-        "IATA": "USA",
-        "ICAO": "KJQF",
-        "Airport": "Concord\u2013Padgett Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "119,069",
-        "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC",
-        "SSID": "ConcordAirportWiFi"
-    },
-    {
-        "City": "Fayetteville",
-        "FAA": "FAY",
-        "IATA": "FAY",
-        "ICAO": "KFAY",
-        "Airport": "Fayetteville Regional Airport(Grannis Field)",
-        "Role": "P-N",
-        "Enplanements": "167,572",
-        "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC",
-        "SSID": "FAY-free-WIFI"
-    },
-    {
-        "City": "Greensboro",
-        "FAA": "GSO",
-        "IATA": "GSO",
-        "ICAO": "KGSO",
-        "Airport": "Piedmont Triad International Airport",
-        "Role": "P-S",
-        "Enplanements": "903,742",
-        "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC",
-        "SSID": "FlyGSO"
-    },
-    {
-        "City": "Greenville",
-        "FAA": "PGV",
-        "IATA": "PGV",
-        "ICAO": "KPGV",
-        "Airport": "Pitt\u2013Greenville Airport",
-        "Role": "P-N",
-        "Enplanements": "34,824",
-        "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC",
-        "SSID": "PGV_Free_WiFi"
-    },
-    {
-        "City": "Jacksonville",
-        "FAA": "OAJ",
-        "IATA": "OAJ",
-        "ICAO": "KOAJ",
-        "Airport": "Albert J. Ellis Airport",
-        "Role": "P-N",
-        "Enplanements": "133,839",
-        "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC",
-        "SSID": "OAJ-GuestWiFi"
-    },
-    {
-        "City": "New Bern",
-        "FAA": "EWN",
-        "IATA": "EWN",
-        "ICAO": "KEWN",
-        "Airport": "Coastal Carolina Regional Airport(was Craven County Regional)",
-        "Role": "P-N",
-        "Enplanements": "59,159",
-        "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC",
-        "SSID": "EWN Free WiFi"
+        "SSID": "CLTFreeWiFi"
     },
     {
         "City": "Raleigh",
@@ -2985,115 +621,7 @@
         "Enplanements": "7,118,995",
         "State": "NORTH CAROLINA",
         "StateAbbreviation": "NC",
-        "SSID": "RDU-FreeWiFi"
-    },
-    {
-        "City": "Wilmington",
-        "FAA": "ILM",
-        "IATA": "ILM",
-        "ICAO": "KILM",
-        "Airport": "Wilmington International Airport",
-        "Role": "P-S",
-        "Enplanements": "655,857",
-        "State": "NORTH CAROLINA",
-        "StateAbbreviation": "NC",
-        "SSID": "ilm_public_wifi"
-    },
-    {
-        "City": "Bismarck",
-        "FAA": "BIS",
-        "IATA": "BIS",
-        "ICAO": "KBIS",
-        "Airport": "Bismarck Municipal Airport",
-        "Role": "P-N",
-        "Enplanements": "257,000",
-        "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND",
-        "SSID": "FlyBIS_AirportWiFi"
-    },
-    {
-        "City": "Dickinson",
-        "FAA": "DIK",
-        "IATA": "DIK",
-        "ICAO": "KDIK",
-        "Airport": "Dickinson Theodore Roosevelt Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "24,000",
-        "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND",
-        "SSID": "DIK-Public-Guest-Access"
-    },
-    {
-        "City": "Fargo",
-        "FAA": "FAR",
-        "IATA": "FAR",
-        "ICAO": "KFAR",
-        "Airport": "Hector International Airport",
-        "Role": "P-S",
-        "Enplanements": "516,000",
-        "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND",
-        "SSID": "FARGO AIRPORT WIFI"
-    },
-    {
-        "City": "Grand Forks",
-        "FAA": "GFK",
-        "IATA": "GFK",
-        "ICAO": "KGFK",
-        "Airport": "Grand Forks International Airport",
-        "Role": "P-N",
-        "Enplanements": "92,000",
-        "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND",
-        "SSID": "GFK-Public-WiFi"
-    },
-    {
-        "City": "Jamestown",
-        "FAA": "JMS",
-        "IATA": "JMS",
-        "ICAO": "KJMS",
-        "Airport": "Jamestown Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "10,000",
-        "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND",
-        "SSID": "Airport_JMS_PublicWiFi"
-    },
-    {
-        "City": "Minot",
-        "FAA": "MOT",
-        "IATA": "MOT",
-        "ICAO": "KMOT",
-        "Airport": "Minot International Airport",
-        "Role": "P-N",
-        "Enplanements": "146,000",
-        "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND",
-        "SSID": "MOT Free WiFi"
-    },
-    {
-        "City": "Williston",
-        "FAA": "XWA",
-        "IATA": "XWA",
-        "ICAO": "KXWA",
-        "Airport": "Williston Basin International Airport",
-        "Role": "P-N",
-        "Enplanements": "82,000",
-        "State": "NORTH DAKOTA",
-        "StateAbbreviation": "ND",
-        "SSID": "XWA_Public_WIFI"
-    },
-    {
-        "City": "Akron/Canton",
-        "FAA": "CAK",
-        "IATA": "CAK",
-        "ICAO": "KCAK",
-        "Airport": "Akron\u2013Canton Airport",
-        "Role": "P-N",
-        "Enplanements": "449,731",
-        "State": "OHIO",
-        "StateAbbreviation": "OH",
-        "SSID": "CAK_Free_WiFi"
+        "SSID": "RDU-Free-Wifi"
     },
     {
         "City": "Cleveland",
@@ -3105,7 +633,7 @@
         "Enplanements": "4,701,713",
         "State": "OHIO",
         "StateAbbreviation": "OH",
-        "SSID": "CLE-BLAST-WIFI"
+        "SSID": "CLE Express WiFi"
     },
     {
         "City": "Columbus",
@@ -3117,55 +645,7 @@
         "Enplanements": "3,976,620",
         "State": "OHIO",
         "StateAbbreviation": "OH",
-        "SSID": "CMH Guest WiFi"
-    },
-    {
-        "City": "Columbus",
-        "FAA": "LCK",
-        "IATA": "LCK",
-        "ICAO": "KLCK",
-        "Airport": "Rickenbacker International Airport",
-        "Role": "P-N",
-        "Enplanements": "154,475",
-        "State": "OHIO",
-        "StateAbbreviation": "OH",
-        "SSID": "CMH_FREE_WIFI"
-    },
-    {
-        "City": "Dayton",
-        "FAA": "DAY",
-        "IATA": "DAY",
-        "ICAO": "KDAY",
-        "Airport": "James M. Cox Dayton International Airport",
-        "Role": "P-S",
-        "Enplanements": "858,022",
-        "State": "OHIO",
-        "StateAbbreviation": "OH",
-        "SSID": "DAY_Free_WiFi"
-    },
-    {
-        "City": "Toledo",
-        "FAA": "TOL",
-        "IATA": "TOL",
-        "ICAO": "KTOL",
-        "Airport": "Eugene F. Kranz Toledo Express Airport",
-        "Role": "P-N",
-        "Enplanements": "123,541",
-        "State": "OHIO",
-        "StateAbbreviation": "OH",
-        "SSID": "TOL_FREE_WIFI"
-    },
-    {
-        "City": "Lawton",
-        "FAA": "LAW",
-        "IATA": "LAW",
-        "ICAO": "KLAW",
-        "Airport": "Lawton\u2013Fort Sill Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "48,086",
-        "State": "OKLAHOMA",
-        "StateAbbreviation": "OK",
-        "SSID": "LAW Free WiFi"
+        "SSID": "CMH Wireless Network"
     },
     {
         "City": "Oklahoma City",
@@ -3177,67 +657,7 @@
         "Enplanements": "2,094,708",
         "State": "OKLAHOMA",
         "StateAbbreviation": "OK",
-        "SSID": "OKC Public WiFi"
-    },
-    {
-        "City": "Stillwater",
-        "FAA": "SWO",
-        "IATA": "SWO",
-        "ICAO": "KSWO",
-        "Airport": "Stillwater Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "27,321",
-        "State": "OKLAHOMA",
-        "StateAbbreviation": "OK",
-        "SSID": "AirportSWO"
-    },
-    {
-        "City": "Tulsa",
-        "FAA": "TUL",
-        "IATA": "TUL",
-        "ICAO": "KTUL",
-        "Airport": "Tulsa International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,482,908",
-        "State": "OKLAHOMA",
-        "StateAbbreviation": "OK",
-        "SSID": "TUL Free Wifi"
-    },
-    {
-        "City": "Eugene",
-        "FAA": "EUG",
-        "IATA": "EUG",
-        "ICAO": "KEUG",
-        "Airport": "Mahlon Sweet Field",
-        "Role": "P-S",
-        "Enplanements": "566,832",
-        "State": "OREGON",
-        "StateAbbreviation": "OR",
-        "SSID": "FlyEUG-WiFi"
-    },
-    {
-        "City": "Medford",
-        "FAA": "MFR",
-        "IATA": "MFR",
-        "ICAO": "KMFR",
-        "Airport": "Rogue Valley International\u2013Medford Airport",
-        "Role": "P-S",
-        "Enplanements": "492,217",
-        "State": "OREGON",
-        "StateAbbreviation": "OR",
-        "SSID": "MFR-Public-WiFi"
-    },
-    {
-        "City": "North Bend",
-        "FAA": "OTH",
-        "IATA": "OTH",
-        "ICAO": "KOTH",
-        "Airport": "Southwest Oregon Regional Airport(was North Bend Municipal)",
-        "Role": "P-N",
-        "Enplanements": "12,369",
-        "State": "OREGON",
-        "StateAbbreviation": "OR",
-        "SSID": "OTH_FREE_WIFI"
+        "SSID": "\"FlyOKC Wi-Fi\""
     },
     {
         "City": "Portland",
@@ -3249,67 +669,7 @@
         "Enplanements": "9,804,868",
         "State": "OREGON",
         "StateAbbreviation": "OR",
-        "SSID": "PDX_FREE_WIFI"
-    },
-    {
-        "City": "Redmond",
-        "FAA": "RDM",
-        "IATA": "RDM",
-        "ICAO": "KRDM",
-        "Airport": "Roberts Field",
-        "Role": "P-S",
-        "Enplanements": "430,562",
-        "State": "OREGON",
-        "StateAbbreviation": "OR",
-        "SSID": "RDM-FreeWiFi"
-    },
-    {
-        "City": "Allentown",
-        "FAA": "ABE",
-        "IATA": "ABE",
-        "ICAO": "KABE",
-        "Airport": "Lehigh Valley International Airport(was Allentown\u2013Bethlehem\u2013Easton International Airport)",
-        "Role": "P-S",
-        "Enplanements": "376,468",
-        "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA",
-        "SSID": "FLYABEwifi"
-    },
-    {
-        "City": "Erie",
-        "FAA": "ERI",
-        "IATA": "ERI",
-        "ICAO": "KERI",
-        "Airport": "Erie International Airport(Tom Ridge Field)",
-        "Role": "P-N",
-        "Enplanements": "95,342",
-        "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA",
-        "SSID": "ERI FREE WIFI"
-    },
-    {
-        "City": "Harrisburg",
-        "FAA": "MDT",
-        "IATA": "MDT",
-        "ICAO": "KMDT",
-        "Airport": "Harrisburg International Airport",
-        "Role": "P-S",
-        "Enplanements": "636,756",
-        "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA",
-        "SSID": "MDT_Free_WiFi"
-    },
-    {
-        "City": "Latrobe",
-        "FAA": "LBE",
-        "IATA": "LBE",
-        "ICAO": "KLBE",
-        "Airport": "Arnold Palmer Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "151,410",
-        "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA",
-        "SSID": "LBE_FREE_WIFI"
+        "SSID": "flypdx"
     },
     {
         "City": "Philadelphia",
@@ -3321,7 +681,7 @@
         "Enplanements": "15,292,670",
         "State": "PENNSYLVANIA",
         "StateAbbreviation": "PA",
-        "SSID": "PHL_FREE_WIFI"
+        "SSID": "PHL-Free-WiFi"
     },
     {
         "City": "Pittsburgh",
@@ -3333,43 +693,7 @@
         "Enplanements": "4,670,033",
         "State": "PENNSYLVANIA",
         "StateAbbreviation": "PA",
-        "SSID": "PIT WiFi"
-    },
-    {
-        "City": "State College",
-        "FAA": "UNV",
-        "IATA": "SCE",
-        "ICAO": "KUNV",
-        "Airport": "State College Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "153,571",
-        "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA",
-        "SSID": "SCE_WiFi"
-    },
-    {
-        "City": "Wilkes-Barre/Scranton",
-        "FAA": "AVP",
-        "IATA": "AVP",
-        "ICAO": "KAVP",
-        "Airport": "Wilkes-Barre/Scranton International Airport",
-        "Role": "P-N",
-        "Enplanements": "258,628",
-        "State": "PENNSYLVANIA",
-        "StateAbbreviation": "PA",
-        "SSID": "FLYAVP_WiFi"
-    },
-    {
-        "City": "Block Island",
-        "FAA": "BID",
-        "IATA": "BID",
-        "ICAO": "KBID",
-        "Airport": "Block Island State Airport",
-        "Role": "P-N",
-        "Enplanements": "16,809",
-        "State": "RHODE ISLAND",
-        "StateAbbreviation": "RI",
-        "SSID": "BID_Free_WiFi"
+        "SSID": "PIT Wifi"
     },
     {
         "City": "Providence",
@@ -3381,19 +705,7 @@
         "Enplanements": "2,117,409",
         "State": "RHODE ISLAND",
         "StateAbbreviation": "RI",
-        "SSID": "PVD_PUBLIC_WIFI"
-    },
-    {
-        "City": "Westerly",
-        "FAA": "WST",
-        "IATA": "WST",
-        "ICAO": "KWST",
-        "Airport": "Westerly State Airport",
-        "Role": "P-N",
-        "Enplanements": "17,694",
-        "State": "RHODE ISLAND",
-        "StateAbbreviation": "RI",
-        "SSID": "WST-Airport-Guest"
+        "SSID": "PVD WiFi"
     },
     {
         "City": "Charleston",
@@ -3405,151 +717,7 @@
         "Enplanements": "2,192,893",
         "State": "SOUTH CAROLINA",
         "StateAbbreviation": "SC",
-        "SSID": "CHS AIRPORT_WIFI"
-    },
-    {
-        "City": "Columbia",
-        "FAA": "CAE",
-        "IATA": "CAE",
-        "ICAO": "KCAE",
-        "Airport": "Columbia Metropolitan Airport",
-        "Role": "P-S",
-        "Enplanements": "566,660",
-        "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC",
-        "SSID": "FlyAwayWiFi"
-    },
-    {
-        "City": "Florence",
-        "FAA": "FLO",
-        "IATA": "FLO",
-        "ICAO": "KFLO",
-        "Airport": "Florence Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "44,333",
-        "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC",
-        "SSID": "@AirportFloWiFi"
-    },
-    {
-        "City": "Greenville",
-        "FAA": "GSP",
-        "IATA": "GSP",
-        "ICAO": "KGSP",
-        "Airport": "Greenville\u2013Spartanburg International Airport(Roger Milliken Field)",
-        "Role": "P-S",
-        "Enplanements": "1,133,012",
-        "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC",
-        "SSID": "GSP Free WiFi"
-    },
-    {
-        "City": "Hilton Head",
-        "FAA": "HXD",
-        "IATA": "HHH",
-        "ICAO": "KHXD",
-        "Airport": "Hilton Head Airport",
-        "Role": "P-N",
-        "Enplanements": "36,308",
-        "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC",
-        "SSID": "HHH Public WiFi"
-    },
-    {
-        "City": "Myrtle Beach",
-        "FAA": "MYR",
-        "IATA": "MYR",
-        "ICAO": "KMYR",
-        "Airport": "Myrtle Beach International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,254,307",
-        "State": "SOUTH CAROLINA",
-        "StateAbbreviation": "SC",
-        "SSID": "MYR Free WiFi"
-    },
-    {
-        "City": "Aberdeen",
-        "FAA": "ABR",
-        "IATA": "ABR",
-        "ICAO": "KABR",
-        "Airport": "Aberdeen Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "28,404",
-        "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD",
-        "SSID": "ABR-WiFi"
-    },
-    {
-        "City": "Pierre",
-        "FAA": "PIR",
-        "IATA": "PIR",
-        "ICAO": "KPIR",
-        "Airport": "Pierre Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "30,124",
-        "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD",
-        "SSID": "PIR-Airport-WiFi"
-    },
-    {
-        "City": "Rapid City",
-        "FAA": "RAP",
-        "IATA": "RAP",
-        "ICAO": "KRAP",
-        "Airport": "Rapid City Regional Airport",
-        "Role": "P-S",
-        "Enplanements": "303,471",
-        "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD",
-        "SSID": "RAP_Free_Wifi"
-    },
-    {
-        "City": "Sioux Falls",
-        "FAA": "FSD",
-        "IATA": "FSD",
-        "ICAO": "KFSD",
-        "Airport": "Sioux Falls Regional Airport(Joe Foss Field)",
-        "Role": "P-S",
-        "Enplanements": "529,895",
-        "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD",
-        "SSID": "FSD Wi-Fi"
-    },
-    {
-        "City": "Watertown",
-        "FAA": "ATY",
-        "IATA": "ATY",
-        "ICAO": "KATY",
-        "Airport": "Watertown Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "12,064",
-        "State": "SOUTH DAKOTA",
-        "StateAbbreviation": "SD",
-        "SSID": "ATY-WiFi"
-    },
-    {
-        "City": "Chattanooga",
-        "FAA": "CHA",
-        "IATA": "CHA",
-        "ICAO": "KCHA",
-        "Airport": "Chattanooga Metropolitan Airport(Lovell Field)",
-        "Role": "P-S",
-        "Enplanements": "504,833",
-        "State": "TENNESSEE",
-        "StateAbbreviation": "TN",
-        "SSID": "CHA-Free WiFi"
-    },
-    {
-        "City": "Knoxville",
-        "FAA": "TYS",
-        "IATA": "TYS",
-        "ICAO": "KTYS",
-        "Airport": "McGhee Tyson Airport",
-        "Role": "P-S",
-        "Enplanements": "1,069,565",
-        "State": "TENNESSEE",
-        "StateAbbreviation": "TN",
-        "SSID": "FLYKNOXVILLE"
+        "SSID": "CHS Free WiFi"
     },
     {
         "City": "Memphis",
@@ -3573,43 +741,7 @@
         "Enplanements": "8,017,347",
         "State": "TENNESSEE",
         "StateAbbreviation": "TN",
-        "SSID": "BNA_FREE_WIFI"
-    },
-    {
-        "City": "Tri-Cities",
-        "FAA": "TRI",
-        "IATA": "TRI",
-        "ICAO": "KTRI",
-        "Airport": "Tri-Cities Airport",
-        "Role": "P-N",
-        "Enplanements": "200,086",
-        "State": "TENNESSEE",
-        "StateAbbreviation": "TN",
-        "SSID": "Tri-Cities Airport Public WiFi"
-    },
-    {
-        "City": "Abilene",
-        "FAA": "ABI",
-        "IATA": "ABI",
-        "ICAO": "KABI",
-        "Airport": "Abilene Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "75,402",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "ABI_FREE_WIFI"
-    },
-    {
-        "City": "Amarillo",
-        "FAA": "AMA",
-        "IATA": "AMA",
-        "ICAO": "KAMA",
-        "Airport": "Rick Husband Amarillo International Airport",
-        "Role": "P-N",
-        "Enplanements": "303,904",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "AMA-Free-WiFi"
+        "SSID": "BNA_Free_WiFi"
     },
     {
         "City": "Austin",
@@ -3621,55 +753,7 @@
         "Enplanements": "6,666,215",
         "State": "TEXAS",
         "StateAbbreviation": "TX",
-        "SSID": "AUStin_Free_WiFi"
-    },
-    {
-        "City": "Beaumont",
-        "FAA": "BPT",
-        "IATA": "BPT",
-        "ICAO": "KBPT",
-        "Airport": "Jack Brooks Regional Airport(was Southeast Texas Regional)",
-        "Role": "P-N",
-        "Enplanements": "21,914",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "FlyBPT-Guest"
-    },
-    {
-        "City": "Brownsville",
-        "FAA": "BRO",
-        "IATA": "BRO",
-        "ICAO": "KBRO",
-        "Airport": "Brownsville/South Padre Island International Airport",
-        "Role": "P-N",
-        "Enplanements": "167,957",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "BRO_FREE_WIFI"
-    },
-    {
-        "City": "College Station",
-        "FAA": "CLL",
-        "IATA": "CLL",
-        "ICAO": "KCLL",
-        "Airport": "Easterwood Field",
-        "Role": "P-N",
-        "Enplanements": "67,033",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "CLL-Free-WiFi"
-    },
-    {
-        "City": "Corpus Christi",
-        "FAA": "CRP",
-        "IATA": "CRP",
-        "ICAO": "KCRP",
-        "Airport": "Corpus Christi International Airport",
-        "Role": "P-N",
-        "Enplanements": "285,195",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "CRP Free WiFi"
+        "SSID": "AUS-Free-WiFi"
     },
     {
         "City": "Dallas",
@@ -3681,7 +765,7 @@
         "Enplanements": "6,487,563",
         "State": "TEXAS",
         "StateAbbreviation": "TX",
-        "SSID": "DAL-Free-WiFi"
+        "SSID": "DAL Free Wi-Fi"
     },
     {
         "City": "Dallas\u2013Fort Worth",
@@ -3693,43 +777,7 @@
         "Enplanements": "30,005,266",
         "State": "TEXAS",
         "StateAbbreviation": "TX",
-        "SSID": "DFW-FREE-WIFI"
-    },
-    {
-        "City": "Del Rio",
-        "FAA": "DRT",
-        "IATA": "DRT",
-        "ICAO": "KDRT",
-        "Airport": "Del Rio International Airport",
-        "Role": "P-N",
-        "Enplanements": "19,879",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "DRT-Public-WiFi"
-    },
-    {
-        "City": "El Paso",
-        "FAA": "ELP",
-        "IATA": "ELP",
-        "ICAO": "KELP",
-        "Airport": "El Paso International Airport",
-        "Role": "P-S",
-        "Enplanements": "1,438,321",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "ELP Free WiFi"
-    },
-    {
-        "City": "Harlingen",
-        "FAA": "HRL",
-        "IATA": "HRL",
-        "ICAO": "KHRL",
-        "Airport": "Valley International Airport",
-        "Role": "P-S",
-        "Enplanements": "355,190",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "HRL Public WiFi"
+        "SSID": "DFW Airport Official WiFi"
     },
     {
         "City": "Houston",
@@ -3741,7 +789,7 @@
         "Enplanements": "16,242,821",
         "State": "TEXAS",
         "StateAbbreviation": "TX",
-        "SSID": "\"IAH-Public\""
+        "SSID": "\"IAH Free Wi-Fi\""
     },
     {
         "City": "Houston",
@@ -3753,91 +801,7 @@
         "Enplanements": "5,560,780",
         "State": "TEXAS",
         "StateAbbreviation": "TX",
-        "SSID": "HOU_FREE_WIFI"
-    },
-    {
-        "City": "Killeen",
-        "FAA": "GRK",
-        "IATA": "GRK",
-        "ICAO": "KGRK",
-        "Airport": "Killeen Regional Airport/ Robert Gray Army Airfield",
-        "Role": "P-N",
-        "Enplanements": "142,253",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "GRK-FreeWiFi"
-    },
-    {
-        "City": "Laredo",
-        "FAA": "LRD",
-        "IATA": "LRD",
-        "ICAO": "KLRD",
-        "Airport": "Laredo International Airport",
-        "Role": "P-N",
-        "Enplanements": "108,992",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "LRD Free WiFi"
-    },
-    {
-        "City": "Longview",
-        "FAA": "GGG",
-        "IATA": "GGG",
-        "ICAO": "KGGG",
-        "Airport": "East Texas Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "23,942",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "GGGAirportWiFi"
-    },
-    {
-        "City": "Lubbock",
-        "FAA": "LBB",
-        "IATA": "LBB",
-        "ICAO": "KLBB",
-        "Airport": "Lubbock Preston Smith International Airport",
-        "Role": "P-S",
-        "Enplanements": "405,157",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "FlyLubbockWiFi"
-    },
-    {
-        "City": "McAllen",
-        "FAA": "MFE",
-        "IATA": "MFE",
-        "ICAO": "KMFE",
-        "Airport": "McAllen Miller International Airport",
-        "Role": "P-S",
-        "Enplanements": "477,636",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "MFE_FREE_WIFI"
-    },
-    {
-        "City": "Midland/Odessa",
-        "FAA": "MAF",
-        "IATA": "MAF",
-        "ICAO": "KMAF",
-        "Airport": "Midland International Air and Space Port",
-        "Role": "P-S",
-        "Enplanements": "504,264",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "FLY_MAF_PUBLIC_WIFI"
-    },
-    {
-        "City": "San Angelo",
-        "FAA": "SJT",
-        "IATA": "SJT",
-        "ICAO": "KSJT",
-        "Airport": "San Angelo Regional Airport(Mathis Field)",
-        "Role": "P-N",
-        "Enplanements": "60,115",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "AirportSJT-WiFi"
+        "SSID": "**FreeAirportWiFi**"
     },
     {
         "City": "San Antonio",
@@ -3849,103 +813,7 @@
         "Enplanements": "3,677,643",
         "State": "TEXAS",
         "StateAbbreviation": "TX",
-        "SSID": "SAT_PUBLIC_WIFI"
-    },
-    {
-        "City": "Tyler",
-        "FAA": "TYR",
-        "IATA": "TYR",
-        "ICAO": "KTYR",
-        "Airport": "Tyler Pounds Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "39,943",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "TYR Airport WiFi"
-    },
-    {
-        "City": "Waco",
-        "FAA": "ACT",
-        "IATA": "ACT",
-        "ICAO": "KACT",
-        "Airport": "Waco Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "47,541",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "ACT_Wi-Fi"
-    },
-    {
-        "City": "Wichita Falls",
-        "FAA": "SPS",
-        "IATA": "SPS",
-        "ICAO": "KSPS",
-        "Airport": "Wichita Falls Municipal Airport/Sheppard Air Force Base",
-        "Role": "P-N",
-        "Enplanements": "32,038",
-        "State": "TEXAS",
-        "StateAbbreviation": "TX",
-        "SSID": "SPS_FREE_WIFI"
-    },
-    {
-        "City": "Cedar City",
-        "FAA": "CDC",
-        "IATA": "CDC",
-        "ICAO": "KCDC",
-        "Airport": "Cedar City Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "12,807",
-        "State": "UTAH",
-        "StateAbbreviation": "UT",
-        "SSID": "CC Airport Public WiFi"
-    },
-    {
-        "City": "Moab",
-        "FAA": "CNY",
-        "IATA": "CNY",
-        "ICAO": "KCNY",
-        "Airport": "Canyonlands Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "20,093",
-        "State": "UTAH",
-        "StateAbbreviation": "UT",
-        "SSID": "Airport CNY_WIFI"
-    },
-    {
-        "City": "Ogden",
-        "FAA": "OGD",
-        "IATA": "OGD",
-        "ICAO": "KOGD",
-        "Airport": "Ogden\u2013Hinckley Airport",
-        "Role": "P-N",
-        "Enplanements": "29,857",
-        "State": "UTAH",
-        "StateAbbreviation": "UT",
-        "SSID": "Airport OGD_WIFI"
-    },
-    {
-        "City": "Provo",
-        "FAA": "PVU",
-        "IATA": "PVU",
-        "ICAO": "KPVU",
-        "Airport": "Provo Municipal Airport",
-        "Role": "P-N",
-        "Enplanements": "118,740",
-        "State": "UTAH",
-        "StateAbbreviation": "UT",
-        "SSID": "PVU-GUEST-WIFI"
-    },
-    {
-        "City": "St. George",
-        "FAA": "SGU",
-        "IATA": "SGU",
-        "ICAO": "KSGU",
-        "Airport": "St. George Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "153,200",
-        "State": "UTAH",
-        "StateAbbreviation": "UT",
-        "SSID": "SGU Free WiFi"
+        "SSID": "FlySanAntonio"
     },
     {
         "City": "Salt Lake City",
@@ -3957,55 +825,7 @@
         "Enplanements": "10,795,906",
         "State": "UTAH",
         "StateAbbreviation": "UT",
-        "SSID": "SLC Free WiFi"
-    },
-    {
-        "City": "Burlington",
-        "FAA": "BTV",
-        "IATA": "BTV",
-        "ICAO": "KBTV",
-        "Airport": "Patrick Leahy Burlington International Airport",
-        "Role": "P-S",
-        "Enplanements": "658,879",
-        "State": "VERMONT",
-        "StateAbbreviation": "VT",
-        "SSID": "BTV_Public-WiFi"
-    },
-    {
-        "City": "Charlottesville",
-        "FAA": "CHO",
-        "IATA": "CHO",
-        "ICAO": "KCHO",
-        "Airport": "Charlottesville\u2013Albemarle Airport",
-        "Role": "P-N",
-        "Enplanements": "352,816",
-        "State": "VIRGINIA",
-        "StateAbbreviation": "VA",
-        "SSID": "CHO Public Wi-Fi"
-    },
-    {
-        "City": "Lynchburg",
-        "FAA": "LYH",
-        "IATA": "LYH",
-        "ICAO": "KLYH",
-        "Airport": "Lynchburg Regional Airport(Preston Glenn Field)",
-        "Role": "P-N",
-        "Enplanements": "83,392",
-        "State": "VIRGINIA",
-        "StateAbbreviation": "VA",
-        "SSID": "LYH Public WiFi"
-    },
-    {
-        "City": "Newport News",
-        "FAA": "PHF",
-        "IATA": "PHF",
-        "ICAO": "KPHF",
-        "Airport": "Newport News/Williamsburg International Airport(Patrick Henry Field)",
-        "Role": "P-N",
-        "Enplanements": "195,573",
-        "State": "VIRGINIA",
-        "StateAbbreviation": "VA",
-        "SSID": "PHF Guest WiFi"
+        "SSID": "FlySLC Free WiFi"
     },
     {
         "City": "Norfolk",
@@ -4017,7 +837,7 @@
         "Enplanements": "1,846,031",
         "State": "VIRGINIA",
         "StateAbbreviation": "VA",
-        "SSID": "ORFWiFi"
+        "SSID": "ORF\u2013WiFi"
     },
     {
         "City": "Richmond",
@@ -4029,31 +849,7 @@
         "Enplanements": "2,048,691",
         "State": "VIRGINIA",
         "StateAbbreviation": "VA",
-        "SSID": "\"RIC-Public\""
-    },
-    {
-        "City": "Roanoke",
-        "FAA": "ROA",
-        "IATA": "ROA",
-        "ICAO": "KROA",
-        "Airport": "Roanoke\u2013Blacksburg Regional Airport(Woodrum Field)",
-        "Role": "P-N",
-        "Enplanements": "330,063",
-        "State": "VIRGINIA",
-        "StateAbbreviation": "VA",
-        "SSID": "FlyRoanoke"
-    },
-    {
-        "City": "Staunton/Waynesboro/Harrisonburg",
-        "FAA": "SHD",
-        "IATA": "SHD",
-        "ICAO": "KSHD",
-        "Airport": "Shenandoah Valley Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "12,179",
-        "State": "VIRGINIA",
-        "StateAbbreviation": "VA",
-        "SSID": "SHD Free WiFi"
+        "SSID": "RIC-WiFi"
     },
     {
         "City": "Washington, D.C./Arlington",
@@ -4065,7 +861,7 @@
         "Enplanements": "11,366,771",
         "State": "VIRGINIA",
         "StateAbbreviation": "VA",
-        "SSID": "DCA_FREE_WIFI"
+        "SSID": "FlyReaganWiFi"
     },
     {
         "City": "Washington, D.C./Dulles/Chantilly",
@@ -4077,91 +873,7 @@
         "Enplanements": "11,621,623",
         "State": "VIRGINIA",
         "StateAbbreviation": "VA",
-        "SSID": "\"FlyDulles\""
-    },
-    {
-        "City": "Bellingham",
-        "FAA": "BLI",
-        "IATA": "BLI",
-        "ICAO": "KBLI",
-        "Airport": "Bellingham International Airport",
-        "Role": "P-N",
-        "Enplanements": "311,234",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "FlyBLI"
-    },
-    {
-        "City": "Eastsound",
-        "FAA": "ORS",
-        "IATA": "ESD",
-        "ICAO": "KORS",
-        "Airport": "Orcas Island Airport",
-        "Role": "P-N",
-        "Enplanements": "8,089",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "esdflyers"
-    },
-    {
-        "City": "Everett",
-        "FAA": "PAE",
-        "IATA": "PAE",
-        "ICAO": "KPAE",
-        "Airport": "Paine Field(Snohomish County Airport)",
-        "Role": "P-N",
-        "Enplanements": "306,499",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "PaineFieldGuest"
-    },
-    {
-        "City": "Friday Harbor",
-        "FAA": "FHR",
-        "IATA": "FRD",
-        "ICAO": "KFHR",
-        "Airport": "Friday Harbor Airport",
-        "Role": "P-N",
-        "Enplanements": "12,709",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "FRD_PUBLIC_WIFI"
-    },
-    {
-        "City": "Pasco",
-        "FAA": "PSC",
-        "IATA": "PSC",
-        "ICAO": "KPSC",
-        "Airport": "Tri-Cities Airport",
-        "Role": "P-S",
-        "Enplanements": "438,076",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "PSC_FREE_WIFI"
-    },
-    {
-        "City": "Pullman/Moscow, Idaho",
-        "FAA": "PUW",
-        "IATA": "PUW",
-        "ICAO": "KPUW",
-        "Airport": "Pullman\u2013Moscow Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "63,835",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "PUW_Public_WiFi"
-    },
-    {
-        "City": "Seattle",
-        "FAA": "BFI",
-        "IATA": "BFI",
-        "ICAO": "KBFI",
-        "Airport": "King County International Airport(Boeing Field)",
-        "Role": "P-N",
-        "Enplanements": "27,446",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "BFI-Free-Wifi"
+        "SSID": "FlyDulles Free WiFi"
     },
     {
         "City": "Seattle/Tacoma(SeaTac)",
@@ -4173,7 +885,7 @@
         "Enplanements": "24,594,210",
         "State": "WASHINGTON",
         "StateAbbreviation": "WA",
-        "SSID": "SEA Airport Wi-Fi"
+        "SSID": "SEATAC-FREE-WIFI"
     },
     {
         "City": "Spokane",
@@ -4185,139 +897,7 @@
         "Enplanements": "2,002,286",
         "State": "WASHINGTON",
         "StateAbbreviation": "WA",
-        "SSID": "GEG_Free_WiFi"
-    },
-    {
-        "City": "Walla Walla",
-        "FAA": "ALW",
-        "IATA": "ALW",
-        "ICAO": "KALW",
-        "Airport": "Walla Walla Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "26,465",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "ALW_PublicWiFi"
-    },
-    {
-        "City": "Wenatchee",
-        "FAA": "EAT",
-        "IATA": "EAT",
-        "ICAO": "KEAT",
-        "Airport": "Pangborn Memorial Airport",
-        "Role": "P-N",
-        "Enplanements": "27,655",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "EAT Airport Wifi"
-    },
-    {
-        "City": "Yakima",
-        "FAA": "YKM",
-        "IATA": "YKM",
-        "ICAO": "KYKM",
-        "Airport": "Yakima Air Terminal(McAllister Field)",
-        "Role": "P-N",
-        "Enplanements": "24,044",
-        "State": "WASHINGTON",
-        "StateAbbreviation": "WA",
-        "SSID": "YKM-GuestWifi"
-    },
-    {
-        "City": "Charleston",
-        "FAA": "CRW",
-        "IATA": "CRW",
-        "ICAO": "KCRW",
-        "Airport": "Yeager Airport",
-        "Role": "P-N",
-        "Enplanements": "194,898",
-        "State": "WEST VIRGINIA",
-        "StateAbbreviation": "WV",
-        "SSID": "CRW_FREE_WIFI"
-    },
-    {
-        "City": "Clarksburg",
-        "FAA": "CKB",
-        "IATA": "CKB",
-        "ICAO": "KCKB",
-        "Airport": "North Central West Virginia Airport(was Harrison-Marion Regional)",
-        "Role": "P-N",
-        "Enplanements": "42,736",
-        "State": "WEST VIRGINIA",
-        "StateAbbreviation": "WV",
-        "SSID": "CKB_FREE_WIFI"
-    },
-    {
-        "City": "Huntington",
-        "FAA": "HTS",
-        "IATA": "HTS",
-        "ICAO": "KHTS",
-        "Airport": "Tri-State Airport(Milton J. Ferguson Field)",
-        "Role": "P-N",
-        "Enplanements": "88,888",
-        "State": "WEST VIRGINIA",
-        "StateAbbreviation": "WV",
-        "SSID": "HTS_FREE_WIFI"
-    },
-    {
-        "City": "Appleton/Fox Cities",
-        "FAA": "ATW",
-        "IATA": "ATW",
-        "ICAO": "KATW",
-        "Airport": "Appleton International Airport",
-        "Role": "P-S",
-        "Enplanements": "474,885",
-        "State": "WISCONSIN",
-        "StateAbbreviation": "WI",
-        "SSID": "ATW Free Wifi"
-    },
-    {
-        "City": "Eau Claire",
-        "FAA": "EAU",
-        "IATA": "EAU",
-        "ICAO": "KEAU",
-        "Airport": "Chippewa Valley Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "25,856",
-        "State": "WISCONSIN",
-        "StateAbbreviation": "WI",
-        "SSID": "EAU-Public-WiFi"
-    },
-    {
-        "City": "Green Bay",
-        "FAA": "GRB",
-        "IATA": "GRB",
-        "ICAO": "KGRB",
-        "Airport": "Green Bay\u2013Austin Straubel International Airport",
-        "Role": "P-N",
-        "Enplanements": "330,478",
-        "State": "WISCONSIN",
-        "StateAbbreviation": "WI",
-        "SSID": "GRB_FREE_WIFI"
-    },
-    {
-        "City": "La Crosse",
-        "FAA": "LSE",
-        "IATA": "LSE",
-        "ICAO": "KLSE",
-        "Airport": "La Crosse Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "43,681",
-        "State": "WISCONSIN",
-        "StateAbbreviation": "WI",
-        "SSID": "LSE-PublicWiFi"
-    },
-    {
-        "City": "Madison",
-        "FAA": "MSN",
-        "IATA": "MSN",
-        "ICAO": "KMSN",
-        "Airport": "Dane County Regional Airport(Truax Field)",
-        "Role": "P-S",
-        "Enplanements": "1,037,973",
-        "State": "WISCONSIN",
-        "StateAbbreviation": "WI",
-        "SSID": "MSN-Guest-WiFi"
+        "SSID": "FlyGEG-FreeWiFi"
     },
     {
         "City": "Milwaukee",
@@ -4329,127 +909,7 @@
         "Enplanements": "2,959,810",
         "State": "WISCONSIN",
         "StateAbbreviation": "WI",
-        "SSID": "MKE-WiFi"
-    },
-    {
-        "City": "Mosinee",
-        "FAA": "CWA",
-        "IATA": "CWA",
-        "ICAO": "KCWA",
-        "Airport": "Central Wisconsin Airport",
-        "Role": "P-N",
-        "Enplanements": "84,775",
-        "State": "WISCONSIN",
-        "StateAbbreviation": "WI",
-        "SSID": "CWA Free WiFi"
-    },
-    {
-        "City": "Rhinelander",
-        "FAA": "RHI",
-        "IATA": "RHI",
-        "ICAO": "KRHI",
-        "Airport": "Rhinelander\u2013Oneida County Airport",
-        "Role": "P-N",
-        "Enplanements": "20,986",
-        "State": "WISCONSIN",
-        "StateAbbreviation": "WI",
-        "SSID": "RHI-WiFi"
-    },
-    {
-        "City": "Casper",
-        "FAA": "CPR",
-        "IATA": "CPR",
-        "ICAO": "KCPR",
-        "Airport": "Casper\u2013Natrona County International Airport",
-        "Role": "P-N",
-        "Enplanements": "66,629",
-        "State": "WYOMING",
-        "StateAbbreviation": "WY",
-        "SSID": "CPR-Guest-WiFi"
-    },
-    {
-        "City": "Cody",
-        "FAA": "COD",
-        "IATA": "COD",
-        "ICAO": "KCOD",
-        "Airport": "Yellowstone Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "37,349",
-        "State": "WYOMING",
-        "StateAbbreviation": "WY",
-        "SSID": "Yellowstone Airport GuestWiFi"
-    },
-    {
-        "City": "Gillette",
-        "FAA": "GCC",
-        "IATA": "GCC",
-        "ICAO": "KGCC",
-        "Airport": "Gillette\u2013Campbell County Airport",
-        "Role": "P-N",
-        "Enplanements": "23,873",
-        "State": "WYOMING",
-        "StateAbbreviation": "WY",
-        "SSID": "FlyGCCWiFi"
-    },
-    {
-        "City": "Jackson",
-        "FAA": "JAC",
-        "IATA": "JAC",
-        "ICAO": "KJAC",
-        "Airport": "Jackson Hole Airport",
-        "Role": "P-S",
-        "Enplanements": "497,548",
-        "State": "WYOMING",
-        "StateAbbreviation": "WY",
-        "SSID": "JAC_Free_WiFi"
-    },
-    {
-        "City": "Laramie",
-        "FAA": "LAR",
-        "IATA": "LAR",
-        "ICAO": "KLAR",
-        "Airport": "Laramie Regional Airport",
-        "Role": "P-N",
-        "Enplanements": "16,728",
-        "State": "WYOMING",
-        "StateAbbreviation": "WY",
-        "SSID": "LAR_PUBLIC_WIFI"
-    },
-    {
-        "City": "Riverton",
-        "FAA": "RIW",
-        "IATA": "RIW",
-        "ICAO": "KRIW",
-        "Airport": "Central Wyoming Regional Airport(was Riverton Regional)",
-        "Role": "P-N",
-        "Enplanements": "15,420",
-        "State": "WYOMING",
-        "StateAbbreviation": "WY",
-        "SSID": "AIRPORTWiFi"
-    },
-    {
-        "City": "Rock Springs",
-        "FAA": "RKS",
-        "IATA": "RKS",
-        "ICAO": "KRKS",
-        "Airport": "Southwest Wyoming Regional Airport(Rock Springs\u2013Sweetwater County Airport)",
-        "Role": "P-N",
-        "Enplanements": "16,679",
-        "State": "WYOMING",
-        "StateAbbreviation": "WY",
-        "SSID": "RKS-WIFI"
-    },
-    {
-        "City": "Sheridan",
-        "FAA": "SHR",
-        "IATA": "SHR",
-        "ICAO": "KSHR",
-        "Airport": "Sheridan County Airport",
-        "Role": "P-N",
-        "Enplanements": "23,920",
-        "State": "WYOMING",
-        "StateAbbreviation": "WY",
-        "SSID": "AirportSHR"
+        "SSID": "Boingo Hotspot"
     },
     {
         "City": "Agana/Tamuning",
@@ -4461,91 +921,7 @@
         "Enplanements": "1,736,131",
         "State": "GUAM",
         "StateAbbreviation": "GU",
-        "SSID": "GUM_FREE_WIFI"
-    },
-    {
-        "City": "Obyan,Saipan Island",
-        "FAA": "GSN",
-        "IATA": "SPN",
-        "ICAO": "PGSN",
-        "Airport": "Saipan International Airport(Francisco C. Ada)",
-        "Role": "P-N",
-        "Enplanements": "595,181",
-        "State": "NORTHERN MARIANAS",
-        "StateAbbreviation": "UNKNOWN",
-        "SSID": "SPN_Free_WiFi"
-    },
-    {
-        "City": "Tinian Island",
-        "FAA": "TNI",
-        "IATA": "TIQ",
-        "ICAO": "PGWT",
-        "Airport": "Tinian International Airport(West Tinian)",
-        "Role": "P-N",
-        "Enplanements": "38,664",
-        "State": "NORTHERN MARIANAS",
-        "StateAbbreviation": "UNKNOWN",
-        "SSID": "AirportTIQWiFi"
-    },
-    {
-        "City": "Aguadilla",
-        "FAA": "BQN",
-        "IATA": "BQN",
-        "ICAO": "TJBQ",
-        "Airport": "Rafael Hern\u00e1ndez Airport",
-        "Role": "P-N",
-        "Enplanements": "432,822",
-        "State": "PUERTO RICO",
-        "StateAbbreviation": "PR",
-        "SSID": "AirportBQNWiFi"
-    },
-    {
-        "City": "Ceiba",
-        "FAA": "RVR",
-        "IATA": "NRR",
-        "ICAO": "TJRV",
-        "Airport": "Jos\u00e9 Aponte de la Torre Airport",
-        "Role": "P-N",
-        "Enplanements": "19,786",
-        "State": "PUERTO RICO",
-        "StateAbbreviation": "PR",
-        "SSID": "CeibaAirportWiFi"
-    },
-    {
-        "City": "Culebra",
-        "FAA": "CPX",
-        "IATA": "CPX",
-        "ICAO": "TJCP",
-        "Airport": "Benjam\u00edn Rivera Noriega Airport",
-        "Role": "P-N",
-        "Enplanements": "18,922",
-        "State": "PUERTO RICO",
-        "StateAbbreviation": "PR",
-        "SSID": "AirportCPX"
-    },
-    {
-        "City": "Ponce",
-        "FAA": "PSE",
-        "IATA": "PSE",
-        "ICAO": "TJPS",
-        "Airport": "Mercedita Airport",
-        "Role": "P-N",
-        "Enplanements": "142,076",
-        "State": "PUERTO RICO",
-        "StateAbbreviation": "PR",
-        "SSID": "Ponce Free WiFi"
-    },
-    {
-        "City": "San Juan",
-        "FAA": "SIG",
-        "IATA": "SIG",
-        "ICAO": "TJIG",
-        "Airport": "Fernando Luis Ribas Dominicci Airport",
-        "Role": "P-N",
-        "Enplanements": "13,447",
-        "State": "PUERTO RICO",
-        "StateAbbreviation": "PR",
-        "SSID": "SJU-WiFi"
+        "SSID": "GUM-WiFi"
     },
     {
         "City": "San Juan",
@@ -4557,42 +933,6 @@
         "Enplanements": "5,985,001",
         "State": "PUERTO RICO",
         "StateAbbreviation": "PR",
-        "SSID": "SJU Free WiFi"
-    },
-    {
-        "City": "Vieques",
-        "FAA": "VQS",
-        "IATA": "VQS",
-        "ICAO": "TJVQ",
-        "Airport": "Antonio Rivera Rodr\u00edguez Airport",
-        "Role": "P-N",
-        "Enplanements": "28,961",
-        "State": "PUERTO RICO",
-        "StateAbbreviation": "PR",
-        "SSID": "VQS-AIRPORT-WIFI"
-    },
-    {
-        "City": "Charlotte Amalie,St. Thomas",
-        "FAA": "STT",
-        "IATA": "STT",
-        "ICAO": "TIST",
-        "Airport": "Cyril E. King Airport",
-        "Role": "P-S",
-        "Enplanements": "417,871",
-        "State": "U.S. VIRGIN ISLANDS",
-        "StateAbbreviation": "UNKNOWN",
-        "SSID": "STT Free WiFi"
-    },
-    {
-        "City": "Christiansted,St. Croix",
-        "FAA": "STX",
-        "IATA": "STX",
-        "ICAO": "TISX",
-        "Airport": "Henry E. Rohlsen Airport",
-        "Role": "P-N",
-        "Enplanements": "212,812",
-        "State": "U.S. VIRGIN ISLANDS",
-        "StateAbbreviation": "UNKNOWN",
-        "SSID": "STX-FreeWiFi"
+        "SSID": "SanJuan_FreeWiFi"
     }
 ]

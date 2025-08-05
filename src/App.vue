@@ -77,11 +77,11 @@
           <table class="airport-table">
             <thead>
               <tr>
-                <th>Airport</th>
                 <th>IATA</th>
                 <th>City</th>
                 <th>State</th>
                 <th>SSID</th>
+                <th>Airport</th>
                 <th>Enplanements</th>
               </tr>
             </thead>
@@ -93,11 +93,11 @@
                 @mouseenter="handleMouseEnter(airport, $event)"
                 @mouseleave="hoveredAirport = null"
               >
-                <td class="airport-name-cell">{{ airport.Airport }}</td>
                 <td class="code-cell">{{ airport.IATA }}</td>
                 <td>{{ airport.City }}</td>
                 <td>{{ airport.StateAbbreviation }}</td>
                 <td class="ssid-cell">{{ airport.SSID }}</td>
+                <td class="airport-name-cell">{{ airport.Airport }}</td>
                 <td class="enplanements-cell">{{ airport.Enplanements }}</td>
               </tr>
             </tbody>
@@ -176,13 +176,43 @@ export default {
     hoverCardStyle() {
       if (!this.hoveredAirport) return {};
       
-      // Position the card near the mouse but ensure it stays within viewport
+      // Card dimensions (approximate)
+      const cardWidth = 300;
+      const cardHeight = 200;
       const offsetX = 20;
       const offsetY = 10;
       
+      // Get viewport dimensions
+      const viewportWidth = window.innerWidth;
+      const viewportHeight = window.innerHeight;
+      
+      // Calculate initial position
+      let left = this.mousePosition.x + offsetX;
+      let top = this.mousePosition.y + offsetY;
+      
+      // Check if card would overflow right edge
+      if (left + cardWidth > viewportWidth) {
+        left = this.mousePosition.x - cardWidth - offsetX;
+      }
+      
+      // Check if card would overflow bottom edge
+      if (top + cardHeight > viewportHeight) {
+        top = this.mousePosition.y - cardHeight - offsetY;
+      }
+      
+      // Ensure card doesn't go off the left edge
+      if (left < 0) {
+        left = 10;
+      }
+      
+      // Ensure card doesn't go off the top edge
+      if (top < 0) {
+        top = 10;
+      }
+      
       return {
-        left: `${this.mousePosition.x + offsetX}px`,
-        top: `${this.mousePosition.y + offsetY}px`
+        left: `${left}px`,
+        top: `${top}px`
       };
     }
   },
