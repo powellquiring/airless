@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header class="header">
-      <h1>Airport Visualization</h1>
+      <h1>Airport Terminal WIFI name</h1>
     </header>
     
     <main class="main-content">
@@ -80,7 +80,7 @@
                 <th>IATA</th>
                 <th>City</th>
                 <th>State</th>
-                <th>SSID</th>
+                <th>WIFI Name</th>
                 <th>Airport</th>
                 <th>Enplanements</th>
               </tr>
