@@ -34,7 +34,7 @@ function validateAirports(airports) {
 // Function to fetch airport data from the JSON file
 export async function fetchAirportData() {
   try {
-    const response = await fetch('/airports.json');
+    const response = await fetch('./airports.json');
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
