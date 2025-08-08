@@ -58,17 +58,7 @@
             :key="index"
             class="airport-card"
           >
-            <h3 class="airport-name">{{ airport.Airport }}</h3>
-            <p class="airport-location">{{ airport.City }}, {{ airport.StateAbbreviation }}</p>
-            <div class="airport-codes">
-              <span class="code-item">FAA: {{ airport.FAA }}</span>
-              <span class="code-item">IATA: {{ airport.IATA }}</span>
-              <span class="code-item">ICAO: {{ airport.ICAO }}</span>
-            </div>
-            <p class="airport-ssid"><strong>SSID:</strong> {{ airport.SSID }}</p>
-            <p class="airport-role">Role: {{ airport.Role }}</p>
-            <p class="airport-enplanements">Enplanements: {{ airport.Enplanements }}</p>
-            <p class="airport-state">State: {{ airport.State }}</p>
+            <AirportCard :airport="airport" variant="card" />
           </div>
         </div>
 
@@ -82,7 +72,6 @@
                 <th>State</th>
                 <th>WIFI Name</th>
                 <th>Airport</th>
-                <th>Enplanements</th>
               </tr>
             </thead>
             <tbody>
@@ -98,24 +87,13 @@
                 <td>{{ airport.StateAbbreviation }}</td>
                 <td class="ssid-cell">{{ airport.SSID }}</td>
                 <td class="airport-name-cell">{{ airport.Airport }}</td>
-                <td class="enplanements-cell">{{ airport.Enplanements }}</td>
               </tr>
             </tbody>
           </table>
           
           <!-- Hover Card -->
           <div v-if="hoveredAirport" class="hover-card" :style="hoverCardStyle">
-            <h3 class="hover-card-title">{{ hoveredAirport.Airport }}</h3>
-            <p class="hover-card-location">{{ hoveredAirport.City }}, {{ hoveredAirport.StateAbbreviation }}</p>
-            <div class="hover-card-codes">
-              <span class="hover-code-item">FAA: {{ hoveredAirport.FAA }}</span>
-              <span class="hover-code-item">IATA: {{ hoveredAirport.IATA }}</span>
-              <span class="hover-code-item">ICAO: {{ hoveredAirport.ICAO }}</span>
-            </div>
-            <p class="hover-card-ssid"><strong>SSID:</strong> {{ hoveredAirport.SSID }}</p>
-            <p class="hover-card-role">Role: {{ hoveredAirport.Role }}</p>
-            <p class="hover-card-enplanements">Enplanements: {{ hoveredAirport.Enplanements }}</p>
-            <p class="hover-card-state">State: {{ hoveredAirport.State }}</p>
+            <AirportCard :airport="hoveredAirport" variant="hover" />
           </div>
         </div>
       </div>
@@ -129,9 +107,13 @@
 
 <script>
 import { fetchAirportData } from './data/airports.js'
+import AirportCard from './components/AirportCard.vue'
 
 export default {
   name: 'App',
+  components: {
+    AirportCard
+  },
   data() {
     return {
       airports: [],
@@ -242,6 +224,13 @@ export default {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+:root {
+  --ssid-text-color: #155724;
+  --ssid-bg-color: #d4edda;
+  --ssid-accent-color: #28a745;
+  --ssid-border-color: #c3e6cb;
 }
 
 #app {
@@ -432,14 +421,14 @@ export default {
 }
 
 .airport-ssid {
-  color: #2c3e50;
+  color: var(--ssid-text-color);
   font-size: 1rem;
   font-weight: 500;
   margin-bottom: 0.5rem;
-  background: #e8f4fd;
+  background: var(--ssid-bg-color);
   padding: 0.5rem;
   border-radius: 5px;
-  border-left: 3px solid #667eea;
+  border-left: 3px solid var(--ssid-accent-color);
 }
 
 .airport-state {
@@ -501,12 +490,12 @@ export default {
 
 .ssid-cell {
   font-family: 'Courier New', monospace;
-  background: #e8f4fd;
+  background: var(--ssid-bg-color);
   padding: 0.3rem 0.7rem;
   border-radius: 5px;
-  border: 1px solid #b3d9ff;
+  border: 1px solid var(--ssid-border-color);
   font-size: 0.9rem;
-  color: #2c3e50;
+  color: var(--ssid-text-color);
   font-weight: 500;
 }
 
@@ -572,14 +561,14 @@ export default {
 }
 
 .hover-card-ssid {
-  color: #2c3e50;
+  color: var(--ssid-text-color);
   font-size: 0.9rem;
   font-weight: 500;
   margin-bottom: 0.5rem;
-  background: #e8f4fd;
+  background: var(--ssid-bg-color);
   padding: 0.3rem 0.5rem;
   border-radius: 4px;
-  border-left: 2px solid #667eea;
+  border-left: 2px solid var(--ssid-accent-color);
   font-family: 'Courier New', monospace;
 }
 
