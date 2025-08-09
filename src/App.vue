@@ -93,7 +93,7 @@
                 <td class="code-cell">{{ airport.IATA }}</td>
                 <td>{{ airport.City }}</td>
                 <td>{{ airport.StateAbbreviation }}</td>
-                <td class="ssid-cell">{{ airport.SSID }}</td>
+                <td :style="getSSIDStyle(airport)" style="font-family: 'Courier New', monospace; padding: 0.3rem 0.7rem; border-radius: 5px; border: 1px solid; font-size: 0.9rem; font-weight: 500;">{{ airport.SSID }}</td>
                 <td class="airport-name-cell">{{ airport.Airport }}</td>
               </tr>
             </tbody>
@@ -122,6 +122,7 @@
 import { fetchAirportData } from './data/airports.js'
 import AirportCard from './components/AirportCard.vue'
 import SSIDEditor from './components/SSIDEditor.vue'
+import { getSSIDStyle } from './utils/ssidStyles.js'
 
 export default {
   name: 'App',
@@ -221,6 +222,9 @@ export default {
         x: event.clientX,
         y: event.clientY
       };
+    },
+    getSSIDStyle(airport) {
+      return getSSIDStyle(airport)
     }
   },
   async mounted() {

@@ -1,7 +1,7 @@
 <template>
   <div :class="cardClass">
     <h3 :class="titleClass">{{ airport.Airport }}</h3>
-    <p :class="ssidClass"><strong>SSID:</strong> {{ airport.SSID }}</p>
+    <p :class="ssidClass" :style="ssidStyle"><strong>SSID:</strong> {{ airport.SSID }}</p>
     <p :class="locationClass">{{ airport.City }}, {{ airport.StateAbbreviation }}</p>
     <div :class="codesClass">
       <span :class="codeItemClass">FAA: {{ airport.FAA }}</span>
@@ -11,6 +11,7 @@
     <p :class="roleClass">Role: {{ airport.Role }}</p>
     <p :class="enplanementsClass">Enplanements: {{ airport.Enplanements }}</p>
     <p :class="stateClass">State: {{ airport.State }}</p>
+    <p :class="validClass">Valid: {{ airport.valid }}</p>
   </div>
 </template>
 
@@ -55,6 +56,30 @@ export default {
     },
     stateClass() {
       return this.variant === 'hover' ? 'hover-card-state' : 'airport-state'
+    },
+    validClass() {
+      return this.variant === 'hover' ? 'hover-card-valid' : 'airport-valid'
+    },
+    ssidStyle() {
+      if (this.airport.valid === 1) {
+        return {
+          backgroundColor: '#d4edda',
+          color: '#155724',
+          borderLeftColor: '#28a745'
+        }
+      } else if (this.airport.valid === 0) {
+        return {
+          backgroundColor: '#fff3cd',
+          color: '#856404',
+          borderLeftColor: '#ffc107'
+        }
+      } else {
+        return {
+          backgroundColor: '#f8d7da',
+          color: '#721c24',
+          borderLeftColor: '#dc3545'
+        }
+      }
     }
   }
 }
