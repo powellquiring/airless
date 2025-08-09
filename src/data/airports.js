@@ -28,7 +28,10 @@ function validateAirports(airports) {
     }
     
     return isValid;
-  });
+  }).map(airport => {
+    return { ...airport, valid: 0 }; // Use spread syntax to create a new object and add the new field
+});
+
 }
 
 // Function to fetch airport data from the JSON file
@@ -42,6 +45,24 @@ export async function fetchAirportData() {
     
     // Validate the data structure
     const validatedData = validateAirports(data);
+
+    let retMap = new Map()
+    validatedData.forEach(airport => {
+      retMap.set(airport.IATA, airport)
+    })
+
+    const ssid_response = await fetch('./ssid.json');
+    if (!ssid_response.ok) {
+      throw new Error(`HTTP error! status: ${ssid_response.status}`);
+    }
+    const ssid_data = await ssid_response.json();
+
+
+    ssid_data.forEach(ssid => {
+      retMap.get(ssid.IATA).SSID = ssid.SSID
+      retMap.get(ssid.IATA).valid = 1
+    })
+    
     return validatedData;
     
   } catch (error) {

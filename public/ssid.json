@@ -1,0 +1,15 @@
+[
+    {
+        "IATA": "MSP",
+        "SSID": "MSP Airport WiFi",
+        "Comment": "Terminal 2 verified",
+        "Date": "2025-08-08"
+
+    },
+    {
+        "IATA": "PDX",
+        "SSID": "flypdx",
+        "Comment": "verified",
+        "Date": "2025-08-08"
+    }
+]

@@ -48,6 +48,14 @@
               <span class="toggle-icon">📊</span>
               Table View
             </button>
+            <button 
+              v-if="isLocalhost"
+              @click="currentView = 'ssid'" 
+              :class="['view-toggle-btn', { active: currentView === 'ssid' }]"
+            >
+              <span class="toggle-icon">⚙️</span>
+              SSID Editor
+            </button>
           </div>
         </div>
 
@@ -96,6 +104,11 @@
             <AirportCard :airport="hoveredAirport" variant="hover" />
           </div>
         </div>
+
+        <!-- SSID Editor View -->
+        <div v-else-if="currentView === 'ssid' && isLocalhost">
+          <SSIDEditor />
+        </div>
       </div>
       
       <div v-else class="no-data">
@@ -108,11 +121,13 @@
 <script>
 import { fetchAirportData } from './data/airports.js'
 import AirportCard from './components/AirportCard.vue'
+import SSIDEditor from './components/SSIDEditor.vue'
 
 export default {
   name: 'App',
   components: {
-    AirportCard
+    AirportCard,
+    SSIDEditor
   },
   data() {
     return {
@@ -121,7 +136,8 @@ export default {
       searchTerm: '',
       currentView: 'table',
       hoveredAirport: null,
-      mousePosition: { x: 0, y: 0 }
+      mousePosition: { x: 0, y: 0 },
+      isLocalhost: window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
     }
   },
   computed: {
