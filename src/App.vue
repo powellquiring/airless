@@ -648,11 +648,17 @@ export default {
   .controls-container {
     flex-direction: column;
     gap: 1rem;
+    padding: 1rem; /* Reduced from 1.5rem */
   }
   
   .search-input {
-    font-size: 1rem;
-    padding: 0.8rem;
+    font-size: 0.9rem; /* Reduced from 1rem */
+    padding: 0.6rem; /* Reduced from 0.8rem */
+  }
+
+  .search-info {
+    font-size: 0.8rem; /* Reduced from 0.9rem */
+    margin-top: 0.3rem; /* Reduced from 0.5rem */
   }
 
   .view-toggle-container {
@@ -664,6 +670,29 @@ export default {
   .view-toggle-btn {
     flex: 1;
     justify-content: center;
+    padding: 0.6rem 1rem; /* Reduced padding */
+    font-size: 0.8rem; /* Reduced font size */
+  }
+}
+
+/* Extra small phones */
+@media (max-width: 480px) {
+  .controls-container {
+    padding: 0.8rem;
+  }
+  
+  .search-input {
+    font-size: 0.85rem;
+    padding: 0.5rem;
+  }
+  
+  .search-info {
+    font-size: 0.75rem;
+  }
+  
+  .view-toggle-btn {
+    padding: 0.5rem 0.8rem;
+    font-size: 0.75rem;
   }
 }
 </style>
